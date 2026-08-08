@@ -1,0 +1,3671 @@
+{
+    "versao": "1.0",
+    "geradoEm": "2026-08-08T04:41:35.716Z",
+    "totalProdutos": 57,
+    "produtos": [
+        {
+            "codigo": "045672",
+            "ean": "7896007553563",
+            "descricaoOriginal": "ABS INTIMUS NOTURNO EXTRA PROTECAO COBERT SUAVE 45UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página11",
+            "descricaoPesquisa": "ABS INTIMUS NOTURNO EXTRA PROTECAO COBERT SUAVE 45UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Noturno Extra Protecao Cobert Suave 45und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "45",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "36,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "27,69",
+            "estoque": "1",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896007553563",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS NOTURNO EXTRA PROTECAO COBERT SUAVE 45UND 45 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS NOTURNO EXTRA PROTECAO COBERT SUAVE 45UND",
+                    "45 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.206Z",
+            "atualizadoEm": "2026-08-08T04:41:01.206Z"
+        },
+        {
+            "codigo": "038589",
+            "ean": "7891800647341",
+            "descricaoOriginal": "ABS SEIO CREMER 30 UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "CREMER",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página14",
+            "descricaoPesquisa": "ABS SEIO CREMER 30 UN",
+            "descricaoPesquisaRefinada": "Abs Seio Cremer 30 Un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "30",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "CREME",
+            "palavrasChave": [],
+            "precoVenda": "26,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "17,92",
+            "estoque": "1",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891800647341",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS SEIO CREMER 30 UN CREME 30 unidades CREMER embalagem",
+                "palavras": [
+                    "ABS SEIO CREMER 30 UN",
+                    "CREME",
+                    "30 unidades",
+                    "CREMER",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 60,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Espaços e caracteres desnecessários removidos."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 60%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.209Z",
+            "atualizadoEm": "2026-08-08T04:41:01.209Z"
+        },
+        {
+            "codigo": "040470",
+            "ean": "7896007546022",
+            "descricaoOriginal": "ABS PROT DIA INTIMUS C/PERF L80P60UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "UNILEVER",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página15",
+            "descricaoPesquisa": "ABS PROT DIA INTIMUS C/PERF L80P60UN",
+            "descricaoPesquisaRefinada": "Abs Prot Dia Intimus Com/Perf L80p60un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "60",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "24,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "15,66",
+            "estoque": "1",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896007546022",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS PROT DIA INTIMUS C/PERF L80P60UN 60 unidades UNILEVER embalagem",
+                "palavras": [
+                    "ABS PROT DIA INTIMUS C/PERF L80P60UN",
+                    "60 unidades",
+                    "UNILEVER",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.210Z",
+            "atualizadoEm": "2026-08-08T04:41:01.210Z"
+        },
+        {
+            "codigo": "029869",
+            "ean": "7896007542482",
+            "descricaoOriginal": "ABS INTIMUS DIARIO C/40",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página26",
+            "descricaoPesquisa": "ABS INTIMUS DIARIO C/40",
+            "descricaoPesquisaRefinada": "Abs Intimus Diario Com/40",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "40",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "14,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "9,40",
+            "estoque": "1",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896007542482",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS DIARIO C/40 40 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS DIARIO C/40",
+                    "40 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.229Z",
+            "atualizadoEm": "2026-08-08T04:41:01.229Z"
+        },
+        {
+            "codigo": "036527",
+            "ean": "7891010245597",
+            "descricaoOriginal": "O.B MINI C/8",
+            "classe": "PERFUMARIA",
+            "laboratorio": "INSERIDOS",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página35",
+            "descricaoPesquisa": "O.B MINI C/8",
+            "descricaoPesquisaRefinada": "O.B Mini Com/8",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "10,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,94",
+            "estoque": "1",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010245597",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "O.B MINI C/8 8 unidades INSERIDOS embalagem",
+                "palavras": [
+                    "O.B MINI C/8",
+                    "8 unidades",
+                    "INSERIDOS",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.242Z",
+            "atualizadoEm": "2026-08-08T04:41:01.242Z"
+        },
+        {
+            "codigo": "036528",
+            "ean": "7891010245092",
+            "descricaoOriginal": "O.B SUPER LEVE 16",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página35",
+            "descricaoPesquisa": "O.B SUPER LEVE 16",
+            "descricaoPesquisaRefinada": "O.B Super Leve 16",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "21,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "13,28",
+            "estoque": "1",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010245092",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "O.B SUPER LEVE 16 JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "O.B SUPER LEVE 16",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 40,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 40%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.242Z",
+            "atualizadoEm": "2026-08-08T04:41:01.242Z"
+        },
+        {
+            "codigo": "020205",
+            "ean": "7891010031633",
+            "descricaoOriginal": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 8 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página43",
+            "descricaoPesquisa": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 8 UND",
+            "descricaoPesquisaRefinada": "Abs Com Abas Suave Sempre Livre Adapt Plus 8 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "7,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "4,76",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010031633",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 8 UND 8 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 8 UND",
+                    "8 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.252Z",
+            "atualizadoEm": "2026-08-08T04:41:01.252Z"
+        },
+        {
+            "codigo": "029336",
+            "ean": "7896007550883",
+            "descricaoOriginal": "ABS INTIMUS NOTUR COBERTURA SUAVE COM ABAS COM 16 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página46",
+            "descricaoPesquisa": "ABS INTIMUS NOTUR COBERTURA SUAVE COM ABAS COM 16 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Notur Cobertura Suave Com Abas Com 16 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "19,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "13,73",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896007550883",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS NOTUR COBERTURA SUAVE COM ABAS COM 16 UND 16 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS NOTUR COBERTURA SUAVE COM ABAS COM 16 UND",
+                    "16 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.255Z",
+            "atualizadoEm": "2026-08-08T04:41:01.255Z"
+        },
+        {
+            "codigo": "025419",
+            "ean": "7500435127288",
+            "descricaoOriginal": "ABS ALWAYS SUPER PROT.SECO C/32",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página48",
+            "descricaoPesquisa": "ABS ALWAYS SUPER PROT.SECO C/32",
+            "descricaoPesquisaRefinada": "Abs Always Super Prot.Seco Com/32",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "32",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "19,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "12,08",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7500435127288",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS ALWAYS SUPER PROT.SECO C/32 32 unidades P&G embalagem",
+                "palavras": [
+                    "ABS ALWAYS SUPER PROT.SECO C/32",
+                    "32 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.257Z",
+            "atualizadoEm": "2026-08-08T04:41:01.257Z"
+        },
+        {
+            "codigo": "033426",
+            "ean": "7506309805498",
+            "descricaoOriginal": "ABS HIG ALWAYS NOT SC C/ABA HIPER 10UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "UNILEVER",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página52",
+            "descricaoPesquisa": "ABS HIG ALWAYS NOT SC C/ABA HIPER 10UN",
+            "descricaoPesquisaRefinada": "Abs Hig Always Not Sc Com/Aba Hiper 10un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "10",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "51,95",
+            "precoPromocao": "0,00",
+            "precoCusto": "32,13",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7506309805498",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS HIG ALWAYS NOT SC C/ABA HIPER 10UN 10 unidades UNILEVER embalagem",
+                "palavras": [
+                    "ABS HIG ALWAYS NOT SC C/ABA HIPER 10UN",
+                    "10 unidades",
+                    "UNILEVER",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.261Z",
+            "atualizadoEm": "2026-08-08T04:41:01.261Z"
+        },
+        {
+            "codigo": "034240",
+            "ean": "7896007545094",
+            "descricaoOriginal": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 16UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página56",
+            "descricaoPesquisa": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 16UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Tripla Prote Cobert Suave Com Abas 16und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "10,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "6,89",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896007545094",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 16UND 16 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 16UND",
+                    "16 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.265Z",
+            "atualizadoEm": "2026-08-08T04:41:01.265Z"
+        },
+        {
+            "codigo": "034311",
+            "ean": "7891010254155",
+            "descricaoOriginal": "ABS S LIVRE ADAPT ABAS 32UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página56",
+            "descricaoPesquisa": "ABS S LIVRE ADAPT ABAS 32UN",
+            "descricaoPesquisaRefinada": "Abs S Livre Adapt Abas 32un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "32",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "19,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "12,40",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010254155",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS S LIVRE ADAPT ABAS 32UN 32 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "ABS S LIVRE ADAPT ABAS 32UN",
+                    "32 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.265Z",
+            "atualizadoEm": "2026-08-08T04:41:01.265Z"
+        },
+        {
+            "codigo": "024198",
+            "ean": "7891010039783",
+            "descricaoOriginal": "PROTETOR DIARIO CAREFREE TODO DIA C/40 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página56",
+            "descricaoPesquisa": "PROTETOR DIARIO CAREFREE TODO DIA C/40 UND",
+            "descricaoPesquisaRefinada": "Protetor Diario Carefree Todo Dia Com/40 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "40",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "17,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "11,34",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010039783",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "PROTETOR DIARIO CAREFREE TODO DIA C/40 UND 40 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "PROTETOR DIARIO CAREFREE TODO DIA C/40 UND",
+                    "40 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.265Z",
+            "atualizadoEm": "2026-08-08T04:41:01.265Z"
+        },
+        {
+            "codigo": "023468",
+            "ean": "7896007546039",
+            "descricaoOriginal": "INTIMUS PROT.DIARIO L/80",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página61",
+            "descricaoPesquisa": "INTIMUS PROT.DIARIO L/80",
+            "descricaoPesquisaRefinada": "Intimus Prot.Diario L/80",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "24,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "15,66",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896007546039",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "INTIMUS PROT.DIARIO L/80 KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "INTIMUS PROT.DIARIO L/80",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 40,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 40%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.272Z",
+            "atualizadoEm": "2026-08-08T04:41:01.272Z"
+        },
+        {
+            "codigo": "027188",
+            "ean": "7891010579616",
+            "descricaoOriginal": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 16 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "DIVCOM PHARMA",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página62",
+            "descricaoPesquisa": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 16 UND",
+            "descricaoPesquisaRefinada": "Abs Com Abas Suave Sempre Livre Adapt Plus 16 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "14,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "8,90",
+            "estoque": "2",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010579616",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 16 UND 16 unidades DIVCOM PHARMA embalagem",
+                "palavras": [
+                    "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT PLUS 16 UND",
+                    "16 unidades",
+                    "DIVCOM PHARMA",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.273Z",
+            "atualizadoEm": "2026-08-08T04:41:01.273Z"
+        },
+        {
+            "codigo": "027186",
+            "ean": "7891010618773",
+            "descricaoOriginal": "ABS CAREFRE FLEX S-P S-A 40UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "DM",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página66",
+            "descricaoPesquisa": "ABS CAREFRE FLEX S-P S-A 40UN",
+            "descricaoPesquisaRefinada": "Abs Carefre Flex S-P S-A 40un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "40",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "20,95",
+            "precoPromocao": "0,00",
+            "precoCusto": "12,20",
+            "estoque": "3",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010618773",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS CAREFRE FLEX S-P S-A 40UN 40 unidades DM embalagem",
+                "palavras": [
+                    "ABS CAREFRE FLEX S-P S-A 40UN",
+                    "40 unidades",
+                    "DM",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.276Z",
+            "atualizadoEm": "2026-08-08T04:41:01.276Z"
+        },
+        {
+            "codigo": "024207",
+            "ean": "7891010886547",
+            "descricaoOriginal": "O.B MEDIO C/10UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página68",
+            "descricaoPesquisa": "O.B MEDIO C/10UND",
+            "descricaoPesquisaRefinada": "O.B Medio Com/10und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "10",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "12,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,80",
+            "estoque": "3",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010886547",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "O.B MEDIO C/10UND 10 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "O.B MEDIO C/10UND",
+                    "10 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.278Z",
+            "atualizadoEm": "2026-08-08T04:41:01.278Z"
+        },
+        {
+            "codigo": "028228",
+            "ean": "7891010875596",
+            "descricaoOriginal": "PROTETOR DIARIO CAREFREE PROTECAO SEM PERFUME 40 UNID",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página68",
+            "descricaoPesquisa": "PROTETOR DIARIO CAREFREE PROTECAO SEM PERFUME 40 UNID",
+            "descricaoPesquisaRefinada": "Protetor Diario Carefree Protecao Sem Perfume 40 Unid",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "40",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "17,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "11,34",
+            "estoque": "3",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010875596",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "PROTETOR DIARIO CAREFREE PROTECAO SEM PERFUME 40 UNID 40 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "PROTETOR DIARIO CAREFREE PROTECAO SEM PERFUME 40 UNID",
+                    "40 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.278Z",
+            "atualizadoEm": "2026-08-08T04:41:01.278Z"
+        },
+        {
+            "codigo": "042521",
+            "ean": "7500435214650",
+            "descricaoOriginal": "ABS ALWAYS NOTURNO XG C/26UNID",
+            "classe": "PERFUMARIA",
+            "laboratorio": "OUTROS",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página70",
+            "descricaoPesquisa": "ABS ALWAYS NOTURNO XG C/26UNID",
+            "descricaoPesquisaRefinada": "Abs Always Noturno Xg Com/26unid",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "26",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "39,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "23,74",
+            "estoque": "3",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7500435214650",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS ALWAYS NOTURNO XG C/26UNID 26 unidades OUTROS embalagem",
+                "palavras": [
+                    "ABS ALWAYS NOTURNO XG C/26UNID",
+                    "26 unidades",
+                    "OUTROS",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.280Z",
+            "atualizadoEm": "2026-08-08T04:41:01.280Z"
+        },
+        {
+            "codigo": "034243",
+            "ean": "7891010704780",
+            "descricaoOriginal": "ABS SEMPRE LIVRE ADAPT SUAVE C/ABAS C/32 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página71",
+            "descricaoPesquisa": "ABS SEMPRE LIVRE ADAPT SUAVE C/ABAS C/32 UND",
+            "descricaoPesquisaRefinada": "Abs Sempre Livre Adapt Suave Com/Abas Com/32 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "32",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "22,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "14,98",
+            "estoque": "3",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010704780",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS SEMPRE LIVRE ADAPT SUAVE C/ABAS C/32 UND 32 unidades P&G embalagem",
+                "palavras": [
+                    "ABS SEMPRE LIVRE ADAPT SUAVE C/ABAS C/32 UND",
+                    "32 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.281Z",
+            "atualizadoEm": "2026-08-08T04:41:01.281Z"
+        },
+        {
+            "codigo": "034937",
+            "ean": "7891010604349",
+            "descricaoOriginal": "PROTETOR DIARIO CAREFREE TODO DIA SEM/PERF C/80 UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página72",
+            "descricaoPesquisa": "PROTETOR DIARIO CAREFREE TODO DIA SEM/PERF C/80 UN",
+            "descricaoPesquisaRefinada": "Protetor Diario Carefree Todo Dia Sem/Perf Com/80 Un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "80",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "29,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "18,97",
+            "estoque": "3",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010604349",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "PROTETOR DIARIO CAREFREE TODO DIA SEM/PERF C/80 UN 80 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "PROTETOR DIARIO CAREFREE TODO DIA SEM/PERF C/80 UN",
+                    "80 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Espaços e caracteres desnecessários removidos."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.281Z",
+            "atualizadoEm": "2026-08-08T04:41:01.281Z"
+        },
+        {
+            "codigo": "040903",
+            "ean": "7896061980169",
+            "descricaoOriginal": "ABS NORMAL LADYSOFT C/ABAS L20 P16",
+            "classe": "PERFUMARIA",
+            "laboratorio": "SOFTYS",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página80",
+            "descricaoPesquisa": "ABS NORMAL LADYSOFT C/ABAS L20 P16",
+            "descricaoPesquisaRefinada": "Abs Normal Ladysoft Com/Abas L20 P16",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "7,99",
+            "precoPromocao": "3,99",
+            "precoCusto": "5,84",
+            "estoque": "4",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896061980169",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS NORMAL LADYSOFT C/ABAS L20 P16 SOFTYS embalagem",
+                "palavras": [
+                    "ABS NORMAL LADYSOFT C/ABAS L20 P16",
+                    "SOFTYS",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 40,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 40%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.291Z",
+            "atualizadoEm": "2026-08-08T04:41:01.291Z"
+        },
+        {
+            "codigo": "027189",
+            "ean": "7891010694593",
+            "descricaoOriginal": "ABS SEMPRE LIVRE NOTURNO SECA C/8UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página80",
+            "descricaoPesquisa": "ABS SEMPRE LIVRE NOTURNO SECA C/8UND",
+            "descricaoPesquisaRefinada": "Abs Sempre Livre Noturno Seca Com/8und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "12,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,24",
+            "estoque": "4",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7891010694593",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS SEMPRE LIVRE NOTURNO SECA C/8UND 8 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "ABS SEMPRE LIVRE NOTURNO SECA C/8UND",
+                    "8 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.291Z",
+            "atualizadoEm": "2026-08-08T04:41:01.291Z"
+        },
+        {
+            "codigo": "026237",
+            "ean": "7896007542857",
+            "descricaoOriginal": "ABS INTERNO INTIMUS MINI COM 16 UNIDADES",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página83",
+            "descricaoPesquisa": "ABS INTERNO INTIMUS MINI COM 16 UNIDADES",
+            "descricaoPesquisaRefinada": "Abs Interno Intimus Mini Com 16 Unidades",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "21,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "14,31",
+            "estoque": "4",
+            "imagem": "https://cdn-cosmos.bluesoft.com.br/products/7896007542857",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTERNO INTIMUS MINI COM 16 UNIDADES 16 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTERNO INTIMUS MINI COM 16 UNIDADES",
+                    "16 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.294Z",
+            "atualizadoEm": "2026-08-08T04:41:01.294Z"
+        },
+        {
+            "codigo": "023698",
+            "ean": "7896007542499",
+            "descricaoOriginal": "INTIMUS PROT.DIARIO C/40",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página84",
+            "descricaoPesquisa": "INTIMUS PROT.DIARIO C/40",
+            "descricaoPesquisaRefinada": "Intimus Prot.Diario Com/40",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "40",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "14,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "9,40",
+            "estoque": "4",
+            "imagem": "blob:http://localhost:5173/8a934ff3-b8eb-45a7-a109-86255c34f432",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "INTIMUS PROT.DIARIO C/40 40 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "INTIMUS PROT.DIARIO C/40",
+                    "40 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.295Z",
+            "atualizadoEm": "2026-08-08T04:41:01.295Z"
+        },
+        {
+            "codigo": "023469",
+            "ean": "7896007544042",
+            "descricaoOriginal": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 32 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página84",
+            "descricaoPesquisa": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 32 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Tripla Prote Cobert Suave Com Abas 32 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "32",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "20,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "11,01",
+            "estoque": "4",
+            "imagem": "blob:http://localhost:5173/531fe40b-0666-40ed-a6d9-95bebf7050e7",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 32 UND 32 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS TRIPLA PROTE COBERT SUAVE COM ABAS 32 UND",
+                    "32 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.295Z",
+            "atualizadoEm": "2026-08-08T04:41:01.295Z"
+        },
+        {
+            "codigo": "031104",
+            "ean": "7500435127233",
+            "descricaoOriginal": "ABS COM ABAS SECA ALWAYS PEQUENO PACOTE 16 UNID",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página88",
+            "descricaoPesquisa": "ABS COM ABAS SECA ALWAYS PEQUENO PACOTE 16 UNID",
+            "descricaoPesquisaRefinada": "Abs Com Abas Seca Always Pequeno Pacote 16 Unid",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "11,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,42",
+            "estoque": "4",
+            "imagem": "blob:http://localhost:5173/d64a3731-4a1f-4989-b707-999a21779438",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS COM ABAS SECA ALWAYS PEQUENO PACOTE 16 UNID 16 unidades P&G embalagem",
+                "palavras": [
+                    "ABS COM ABAS SECA ALWAYS PEQUENO PACOTE 16 UNID",
+                    "16 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.298Z",
+            "atualizadoEm": "2026-08-08T04:41:01.298Z"
+        },
+        {
+            "codigo": "018811",
+            "ean": "7891010015268",
+            "descricaoOriginal": "ABS CAREFREE PROT NEUTRALIZE C/15",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página90",
+            "descricaoPesquisa": "ABS CAREFREE PROT NEUTRALIZE C/15",
+            "descricaoPesquisaRefinada": "Abs Carefree Prot Neutralize Com/15",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "15",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "9,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "6,06",
+            "estoque": "5",
+            "imagem": "blob:http://localhost:5173/e5e8ce5e-3309-4d74-9579-f0c2d96e7dae",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS CAREFREE PROT NEUTRALIZE C/15 15 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS CAREFREE PROT NEUTRALIZE C/15",
+                    "15 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.300Z",
+            "atualizadoEm": "2026-08-08T04:41:01.300Z"
+        },
+        {
+            "codigo": "043139",
+            "ean": "7891010087722",
+            "descricaoOriginal": "PROTETOR DIARIO SEM ABAS CAREFREE PROTECAO PACOTE 15 UNID",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página90",
+            "descricaoPesquisa": "PROTETOR DIARIO SEM ABAS CAREFREE PROTECAO PACOTE 15 UNID",
+            "descricaoPesquisaRefinada": "Protetor Diario Sem Abas Carefree Protecao Pacote 15 Unid",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "15",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "9,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "6,06",
+            "estoque": "5",
+            "imagem": "blob:http://localhost:5173/e1dd31c1-1a08-46c4-a979-f4dcbf9e3af0",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "PROTETOR DIARIO SEM ABAS CAREFREE PROTECAO PACOTE 15 UNID 15 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "PROTETOR DIARIO SEM ABAS CAREFREE PROTECAO PACOTE 15 UNID",
+                    "15 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.301Z",
+            "atualizadoEm": "2026-08-08T04:41:01.301Z"
+        },
+        {
+            "codigo": "018810",
+            "ean": "7891010087807",
+            "descricaoOriginal": "PROTETOR DIARIO SEM ABAS CAREFREE TODODIA PACOTE 15 UNID",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página91",
+            "descricaoPesquisa": "PROTETOR DIARIO SEM ABAS CAREFREE TODODIA PACOTE 15 UNID",
+            "descricaoPesquisaRefinada": "Protetor Diario Sem Abas Carefree Tododia Pacote 15 Unid",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "15",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "9,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "6,06",
+            "estoque": "5",
+            "imagem": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxpPf2LRptYI0aqqONBN01wwmw-iYL0v9XVfDFlHMG-psVbW70T6EoL7XR18q1oHI7VwOKNzCfSMnXgaIe2F5DKLmi3u_Jsev5Th08tZ3OlNSda6goPyeLih-0tSasO_ViRCL9OCKDPs0&usqp=CAc",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "PROTETOR DIARIO SEM ABAS CAREFREE TODODIA PACOTE 15 UNID 15 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "PROTETOR DIARIO SEM ABAS CAREFREE TODODIA PACOTE 15 UNID",
+                    "15 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.301Z",
+            "atualizadoEm": "2026-08-08T04:41:01.301Z"
+        },
+        {
+            "codigo": "038976",
+            "ean": "7891010245610",
+            "descricaoOriginal": "ABS INTERNO OB SUPER C/8UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "INSERIDOS",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página91",
+            "descricaoPesquisa": "ABS INTERNO OB SUPER C/8UN",
+            "descricaoPesquisaRefinada": "Abs Interno Ob Super Com/8un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "10,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,98",
+            "estoque": "5",
+            "imagem": "blob:http://localhost:5173/c0efa666-c575-489c-bd0f-8ba97f183a88",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTERNO OB SUPER C/8UN 8 unidades INSERIDOS embalagem",
+                "palavras": [
+                    "ABS INTERNO OB SUPER C/8UN",
+                    "8 unidades",
+                    "INSERIDOS",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.301Z",
+            "atualizadoEm": "2026-08-08T04:41:01.301Z"
+        },
+        {
+            "codigo": "045673",
+            "ean": "7896007553662",
+            "descricaoOriginal": "ABS INTIMUS NOTURNO COBERTURA SECA COM ABAS 45UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página92",
+            "descricaoPesquisa": "ABS INTIMUS NOTURNO COBERTURA SECA COM ABAS 45UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Noturno Cobertura Seca Com Abas 45und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "45",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "34,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "26,99",
+            "estoque": "5",
+            "imagem": "blob:http://localhost:5173/5e33f5dd-91d4-4101-8dcc-2eb6cfde1b23",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS NOTURNO COBERTURA SECA COM ABAS 45UND 45 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS NOTURNO COBERTURA SECA COM ABAS 45UND",
+                    "45 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.302Z",
+            "atualizadoEm": "2026-08-08T04:41:01.302Z"
+        },
+        {
+            "codigo": "041145",
+            "ean": "7500435214667",
+            "descricaoOriginal": "ABS ALWAYS NOT EXTRA G C/8 C/A",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página93",
+            "descricaoPesquisa": "ABS ALWAYS NOT EXTRA G C/8 C/A",
+            "descricaoPesquisaRefinada": "Abs Always Not Extra G Com/8 Com/A",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "14,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "9,55",
+            "estoque": "5",
+            "imagem": "blob:http://localhost:5173/bd530c4f-d60b-4cc9-809d-65bc62bb16a1",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS ALWAYS NOT EXTRA G C/8 C/A 8 unidades P&G embalagem",
+                "palavras": [
+                    "ABS ALWAYS NOT EXTRA G C/8 C/A",
+                    "8 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.303Z",
+            "atualizadoEm": "2026-08-08T04:41:01.303Z"
+        },
+        {
+            "codigo": "019684",
+            "ean": "7891010503031",
+            "descricaoOriginal": "ABS SEMPRE LIVRE ESPEVIAL S/A",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página99",
+            "descricaoPesquisa": "ABS SEMPRE LIVRE ESPEVIAL S/A",
+            "descricaoPesquisaRefinada": "Abs Sempre Livre Espevial S/A",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "5,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "3,45",
+            "estoque": "6",
+            "imagem": "blob:http://localhost:5173/d09eb979-58bb-44ae-9053-63b9a3046a2c",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS SEMPRE LIVRE ESPEVIAL S/A JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "ABS SEMPRE LIVRE ESPEVIAL S/A",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 40,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 40%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.308Z",
+            "atualizadoEm": "2026-08-08T04:41:01.308Z"
+        },
+        {
+            "codigo": "042047",
+            "ean": "7500435233446",
+            "descricaoOriginal": "ABS ALWAYS NOITE G SUAVE C/A 10UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "OUTROS",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página100",
+            "descricaoPesquisa": "ABS ALWAYS NOITE G SUAVE C/A 10UN",
+            "descricaoPesquisaRefinada": "Abs Always Noite G Suave Com/A 10un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "10",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "12,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "8,22",
+            "estoque": "6",
+            "imagem": "blob:http://localhost:5173/a3753f8f-59a1-424f-ab56-d12c3b14ce8b",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS ALWAYS NOITE G SUAVE C/A 10UN 10 unidades OUTROS embalagem",
+                "palavras": [
+                    "ABS ALWAYS NOITE G SUAVE C/A 10UN",
+                    "10 unidades",
+                    "OUTROS",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.310Z",
+            "atualizadoEm": "2026-08-08T04:41:01.310Z"
+        },
+        {
+            "codigo": "034238",
+            "ean": "7891010010577",
+            "descricaoOriginal": "O.B SUPER C/10 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página100",
+            "descricaoPesquisa": "O.B SUPER C/10 UND",
+            "descricaoPesquisaRefinada": "O.B Super Com/10 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "10",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "13,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,78",
+            "estoque": "6",
+            "imagem": "blob:http://localhost:5173/6f270d5f-18c5-4dcc-8e00-873d0b98e9f6",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "O.B SUPER C/10 UND 10 unidades P&G embalagem",
+                "palavras": [
+                    "O.B SUPER C/10 UND",
+                    "10 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.310Z",
+            "atualizadoEm": "2026-08-08T04:41:01.310Z"
+        },
+        {
+            "codigo": "024030",
+            "ean": "7506339325263",
+            "descricaoOriginal": "ABS ALWAYS NOTURNO SECA C/ABAS C/32 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página101",
+            "descricaoPesquisa": "ABS ALWAYS NOTURNO SECA C/ABAS C/32 UND",
+            "descricaoPesquisaRefinada": "Abs Always Noturno Seca Com/Abas Com/32 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "32",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "34,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "23,39",
+            "estoque": "6",
+            "imagem": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT4nYufZsyRvchm43I1Xg1BRrbFnqckQ6foCWqrgVPK7VfvFhE0J5P1H9lIIq_WGElUaK09fOGBeWyGeEZxz6TTiEy-5pK32hRfGV0JqxKdzT9XEhbLywKE7--eQlShkCxvGSNbgA&usqp=CAc",
+            "statusImagem": "salva",
+            "pesquisaImagem": {
+                "principal": "ABS ALWAYS NOTURNO SECA C/ABAS C/32 UND 32 unidades P&G embalagem",
+                "palavras": [
+                    "ABS ALWAYS NOTURNO SECA C/ABAS C/32 UND",
+                    "32 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 50,
+            "diagnostico": "Necessita revisão",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 50%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.310Z",
+            "atualizadoEm": "2026-08-08T04:41:01.310Z"
+        },
+        {
+            "codigo": "036526",
+            "ean": "7891010245085",
+            "descricaoOriginal": "O.B LEVE 16",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página104",
+            "descricaoPesquisa": "O.B LEVE 16",
+            "descricaoPesquisaRefinada": "O.B Leve 16",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "21,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "13,31",
+            "estoque": "7",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "O.B LEVE 16 JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "O.B LEVE 16",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 20,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 20%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.314Z",
+            "atualizadoEm": "2026-08-08T04:41:01.314Z"
+        },
+        {
+            "codigo": "024190",
+            "ean": "7506339394603",
+            "descricaoOriginal": "ALWAYS NOTURNO SUAVE C/ABAS",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página106",
+            "descricaoPesquisa": "ALWAYS NOTURNO SUAVE C/ABAS",
+            "descricaoPesquisaRefinada": "Always Noturno Suave Com/Abas",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "12,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,65",
+            "estoque": "7",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ALWAYS NOTURNO SUAVE C/ABAS P&G embalagem",
+                "palavras": [
+                    "ALWAYS NOTURNO SUAVE C/ABAS",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 20,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 20%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.315Z",
+            "atualizadoEm": "2026-08-08T04:41:01.315Z"
+        },
+        {
+            "codigo": "023619",
+            "ean": "7896007544059",
+            "descricaoOriginal": "ABS INTIMUS TRIPLA PROTE COBERT SECA COM ABAS 32 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página106",
+            "descricaoPesquisa": "ABS INTIMUS TRIPLA PROTE COBERT SECA COM ABAS 32 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Tripla Prote Cobert Seca Com Abas 32 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "32",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "16,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "11,01",
+            "estoque": "7",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS TRIPLA PROTE COBERT SECA COM ABAS 32 UND 32 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS TRIPLA PROTE COBERT SECA COM ABAS 32 UND",
+                    "32 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.315Z",
+            "atualizadoEm": "2026-08-08T04:41:01.315Z"
+        },
+        {
+            "codigo": "031103",
+            "ean": "7506339326031",
+            "descricaoOriginal": "ABS C/ ABAS SECA ALWAYS G 16UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página106",
+            "descricaoPesquisa": "ABS C/ ABAS SECA ALWAYS G 16UN",
+            "descricaoPesquisaRefinada": "Abs Com/ Abas Seca Always G 16un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "22,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "13,40",
+            "estoque": "7",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS C/ ABAS SECA ALWAYS G 16UN 16 unidades P&G embalagem",
+                "palavras": [
+                    "ABS C/ ABAS SECA ALWAYS G 16UN",
+                    "16 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.315Z",
+            "atualizadoEm": "2026-08-08T04:41:01.315Z"
+        },
+        {
+            "codigo": "046810",
+            "ean": "7500435250559",
+            "descricaoOriginal": "ABS ALWAYS SECA NOT ULTRAFINO G C/8",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página108",
+            "descricaoPesquisa": "ABS ALWAYS SECA NOT ULTRAFINO G C/8",
+            "descricaoPesquisaRefinada": "Abs Always Seca Not Ultrafino G Com/8",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "19,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "9,39",
+            "estoque": "8",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS ALWAYS SECA NOT ULTRAFINO G C/8 8 unidades P&G embalagem",
+                "palavras": [
+                    "ABS ALWAYS SECA NOT ULTRAFINO G C/8",
+                    "8 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.317Z",
+            "atualizadoEm": "2026-08-08T04:41:01.317Z"
+        },
+        {
+            "codigo": "031105",
+            "ean": "7500435127257",
+            "descricaoOriginal": "ABS COM ABAS SUAVE ALWAYS PEQUENO PACOTE 16 UNID",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página111",
+            "descricaoPesquisa": "ABS COM ABAS SUAVE ALWAYS PEQUENO PACOTE 16 UNID",
+            "descricaoPesquisaRefinada": "Abs Com Abas Suave Always Pequeno Pacote 16 Unid",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "11,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,67",
+            "estoque": "10",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS COM ABAS SUAVE ALWAYS PEQUENO PACOTE 16 UNID 16 unidades P&G embalagem",
+                "palavras": [
+                    "ABS COM ABAS SUAVE ALWAYS PEQUENO PACOTE 16 UNID",
+                    "16 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.320Z",
+            "atualizadoEm": "2026-08-08T04:41:01.320Z"
+        },
+        {
+            "codigo": "034612",
+            "ean": "7896064487016",
+            "descricaoOriginal": "ABS GERIAMAX 20UN GERIAT",
+            "classe": "PERFUMARIA",
+            "laboratorio": "OUTROS",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página112",
+            "descricaoPesquisa": "ABS GERIAMAX 20UN GERIAT",
+            "descricaoPesquisaRefinada": "Abs Geriamax 20un Geriat",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "20",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "19,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "14,41",
+            "estoque": "10",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS GERIAMAX 20UN GERIAT 20 unidades OUTROS embalagem",
+                "palavras": [
+                    "ABS GERIAMAX 20UN GERIAT",
+                    "20 unidades",
+                    "OUTROS",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.323Z",
+            "atualizadoEm": "2026-08-08T04:41:01.323Z"
+        },
+        {
+            "codigo": "019811",
+            "ean": "7896007541874",
+            "descricaoOriginal": "ABS INTERNO INTIMUS DISCRETO SUPER 8 UNIDADES",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página112",
+            "descricaoPesquisa": "ABS INTERNO INTIMUS DISCRETO SUPER 8 UNIDADES",
+            "descricaoPesquisaRefinada": "Abs Interno Intimus Discreto Super 8 Unidades",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "11,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "6,94",
+            "estoque": "10",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTERNO INTIMUS DISCRETO SUPER 8 UNIDADES 8 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTERNO INTIMUS DISCRETO SUPER 8 UNIDADES",
+                    "8 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.323Z",
+            "atualizadoEm": "2026-08-08T04:41:01.323Z"
+        },
+        {
+            "codigo": "024191",
+            "ean": "7506339394535",
+            "descricaoOriginal": "ALWAYS NOTURNO SECA C/ABAS C/8UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página112",
+            "descricaoPesquisa": "ALWAYS NOTURNO SECA C/ABAS C/8UND",
+            "descricaoPesquisaRefinada": "Always Noturno Seca Com/Abas Com/8und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "12,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,65",
+            "estoque": "10",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ALWAYS NOTURNO SECA C/ABAS C/8UND 8 unidades P&G embalagem",
+                "palavras": [
+                    "ALWAYS NOTURNO SECA C/ABAS C/8UND",
+                    "8 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.323Z",
+            "atualizadoEm": "2026-08-08T04:41:01.323Z"
+        },
+        {
+            "codigo": "034242",
+            "ean": "7891010793463",
+            "descricaoOriginal": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT 16 UNID",
+            "classe": "PERFUMARIA",
+            "laboratorio": "JOHNSON & JOHNSON",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página115",
+            "descricaoPesquisa": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT 16 UNID",
+            "descricaoPesquisaRefinada": "Abs Com Abas Suave Sempre Livre Adapt 16 Unid",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "11,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,39",
+            "estoque": "11",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT 16 UNID 16 unidades JOHNSON & JOHNSON embalagem",
+                "palavras": [
+                    "ABS COM ABAS SUAVE SEMPRE LIVRE ADAPT 16 UNID",
+                    "16 unidades",
+                    "JOHNSON & JOHNSON",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.325Z",
+            "atualizadoEm": "2026-08-08T04:41:01.325Z"
+        },
+        {
+            "codigo": "020403",
+            "ean": "7896007541867",
+            "descricaoOriginal": "ABS INTERNO INTIMUS MEDIO COM 8 UNIDADES",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página118",
+            "descricaoPesquisa": "ABS INTERNO INTIMUS MEDIO COM 8 UNIDADES",
+            "descricaoPesquisaRefinada": "Abs Interno Intimus Medio Com 8 Unidades",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "11,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "6,94",
+            "estoque": "13",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTERNO INTIMUS MEDIO COM 8 UNIDADES 8 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTERNO INTIMUS MEDIO COM 8 UNIDADES",
+                    "8 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.329Z",
+            "atualizadoEm": "2026-08-08T04:41:01.329Z"
+        },
+        {
+            "codigo": "020257",
+            "ean": "7896007540600",
+            "descricaoOriginal": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE SEM ABAS 8 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página120",
+            "descricaoPesquisa": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE SEM ABAS 8 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Tripla Prote Cobert Suave Sem Abas 8 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "6,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "3,68",
+            "estoque": "15",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS TRIPLA PROTE COBERT SUAVE SEM ABAS 8 UND 8 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS TRIPLA PROTE COBERT SUAVE SEM ABAS 8 UND",
+                    "8 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.331Z",
+            "atualizadoEm": "2026-08-08T04:41:01.331Z"
+        },
+        {
+            "codigo": "024208",
+            "ean": "7896007542871",
+            "descricaoOriginal": "ABS INTERNO INTIMUS DISCRETO SUPER 16 UNIDADES",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página121",
+            "descricaoPesquisa": "ABS INTERNO INTIMUS DISCRETO SUPER 16 UNIDADES",
+            "descricaoPesquisaRefinada": "Abs Interno Intimus Discreto Super 16 Unidades",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "21,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "14,20",
+            "estoque": "16",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTERNO INTIMUS DISCRETO SUPER 16 UNIDADES 16 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTERNO INTIMUS DISCRETO SUPER 16 UNIDADES",
+                    "16 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.332Z",
+            "atualizadoEm": "2026-08-08T04:41:01.332Z"
+        },
+        {
+            "codigo": "022642",
+            "ean": "7896007542864",
+            "descricaoOriginal": "ABS INTERNO INTIMUS MÉDIO COM 16 UNIDADES",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página124",
+            "descricaoPesquisa": "ABS INTERNO INTIMUS MÉDIO COM 16 UNIDADES",
+            "descricaoPesquisaRefinada": "Abs Interno Intimus MéDio Com 16 Unidades",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "21,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "14,20",
+            "estoque": "21",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTERNO INTIMUS MÉDIO COM 16 UNIDADES 16 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTERNO INTIMUS MÉDIO COM 16 UNIDADES",
+                    "16 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.335Z",
+            "atualizadoEm": "2026-08-08T04:41:01.335Z"
+        },
+        {
+            "codigo": "024262",
+            "ean": "7896914002116",
+            "descricaoOriginal": "ABS DIANA SUAVE C/ABAS 16 UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "CARTA FABRIL",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página126",
+            "descricaoPesquisa": "ABS DIANA SUAVE C/ABAS 16 UN",
+            "descricaoPesquisaRefinada": "Abs Diana Suave Com/Abas 16 Un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "16",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "6,95",
+            "precoPromocao": "0,00",
+            "precoCusto": "7,24",
+            "estoque": "24",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS DIANA SUAVE C/ABAS 16 UN 16 unidades CARTA FABRIL embalagem",
+                "palavras": [
+                    "ABS DIANA SUAVE C/ABAS 16 UN",
+                    "16 unidades",
+                    "CARTA FABRIL",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.336Z",
+            "atualizadoEm": "2026-08-08T04:41:01.336Z"
+        },
+        {
+            "codigo": "021403",
+            "ean": "7896007542437",
+            "descricaoOriginal": "ABS INTIMUS GEL NOTURNO SUAVE C/ ABAS 8 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página127",
+            "descricaoPesquisa": "ABS INTIMUS GEL NOTURNO SUAVE C/ ABAS 8 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Gel Noturno Suave Com/ Abas 8 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "GEL",
+            "palavrasChave": [],
+            "precoVenda": "9,99",
+            "precoPromocao": "0,00",
+            "precoCusto": "6,36",
+            "estoque": "26",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS GEL NOTURNO SUAVE C/ ABAS 8 UND GEL 8 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS GEL NOTURNO SUAVE C/ ABAS 8 UND",
+                    "GEL",
+                    "8 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 40,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 40%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.337Z",
+            "atualizadoEm": "2026-08-08T04:41:01.337Z"
+        },
+        {
+            "codigo": "029340",
+            "ean": "7896007550906",
+            "descricaoOriginal": "ABS INTIMUS NOTURNO C/ABAS SECA TRIPLA PROT C/30 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página129",
+            "descricaoPesquisa": "ABS INTIMUS NOTURNO C/ABAS SECA TRIPLA PROT C/30 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Noturno Com/Abas Seca Tripla Prot Com/30 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "30",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "27,13",
+            "precoPromocao": "22,99",
+            "precoCusto": "16,95",
+            "estoque": "37",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS NOTURNO C/ABAS SECA TRIPLA PROT C/30 UND 30 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS NOTURNO C/ABAS SECA TRIPLA PROT C/30 UND",
+                    "30 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.339Z",
+            "atualizadoEm": "2026-08-08T04:41:01.339Z"
+        },
+        {
+            "codigo": "024142",
+            "ean": "7896007540617",
+            "descricaoOriginal": "ABS INTIMUS C/ABAS EXTRA SUAVE TRIPLA PROTEÇÃO PACOTE 8 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "KIMBERLY-CLARK",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página131",
+            "descricaoPesquisa": "ABS INTIMUS C/ABAS EXTRA SUAVE TRIPLA PROTEÇÃO PACOTE 8 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Com/Abas Extra Suave Tripla ProteçãO Pacote 8 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "6,03",
+            "precoPromocao": "0,00",
+            "precoCusto": "3,77",
+            "estoque": "48",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS C/ABAS EXTRA SUAVE TRIPLA PROTEÇÃO PACOTE 8 UND 8 unidades KIMBERLY-CLARK embalagem",
+                "palavras": [
+                    "ABS INTIMUS C/ABAS EXTRA SUAVE TRIPLA PROTEÇÃO PACOTE 8 UND",
+                    "8 unidades",
+                    "KIMBERLY-CLARK",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.340Z",
+            "atualizadoEm": "2026-08-08T04:41:01.340Z"
+        },
+        {
+            "codigo": "034149",
+            "ean": "7896007550890",
+            "descricaoOriginal": "ABS INTIMUS NOTURNO SUAVE C/ABAS C/30 UND",
+            "classe": "PERFUMARIA",
+            "laboratorio": "OUTROS",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página132",
+            "descricaoPesquisa": "ABS INTIMUS NOTURNO SUAVE C/ABAS C/30 UND",
+            "descricaoPesquisaRefinada": "Abs Intimus Noturno Suave Com/Abas Com/30 Und",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "30",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "27,13",
+            "precoPromocao": "22,99",
+            "precoCusto": "16,95",
+            "estoque": "77",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS INTIMUS NOTURNO SUAVE C/ABAS C/30 UND 30 unidades OUTROS embalagem",
+                "palavras": [
+                    "ABS INTIMUS NOTURNO SUAVE C/ABAS C/30 UND",
+                    "30 unidades",
+                    "OUTROS",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.342Z",
+            "atualizadoEm": "2026-08-08T04:41:01.342Z"
+        },
+        {
+            "codigo": "037675",
+            "ean": "7500435190633",
+            "descricaoOriginal": "ABS ALWAYS C/ABAS SUAVE C/8 UN",
+            "classe": "PERFUMARIA",
+            "laboratorio": "P&G",
+            "categoriaOriginal": "ABSORVENTE",
+            "marcaOriginal": "",
+            "aba": "Página134",
+            "descricaoPesquisa": "ABS ALWAYS C/ABAS SUAVE C/8 UN",
+            "descricaoPesquisaRefinada": "Abs Always Com/Abas Suave Com/8 Un",
+            "descricaoSite": "",
+            "marca": "",
+            "categoria": "ABSORVENTE",
+            "linha": "",
+            "tamanho": "",
+            "quantidade": "8",
+            "peso": "",
+            "volume": "",
+            "apresentacao": "",
+            "palavrasChave": [],
+            "precoVenda": "3,97",
+            "precoPromocao": "0,00",
+            "precoCusto": "2,48",
+            "estoque": "260",
+            "imagem": "",
+            "statusImagem": "sem",
+            "pesquisaImagem": {
+                "principal": "ABS ALWAYS C/ABAS SUAVE C/8 UN 8 unidades P&G embalagem",
+                "palavras": [
+                    "ABS ALWAYS C/ABAS SUAVE C/8 UN",
+                    "8 unidades",
+                    "P&G",
+                    "embalagem"
+                ],
+                "tipo": "imagem"
+            },
+            "pesquisasAlternativas": [],
+            "score": 30,
+            "diagnostico": "Cadastro incompleto",
+            "erros": [
+                "Descrição do site não gerada.",
+                "Marca não identificada.",
+                "Imagem não encontrada."
+            ],
+            "avisos": [],
+            "pipelineAtual": "Qualidade",
+            "historico": [
+                {
+                    "etapa": "Produto Inteligente",
+                    "mensagem": "Objeto base criado."
+                },
+                {
+                    "etapa": "Sanitização",
+                    "mensagem": "Nenhuma alteração necessária."
+                },
+                {
+                    "etapa": "Qualidade",
+                    "mensagem": "Score atualizado para 30%."
+                }
+            ],
+            "versaoModelo": "8.1",
+            "criadoEm": "2026-08-08T04:41:01.343Z",
+            "atualizadoEm": "2026-08-08T04:41:01.343Z"
+        }
+    ]
+}
