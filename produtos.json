@@ -10,7 +10,7 @@
       "precoVenda": "114,14",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317031275"
     },
     {
       "codigo": "001628",
@@ -22,7 +22,7 @@
       "precoVenda": "23,74",
       "precoPromocao": "0,00",
       "estoque": "2",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004817477"
     },
     {
       "codigo": "041174",
@@ -34,7 +34,7 @@
       "precoVenda": "28,49",
       "precoPromocao": "0,00",
       "estoque": "2",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094928107"
     },
     {
       "codigo": "005017",
@@ -46,7 +46,7 @@
       "precoVenda": "23,54",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897595903693"
     },
     {
       "codigo": "004610",
@@ -58,19 +58,19 @@
       "precoVenda": "19,24",
       "precoPromocao": "0,00",
       "estoque": "7",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896331702545"
     },
     {
       "codigo": "004611",
       "ean": "7896331702583",
-      "descricao": "Abc 10mg/Ml SoluçãO Spray Fralda 30ml",
+      "descricao": "Abc 10mg/Ml SoluçãO Spray 30ml",
       "marca": "KLEY HERTZ",
       "laboratorio": "KLEY HERTZ",
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": "49,11",
       "precoPromocao": "39,99",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896331702583"
     },
     {
       "codigo": "042650",
@@ -82,7 +82,7 @@
       "precoVenda": "11,99",
       "precoPromocao": "8,99",
       "estoque": "24",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164008735"
     },
     {
       "codigo": "010027",
@@ -142,7 +142,7 @@
       "precoVenda": "11,99",
       "precoPromocao": "0,00",
       "estoque": "5",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/382903883301"
     },
     {
       "codigo": "003179",
@@ -154,7 +154,7 @@
       "precoVenda": "57,23",
       "precoPromocao": "0,00",
       "estoque": "3",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898040320973"
     },
     {
       "codigo": "051716",
@@ -166,7 +166,7 @@
       "precoVenda": "29,99",
       "precoPromocao": "0,00",
       "estoque": "8",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164010035"
     },
     {
       "codigo": "033426",
@@ -178,7 +178,7 @@
       "precoVenda": "39,99",
       "precoPromocao": "0,00",
       "estoque": "5",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7506309805498"
     },
     {
       "codigo": "024028",
@@ -190,7 +190,7 @@
       "precoVenda": "24,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7506339325249"
     },
     {
       "codigo": "031105",
@@ -202,7 +202,7 @@
       "precoVenda": "14,99",
       "precoPromocao": "0,00",
       "estoque": "7",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435127257"
     },
     {
       "codigo": "042521",
@@ -214,7 +214,7 @@
       "precoVenda": "39,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435214650"
     },
     {
       "codigo": "025419",
@@ -226,7 +226,7 @@
       "precoVenda": "24,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435127288"
     },
     {
       "codigo": "033427",
@@ -238,7 +238,7 @@
       "precoVenda": "36,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7506339326055"
     },
     {
       "codigo": "037675",
@@ -250,7 +250,7 @@
       "precoVenda": "5,99",
       "precoPromocao": "0,00",
       "estoque": "153",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435190633"
     },
     {
       "codigo": "046810",
@@ -262,7 +262,7 @@
       "precoVenda": "13,99",
       "precoPromocao": "0,00",
       "estoque": "8",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435250559"
     },
     {
       "codigo": "041145",
@@ -274,7 +274,7 @@
       "precoVenda": "13,99",
       "precoPromocao": "0,00",
       "estoque": "9",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435214667"
     },
     {
       "codigo": "024190",
