@@ -520,7 +520,7 @@
       "precoVenda": "29,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947607057?v=1790680684515"
     },
     {
       "codigo": "043246",
@@ -547,7 +547,7 @@
       "precoVenda": "54,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897848715110?v=1786846676591"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897848715110?v=1790686061931"
     },
     {
       "codigo": "044557",
@@ -559,7 +559,7 @@
       "precoVenda": "69,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891010254964?v=1790680707079"
     },
     {
       "codigo": "052009",
@@ -571,7 +571,7 @@
       "precoVenda": "19,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4894457022519?v=1789766424262"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4894457022519?v=1790685940597"
     },
     {
       "codigo": "043677",
@@ -649,7 +649,7 @@
       "precoVenda": "3,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898472255898?v=1787240941273"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898472255898?v=1790686101001"
     },
     {
       "codigo": "041138",
@@ -835,7 +835,7 @@
       "precoVenda": "6,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953484984?v=1789766789488"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953484984?v=1790686159623"
     },
     {
       "codigo": "000888",
@@ -1046,7 +1046,7 @@
       "precoVenda": "4,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898330510039?v=1789767146663"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898330510039?v=1790686196936"
     },
     {
       "codigo": "046146",
@@ -1073,7 +1073,7 @@
       "precoVenda": "27,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7509546679617?v=1790680721333"
     },
     {
       "codigo": "047390",
@@ -1362,7 +1362,7 @@
       "precoVenda": "19,95",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898928577772?v=1790680811053"
     },
     {
       "codigo": "044251",
@@ -1374,7 +1374,7 @@
       "precoVenda": "49,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896512963598?v=1790680821263"
     },
     {
       "codigo": "044445",
@@ -1413,7 +1413,7 @@
       "precoVenda": "51,25",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894916516457?v=1790680876572",
       "tarja": "V",
       "substancia": "TROMETAMOL CETOROLACO",
       "registroAnvisa": "1356906110319"
@@ -1428,7 +1428,7 @@
       "precoVenda": "29,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896016808821?v=1790680888443"
     },
     {
       "codigo": "001935",
@@ -1885,14 +1885,14 @@
     {
       "codigo": "044862",
       "ean": "7896311778072",
-      "descricao": "Integralmedica Nutri Whey 12 Kg Pouch Gainer Morango",
+      "descricao": "Integralmedica Nutri Whey 1.2 Kg Pouch Gainer Morango",
       "marca": "INTEGRALMEDICA",
       "laboratorio": "INTEGRALMEDICA",
       "categoria": "SUPLEMENTO",
       "precoVenda": "119,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896311778072?v=1790680950388"
     },
     {
       "codigo": "049164",
@@ -1931,7 +1931,7 @@
       "precoVenda": "9,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896725789190?v=1790686277723"
     },
     {
       "codigo": "000408",
@@ -2025,7 +2025,7 @@
       "precoVenda": "17,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7841764094125?v=1789766424531"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7841764094125?v=1790686334492"
     },
     {
       "codigo": "046223",
@@ -2037,7 +2037,7 @@
       "precoVenda": "41,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899852024233?v=1790686350116"
     },
     {
       "codigo": "046545",
@@ -2049,7 +2049,7 @@
       "precoVenda": "24,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894494780875?v=1789765742333"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894494780875?v=1790686409221"
     },
     {
       "codigo": "046252",
@@ -2468,7 +2468,7 @@
       "precoVenda": "2,49",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7908099200017?v=1789766407815"
+      "imagem": ""
     },
     {
       "codigo": "044174",
@@ -2903,7 +2903,7 @@
     {
       "codigo": "045430",
       "ean": "7899026494763",
-      "descricao": "Gel De Lmpz Effaclar Gel Concentrado 60g-",
+      "descricao": "Gel De Limpeza Effaclar Gel Concentrado 60g-",
       "marca": "LA ROCHE-POSAY",
       "laboratorio": "LA ROCHE-POSAY",
       "categoria": "DERMOCOSMETICO",
@@ -3331,7 +3331,7 @@
       "precoVenda": "19,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897230307114?v=1790686789870"
     },
     {
       "codigo": "001628",
@@ -3357,7 +3357,7 @@
       "precoVenda": "19,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897230307015?v=1790686724406"
     },
     {
       "codigo": "051644",
@@ -3369,7 +3369,7 @@
       "precoVenda": "19,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897230306810?v=1790686713025"
     },
     {
       "codigo": "045563",
@@ -3875,7 +3875,7 @@
       "precoVenda": "13,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7890444010115?v=1790686533449"
     },
     {
       "codigo": "045497",
@@ -4191,7 +4191,7 @@
       "precoVenda": "69,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896007554478?v=1790686494700"
     },
     {
       "codigo": "044125",
@@ -6092,7 +6092,7 @@
       "precoVenda": "61,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/630941796931?v=1790691142056"
     },
     {
       "codigo": "051719",
@@ -9034,7 +9034,7 @@
       "precoVenda": "119,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896311778065?v=1790690983486"
     },
     {
       "codigo": "047207",
@@ -12606,7 +12606,7 @@
       "precoVenda": "84,83",
       "precoPromocao": "39,99",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947615090?v=1790680038878"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947615090?v=1790691287883"
     },
     {
       "codigo": "015831",
@@ -17921,7 +17921,7 @@
       "precoVenda": "49,99",
       "precoPromocao": "0,00",
       "estoque": "1",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947607705?v=1790680044856"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947607705?v=1790691311567"
     },
     {
       "codigo": "051021",
@@ -31363,7 +31363,7 @@
       "precoVenda": "49,99",
       "precoPromocao": "0,00",
       "estoque": "2",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947620582?v=1790680053965"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947620582?v=1790691334457"
     },
     {
       "codigo": "041272",
@@ -36599,14 +36599,14 @@
     {
       "codigo": "040117",
       "ean": "7897947601178",
-      "descricao": "Lavitan Melatonina 021mg Cp Pt 150 Mar",
+      "descricao": "Lavitan Melatonina 021mg Cp Pt 150 Maracuja",
       "marca": "CIMED",
       "laboratorio": "CIMED",
       "categoria": "VITAMINAS",
       "precoVenda": "69,99",
       "precoPromocao": "0,00",
       "estoque": "2",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601178?v=1790680058487"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601178?v=1790691420176"
     },
     {
       "codigo": "000446",
@@ -37885,7 +37885,7 @@
       "precoVenda": "12,99",
       "precoPromocao": "0,00",
       "estoque": "2",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897158702138?v=1790690806164"
     },
     {
       "codigo": "051201",
@@ -38087,14 +38087,14 @@
     {
       "codigo": "027551",
       "ean": "7897947616172",
-      "descricao": "Lavitan Mdk",
+      "descricao": "Lavitan CáLcio Mdk 30 Comprimidos",
       "marca": "DIVERSOS",
       "laboratorio": "DIVERSOS",
       "categoria": "VITAMINAS",
       "precoVenda": "62,67",
       "precoPromocao": "39,99",
       "estoque": "2",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947616172?v=1790680059957"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947616172?v=1790691544661"
     },
     {
       "codigo": "040338",
@@ -45192,14 +45192,14 @@
     {
       "codigo": "035688",
       "ean": "7897947601161",
-      "descricao": "Lavitan Melatonina 021mg Com/90",
+      "descricao": "Lavitan Melatonina 021mg Com/90 Sb Maracuja",
       "marca": "CIMED",
       "laboratorio": "CIMED",
       "categoria": "VITAMINAS",
       "precoVenda": "59,99",
       "precoPromocao": "0,00",
       "estoque": "3",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601161?v=1790680066501"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601161?v=1790692949773"
     },
     {
       "codigo": "047182",
@@ -52409,7 +52409,7 @@
       "precoVenda": "49,99",
       "precoPromocao": "39,99",
       "estoque": "4",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947606517?v=1790680070373"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947606517?v=1790692972384"
     },
     {
       "codigo": "034071",
@@ -54498,14 +54498,14 @@
     {
       "codigo": "034308",
       "ean": "7897947601147",
-      "descricao": "Lavitan Melatonina 90 Comprimidos´Mastigaveis",
+      "descricao": "Lavitan Melatonina 90 Comprimidos Mast Sb Morango",
       "marca": "CIMED",
       "laboratorio": "CIMED",
       "categoria": "VITAMINAS",
       "precoVenda": "59,99",
       "precoPromocao": "0,00",
       "estoque": "4",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601147?v=1790680073104"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601147?v=1790693038175"
     },
     {
       "codigo": "048871",
@@ -56506,14 +56506,14 @@
     {
       "codigo": "033771",
       "ean": "7897947600775",
-      "descricao": "Lavitan Vit-D SoluçãO Or Fralda 30ml",
+      "descricao": "Lavitan Vit-D SoluçãO Oral Fr 30ml",
       "marca": "CIMED",
       "laboratorio": "CIMED",
       "categoria": "VITAMINAS",
       "precoVenda": "26,99",
       "precoPromocao": "0,00",
       "estoque": "5",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600775?v=1790680074076"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600775?v=1790693081729"
     },
     {
       "codigo": "033722",
@@ -70406,7 +70406,7 @@
       "precoVenda": "49,99",
       "precoPromocao": "24,99",
       "estoque": "9",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947607996?v=1790680092967"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947607996?v=1790693101035"
     },
     {
       "codigo": "021301",
@@ -70619,7 +70619,7 @@
       "precoVenda": "49,99",
       "precoPromocao": "0,00",
       "estoque": "9",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947606913?v=1790680092959"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947606913?v=1790693117162"
     },
     {
       "codigo": "048310",
@@ -71174,14 +71174,14 @@
     {
       "codigo": "032579",
       "ean": "7897947600768",
-      "descricao": "Lavitan Triptofano CáPsulas Pt 30",
+      "descricao": "Lavitan Triptofano C/30 CáPsulas",
       "marca": "CIMED",
       "laboratorio": "CIMED",
       "categoria": "VITAMINAS",
       "precoVenda": "79,95",
       "precoPromocao": "59,99",
       "estoque": "10",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600768?v=1790680093037"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600768?v=1790693158064"
     },
     {
       "codigo": "017065",
@@ -73000,14 +73000,14 @@
     {
       "codigo": "027439",
       "ean": "7897947605053",
-      "descricao": "Lavitan Kids Mast Com/60",
+      "descricao": "Lavitan Kids Mast Com/60 Sb Uva-Limao",
       "marca": "CIMED",
       "laboratorio": "CIMED",
       "categoria": "VITAMINAS",
       "precoVenda": "49,99",
       "precoPromocao": "39,99",
       "estoque": "11",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947605053?v=1790693192304"
     },
     {
       "codigo": "042269",
@@ -73592,7 +73592,7 @@
       "precoVenda": "39,99",
       "precoPromocao": "0,00",
       "estoque": "11",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947611764?v=1790693216587"
     },
     {
       "codigo": "035459",
@@ -76815,7 +76815,7 @@
       "precoVenda": "86,86",
       "precoPromocao": "39,99",
       "estoque": "17",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947617322?v=1790680102219"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947617322?v=1790693232323"
     },
     {
       "codigo": "025693",
@@ -76875,14 +76875,14 @@
     {
       "codigo": "024963",
       "ean": "7897947614673",
-      "descricao": "Lavitan Infantil Tutti-Frutti",
+      "descricao": "Lavitan Infantil Tutti-Frutti 240ml",
       "marca": "CIMED",
       "laboratorio": "CIMED",
       "categoria": "VITAMINAS",
       "precoVenda": "39,99",
       "precoPromocao": "0,00",
       "estoque": "17",
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947614673?v=1790693247236"
     },
     {
       "codigo": "013398",
@@ -80300,7 +80300,7 @@
       "precoVenda": "49,99",
       "precoPromocao": "39,99",
       "estoque": "30",
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947609891?v=1790680108888"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947609891?v=1790693299861"
     },
     {
       "codigo": "014270",
