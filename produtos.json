@@ -10,7 +10,7 @@
       "precoVenda": 9.79,
       "precoPromocao": 0,
       "estoque": 46,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891106000888?v=1790177656216"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891106000888?v=1790952201672"
     },
     {
       "codigo": "000003",
@@ -82,7 +82,7 @@
       "precoVenda": 26.32,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006214007?v=1790177650884"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006214007?v=1790952249233"
     },
     {
       "codigo": "000077",
@@ -142,7 +142,7 @@
       "precoVenda": 29.49,
       "precoPromocao": 0,
       "estoque": 47,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896026301428?v=1790177674845"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896026301428?v=1790952283949"
     },
     {
       "codigo": "000099",
@@ -394,7 +394,7 @@
       "precoVenda": 27,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896548113479?v=1790177685219"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896548113479?v=1790952326037"
     },
     {
       "codigo": "000237",
@@ -490,7 +490,7 @@
       "precoVenda": 29.07,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891058020316?v=1790177689944"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891058020316?v=1790952347791"
     },
     {
       "codigo": "000271",
@@ -507,7 +507,7 @@
     {
       "codigo": "000272",
       "ean": "7896004801216",
-      "descricao": "Cystex Fralda 24 Drg",
+      "descricao": "Cystex Fr 24 Drg",
       "marca": "EMS MARCAS",
       "laboratorio": "EMS MARCAS",
       "categoria": "ETICO",
@@ -550,7 +550,7 @@
       "precoVenda": 36.9,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897316806791?v=1790177756585"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897316806791?v=1790952433508"
     },
     {
       "codigo": "000285",
@@ -771,14 +771,14 @@
     {
       "codigo": "000427",
       "ean": "7896004712642",
-      "descricao": "Pepsogel Susp Fralda 240ml",
+      "descricao": "Pepsogel Hortelã Legrand Caixa 240ml",
       "marca": "LEGRAND OTC",
       "laboratorio": "LEGRAND OTC",
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 47.8,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004712642?v=1790876742184"
     },
     {
       "codigo": "000446",
@@ -4080,14 +4080,14 @@
     {
       "codigo": "003187",
       "ean": "7891142115478",
-      "descricao": "Alivium 50mg Fralda Gts 30ml",
+      "descricao": "Alivium 50mg Gotas 30ml",
       "marca": "HYPERA",
       "laboratorio": "HYPERA",
       "categoria": "ETICO",
       "precoVenda": 50.33,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891142115478?v=1790876838433"
     },
     {
       "codigo": "003197",
@@ -6347,7 +6347,7 @@
       "precoVenda": 4.89,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094903289?v=1790876869073"
     },
     {
       "codigo": "005017",
@@ -8472,7 +8472,7 @@
     {
       "codigo": "006541",
       "ean": "7896622305820",
-      "descricao": "Blumel 15mg/Ml Xpe Fralda 100ml",
+      "descricao": "Blumel Hedera 15mg Xpe Fr 100ml",
       "marca": "HYPERA",
       "laboratorio": "HYPERA",
       "categoria": "ETICO",
@@ -9180,7 +9180,7 @@
       "precoVenda": 53.9,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891721023422?v=1790876941320"
     },
     {
       "codigo": "007452",
@@ -10067,7 +10067,7 @@
     {
       "codigo": "008554",
       "ean": "7898908753141",
-      "descricao": "Traumeel S Fralda 50 Comprimidos Sublinguais",
+      "descricao": "Traumeel 301,5mg C/50 Comprimidos Sublingual",
       "marca": "HEEL DO BRASIL",
       "laboratorio": "HEEL DO BRASIL",
       "categoria": "ETICO",
@@ -10170,7 +10170,7 @@
       "precoVenda": 46.33,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891058024314?v=1790876986609"
     },
     {
       "codigo": "008629",
@@ -11567,7 +11567,7 @@
       "precoVenda": 47.65,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897411601543?v=1790877037410"
     },
     {
       "codigo": "010445",
@@ -12131,7 +12131,7 @@
       "precoVenda": 47.9,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898100264018?v=1790877072013"
     },
     {
       "codigo": "011369",
@@ -13452,14 +13452,14 @@
     {
       "codigo": "013145",
       "ean": "7896658027208",
-      "descricao": "Dayvit Kids Ct Fralda Plas X 120ml",
+      "descricao": "Dayvit Kids Suspensao 120ml",
       "marca": "ACHE",
       "laboratorio": "ACHE",
       "categoria": "ETICO",
       "precoVenda": 63.3,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896658027208?v=1790877096969"
     },
     {
       "codigo": "013151",
@@ -13519,7 +13519,7 @@
       "precoVenda": 85.91,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896422506564?v=1790877107616"
     },
     {
       "codigo": "013248",
@@ -14483,14 +14483,14 @@
     {
       "codigo": "014721",
       "ean": "7896331705454",
-      "descricao": "Sanilin 05mg/Ml4mg/Ml SoluçãO Spray Ct Fralda Spray Vd Amb 50ml",
+      "descricao": "Sanilin Spray Menta Kley Hertz Caixa 50ml",
       "marca": "KLEY HERTZ",
       "laboratorio": "KLEY HERTZ",
       "categoria": "ETICO",
       "precoVenda": 26.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896331705454?v=1790877129913"
     },
     {
       "codigo": "014747",
@@ -15209,7 +15209,7 @@
       "precoVenda": 53.34,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896261005723?v=1790877150895"
     },
     {
       "codigo": "016115",
@@ -15492,14 +15492,14 @@
     {
       "codigo": "016634",
       "ean": "7896094917385",
-      "descricao": "Rinosoro Jet 09% Fralda 100ml Inf",
+      "descricao": "Rinosoro Jet Infantil. 0,9% 100ml",
       "marca": "HYPERA",
       "laboratorio": "HYPERA",
       "categoria": "ETICO",
       "precoVenda": 50.14,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094917385?v=1790877165148"
     },
     {
       "codigo": "016636",
@@ -16018,14 +16018,14 @@
     {
       "codigo": "017377",
       "ean": "7895858015664",
-      "descricao": "Leite De Magnesia Phillips Fralda 120ml Hortela",
+      "descricao": "Leite Magnesia Phillips Hortela 120ml",
       "marca": "ASPEN PHARMA",
       "laboratorio": "ASPEN PHARMA",
       "categoria": "ETICO",
       "precoVenda": 22.27,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7895858015664?v=1790877182110"
     },
     {
       "codigo": "017378",
@@ -20633,7 +20633,7 @@
       "precoVenda": 7.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891106908313?v=1790877195218"
     },
     {
       "codigo": "024169",
@@ -24778,7 +24778,7 @@
     {
       "codigo": "026381",
       "ean": "7891317003913",
-      "descricao": "Altad 50000ui Caixa com 4 Cap",
+      "descricao": "Alta D Caps 50.000ui Eurofarma Caixa 4 CáPsulas",
       "marca": "EUROFARMA",
       "laboratorio": "EUROFARMA",
       "categoria": "ETICO",
@@ -25654,7 +25654,7 @@
       "precoVenda": 63.9,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899547530032?v=1790877217533"
     },
     {
       "codigo": "027059",
@@ -27106,7 +27106,7 @@
       "precoVenda": 72.51,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004769325?v=1790877232940"
     },
     {
       "codigo": "027909",
@@ -28270,7 +28270,7 @@
       "precoVenda": 27.9,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898430192920?v=1790877249662"
     },
     {
       "codigo": "028729",
@@ -29439,14 +29439,14 @@
     {
       "codigo": "029788",
       "ean": "0798190060996",
-      "descricao": "Desincha Noite 60 Saches",
+      "descricao": "Desinchá Noite sache",
       "marca": "DIVERSOS",
       "laboratorio": "DIVERSOS",
       "categoria": "ETICO",
       "precoVenda": 2.5,
       "precoPromocao": 0,
       "estoque": 75,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0798190060996?v=1790877283910"
     },
     {
       "codigo": "029790",
@@ -30479,7 +30479,7 @@
       "precoVenda": 7.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891058015787?v=1790877297742"
     },
     {
       "codigo": "030497",
@@ -32048,14 +32048,14 @@
     {
       "codigo": "031419",
       "ean": "7896658028205",
-      "descricao": "Colidis Gotas Fralda 10ml",
+      "descricao": "Colidis Gotas Frasco C/10ml",
       "marca": "BIO MACRO",
       "laboratorio": "BIO MACRO",
       "categoria": "ETICO",
       "precoVenda": 195.27,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896658028205?v=1790877324330"
     },
     {
       "codigo": "031426",
@@ -32927,7 +32927,7 @@
       "precoVenda": 46.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896001303126?v=1790877378178"
     },
     {
       "codigo": "031789",
@@ -33273,7 +33273,7 @@
       "descricao": "Cloreto De Magnesio Farmax 33g",
       "marca": "OUTROS",
       "laboratorio": "OUTROS",
-      "categoria": "ETICO",
+      "categoria": "VAREJO",
       "precoVenda": 12.95,
       "precoPromocao": 0,
       "estoque": 7,
@@ -34736,7 +34736,7 @@
       "precoVenda": 30.21,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898495605960?v=1790877413332"
     },
     {
       "codigo": "033133",
@@ -36375,7 +36375,7 @@
       "precoVenda": 17.89,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891035001116?v=1790877432483"
     },
     {
       "codigo": "034191",
@@ -37864,7 +37864,7 @@
       "precoVenda": 10.19,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006216629?v=1790877473480"
     },
     {
       "codigo": "035453",
@@ -37972,7 +37972,7 @@
       "precoVenda": 3.88,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094922334?v=1790877503824"
     },
     {
       "codigo": "035505",
@@ -39067,7 +39067,7 @@
       "precoVenda": 4.99,
       "precoPromocao": 0,
       "estoque": 47,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898962943786?v=1790877564285"
     },
     {
       "codigo": "036158",
@@ -39707,7 +39707,7 @@
       "precoVenda": 25.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898037084864?v=1790877588718"
     },
     {
       "codigo": "037192",
@@ -40393,7 +40393,7 @@
       "precoVenda": 123.64,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897411603141?v=1790877576932"
     },
     {
       "codigo": "038270",
@@ -40756,7 +40756,7 @@
       "precoVenda": 5.42,
       "precoPromocao": 0,
       "estoque": 58,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094922181?v=1790877597771"
     },
     {
       "codigo": "038600",
@@ -40889,7 +40889,7 @@
       "precoVenda": 101.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898087340132?v=1790877614366"
     },
     {
       "codigo": "039215",
@@ -40953,7 +40953,7 @@
       "precoVenda": 36.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896044600596?v=1790877632897"
     },
     {
       "codigo": "039281",
@@ -41753,14 +41753,14 @@
     {
       "codigo": "040350",
       "ean": "7891317011369",
-      "descricao": "Floripa Gotas Ct Fralda X 8 Ml",
+      "descricao": "Floripa Solucao Gotas 8ml",
       "marca": "EUROFARMA",
       "laboratorio": "EUROFARMA",
       "categoria": "ETICO",
       "precoVenda": 139.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317011369?v=1790877649746"
     },
     {
       "codigo": "040358",
@@ -41953,7 +41953,7 @@
       "precoVenda": 126.5,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896637032209?v=1790877673932"
     },
     {
       "codigo": "040455",
@@ -42246,7 +42246,7 @@
     {
       "codigo": "040748",
       "ean": "7891317010386",
-      "descricao": "Ventus 50mcg Sus Spray Nas Fralda 120 Acionamentos",
+      "descricao": "Ventus Spray Nasal 50mcg C/120 Acionamentos",
       "marca": "EUROFARMA",
       "laboratorio": "EUROFARMA",
       "categoria": "ETICO",
@@ -42521,7 +42521,7 @@
       "precoVenda": 5.41,
       "precoPromocao": 0,
       "estoque": 150,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7501007447285?v=1790877694852"
     },
     {
       "codigo": "040925",
@@ -44039,7 +44039,7 @@
       "precoVenda": 28.67,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435188067?v=1790877705333"
     },
     {
       "codigo": "041721",
@@ -45866,7 +45866,7 @@
       "precoVenda": 33.11,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094925915?v=1790877718683"
     },
     {
       "codigo": "042582",
