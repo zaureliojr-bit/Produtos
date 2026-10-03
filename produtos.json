@@ -1750,7 +1750,7 @@
       "precoVenda": 21.39,
       "precoPromocao": 0,
       "estoque": 7,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523216454?v=1790989297821",
       "tarja": "L",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -2969,7 +2969,7 @@
       "precoVenda": 21.39,
       "precoPromocao": 0,
       "estoque": 13,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523216461?v=1790989304524",
       "tarja": "L",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -2988,7 +2988,7 @@
       "precoVenda": 21.39,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523216447?v=1790989311531",
       "tarja": "L",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -3704,7 +3704,7 @@
       "precoVenda": 46.21,
       "precoPromocao": 34.99,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004715230?v=1790989318057",
       "tarja": "L",
       "substancia": "LEVEDURA",
       "registroAnvisa": "1023504200024"
@@ -3719,7 +3719,7 @@
       "precoVenda": 24.62,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004702346?v=1790989098141",
       "tarja": "L",
       "substancia": "CITRATO DE SÓDIO;CLORETO DE AMÔNIO;CLORIDRATO DE DIFENIDRAMINA",
       "registroAnvisa": "1023504210054"
@@ -4276,7 +4276,7 @@
       "precoVenda": 15.43,
       "precoPromocao": 7.99,
       "estoque": 11,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896862970147?v=1790989098285",
       "tarja": "R",
       "substancia": "FLUCONAZOL",
       "registroAnvisa": "1091700550053"
@@ -4420,7 +4420,7 @@
       "precoVenda": 76.39,
       "precoPromocao": 0,
       "estoque": 5,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004715971?v=1790989099327",
       "tarja": "R",
       "substancia": "AZITROMICINA",
       "registroAnvisa": "1023505600026"
@@ -4555,7 +4555,7 @@
       "precoVenda": 23.42,
       "precoPromocao": 16.99,
       "estoque": 6,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898049796502?v=1790989102697",
       "tarja": "L",
       "substancia": "IBUPROFENO",
       "registroAnvisa": "1039200650018"
@@ -4600,7 +4600,7 @@
       "precoVenda": 36.06,
       "precoPromocao": 29.99,
       "estoque": 68,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004705682?v=1790989101962",
       "tarja": "V",
       "bloqueioPresencial": true,
       "controleEspecial": "B1",
@@ -4850,7 +4850,7 @@
       "precoVenda": 5.99,
       "precoPromocao": 5.95,
       "estoque": 10,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896862940058?v=1790989102386",
       "tarja": "L",
       "substancia": "DIPIRONA",
       "registroAnvisa": "1091700150047"
@@ -4925,7 +4925,7 @@
       "precoVenda": 37.74,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004706559?v=1790989106067",
       "tarja": "V",
       "substancia": "BETAMETASONA;MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1677302540077"
@@ -5095,7 +5095,7 @@
       "precoVenda": 108.23,
       "precoPromocao": 34.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095201378?v=1790989105637",
       "tarja": "V",
       "substancia": "ITRACONAZOL",
       "registroAnvisa": "1542300090032"
@@ -5169,7 +5169,7 @@
       "precoVenda": 27.44,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004706535?v=1790989106796",
       "substancia": "METILBROMETO DE HOMATROPINA;SIMETICONA",
       "registroAnvisa": "1677301700038"
     },
@@ -5600,7 +5600,7 @@
       "precoVenda": 65.1,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897129300509?v=1790989108112",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -6134,7 +6134,7 @@
       "precoVenda": 39.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112116929?v=1790989109533",
       "tarja": "L",
       "substancia": "ACETATO DE RACEALFATOCOFEROL",
       "registroAnvisa": "1037002720031"
@@ -6759,7 +6759,7 @@
       "precoVenda": 31.79,
       "precoPromocao": 21.99,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112113577?v=1790989110297",
       "tarja": "V",
       "confirmarReceita": true,
       "substancia": "SULFATO DE NEOMICINA;DIPROPIONATO DE BETAMETASONA;CETOCONAZOL",
@@ -7532,7 +7532,7 @@
       "precoVenda": 113.43,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898158693709?v=1790989110606",
       "tarja": "V",
       "substancia": "TROXERRUTINA;CUMARINA",
       "registroAnvisa": "1156001580024"
@@ -8556,7 +8556,7 @@
       "precoVenda": 33.95,
       "precoPromocao": 29.99,
       "estoque": 16,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112113843?v=1790989114349",
       "tarja": "P",
       "bloqueioPresencial": true,
       "controleEspecial": "B1",
@@ -9400,7 +9400,7 @@
       "precoVenda": 22.35,
       "precoPromocao": 14.99,
       "estoque": 11,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896862918064?v=1790989114035",
       "tarja": "R",
       "substancia": "CLORIDRATO DE TETRACICLINA",
       "registroAnvisa": "1091700710018"
@@ -9700,7 +9700,7 @@
       "precoVenda": 29.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894916144674?v=1790989113241",
       "tarja": "P",
       "bloqueioPresencial": true,
       "controleEspecial": "B1",
@@ -9932,7 +9932,7 @@
       "precoVenda": 97.86,
       "precoPromocao": 55.99,
       "estoque": 6,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898146820582?v=1790989116070",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -11090,7 +11090,7 @@
       "precoVenda": 78.65,
       "precoPromocao": 64.99,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004734026?v=1790989116647",
       "tarja": "V",
       "substancia": "ETINILESTRADIOL;ACETATO DE CIPROTERONA",
       "registroAnvisa": "1677304440037"
@@ -11400,7 +11400,7 @@
       "precoVenda": 15.11,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898049790463?v=1790989116694"
     },
     {
       "codigo": "007460",
@@ -11547,7 +11547,7 @@
       "precoVenda": 11.24,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523210865?v=1790989119634",
       "tarja": "L",
       "substancia": "BISACODIL",
       "registroAnvisa": "1438101530011"
@@ -11634,7 +11634,7 @@
       "precoVenda": 5.99,
       "precoPromocao": 0,
       "estoque": 23,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896862926120?v=1790989339731"
     },
     {
       "codigo": "007646",
@@ -11721,7 +11721,7 @@
       "precoVenda": 22.25,
       "precoPromocao": 14.99,
       "estoque": 5,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006234524?v=1790989118535",
       "tarja": "V",
       "bloqueioPresencial": true,
       "controleEspecial": "B1",
@@ -11837,7 +11837,7 @@
       "precoVenda": 21.98,
       "precoPromocao": 12.99,
       "estoque": 73,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714213446?v=1790989120123",
       "tarja": "V",
       "substancia": "LEVONORGESTREL",
       "registroAnvisa": "1558400790016"
@@ -12094,7 +12094,7 @@
       "precoVenda": 89.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006212157?v=1790989120303"
     },
     {
       "codigo": "008131",
@@ -12178,7 +12178,7 @@
       "precoVenda": 23.45,
       "precoPromocao": 19.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714226033?v=1790989122302",
       "tarja": "V",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1558403730278"
@@ -12382,7 +12382,7 @@
       "precoVenda": 39.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006203117?v=1790989353075"
     },
     {
       "codigo": "008513",
@@ -13047,7 +13047,7 @@
       "precoVenda": 29.72,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317473648?v=1790989123223",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -13066,7 +13066,7 @@
       "precoVenda": 92.22,
       "precoPromocao": 39.99,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317484262?v=1790989125125",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -13620,7 +13620,7 @@
       "precoVenda": 101.04,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7895296128124?v=1790989124888",
       "tarja": "V",
       "substancia": "ESOMEPRAZOL MAGNÉSICO TRI-HIDRATADO",
       "registroAnvisa": "1181903400047"
@@ -13903,7 +13903,7 @@
       "precoVenda": 112.41,
       "precoPromocao": 49.99,
       "estoque": 11,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/8902220109339?v=1790989125327",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -14137,7 +14137,7 @@
       "precoVenda": 70.57,
       "precoPromocao": 19.99,
       "estoque": 12,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317476465?v=1790989127314",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -14566,14 +14566,14 @@
     {
       "codigo": "010680",
       "ean": "7896112139942",
-      "descricao": "Ibupril 50mg/Ml Sus Or Fralda Got 30ml",
+      "descricao": "Ibupril 50mg/Ml Sus Or Fr  30ml",
       "marca": "TEUTO",
       "laboratorio": "TEUTO",
       "categoria": "SIMILAR",
       "precoVenda": 21.01,
       "precoPromocao": 9.99,
       "estoque": 7,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112139942?v=1790989395750",
       "tarja": "L",
       "substancia": "IBUPROFENO",
       "registroAnvisa": "1037000760204"
@@ -15469,7 +15469,7 @@
       "precoVenda": 33.77,
       "precoPromocao": 24.99,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112191926?v=1790989127532",
       "tarja": "R",
       "substancia": "METRONIDAZOL",
       "registroAnvisa": "1037000710096"
@@ -16015,7 +16015,7 @@
       "precoVenda": 41.17,
       "precoPromocao": 29.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7893454100647?v=1790989129555",
       "tarja": "V",
       "confirmarReceita": true,
       "substancia": "SULFATO DE NEOMICINA;DIPROPIONATO DE BETAMETASONA;CETOCONAZOL",
@@ -16197,7 +16197,7 @@
       "precoVenda": 19.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006209027?v=1790989130387",
       "tarja": "V",
       "substancia": "BACLOFENO",
       "registroAnvisa": "1049713850025"
@@ -16231,7 +16231,7 @@
       "precoVenda": 98.83,
       "precoPromocao": 36.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112198017?v=1790989130034",
       "tarja": "V",
       "substancia": "FINASTERIDA",
       "registroAnvisa": "1037006520086"
@@ -16495,7 +16495,7 @@
       "precoVenda": 50.37,
       "precoPromocao": 39.99,
       "estoque": 8,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112196082?v=1790989132277",
       "tarja": "R",
       "substancia": "NISTATINA;METRONIDAZOL",
       "registroAnvisa": "1037006640014"
@@ -17110,7 +17110,7 @@
       "precoVenda": 15.38,
       "precoPromocao": 0,
       "estoque": 13,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896862970208?v=1790989134300",
       "tarja": "R",
       "substancia": "CLORIDRATO DE TETRACICLINA",
       "registroAnvisa": "1091700090044"
@@ -17125,7 +17125,7 @@
       "precoVenda": 31.64,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006270072?v=1790989132690",
       "tarja": "V",
       "substancia": "BACLOFENO",
       "registroAnvisa": "1049713960025"
@@ -17331,7 +17331,7 @@
       "precoVenda": 2.99,
       "precoPromocao": 0,
       "estoque": 10,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898179710065?v=1790989136230",
       "tarja": "V",
       "substancia": "ÁCIDO ACETILSALICÍLICO",
       "registroAnvisa": "1425900060065"
@@ -17406,7 +17406,7 @@
       "precoVenda": 27.37,
       "precoPromocao": 21.99,
       "estoque": 55,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523210797?v=1790989405603",
       "tarja": "L",
       "substancia": "DEXPANTENOL",
       "registroAnvisa": "1438101330047"
@@ -17493,7 +17493,7 @@
       "precoVenda": 22.68,
       "precoPromocao": 19.99,
       "estoque": 5,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899620911840?v=1790989137756"
     },
     {
       "codigo": "014332",
@@ -17749,7 +17749,7 @@
       "precoVenda": 83.65,
       "precoPromocao": 29.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7895296113137?v=1790989136933",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -18279,7 +18279,7 @@
       "precoVenda": 23.69,
       "precoPromocao": 0,
       "estoque": 9,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004756417?v=1790989139687",
       "tarja": "R",
       "bloqueioPresencial": true,
       "controleEspecial": "A2",
@@ -18972,7 +18972,7 @@
       "precoVenda": 14.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112101635?v=1790989139936",
       "tarja": "L",
       "substancia": "CETOCONAZOL",
       "registroAnvisa": "1037007150045"
@@ -19230,7 +19230,7 @@
       "precoVenda": 25.71,
       "precoPromocao": 24.99,
       "estoque": 22,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897917001694?v=1790989138859",
       "tarja": "R",
       "substancia": "TRIMETOPRIMA;SULFAMETOXAZOL",
       "registroAnvisa": "1057101300033"
@@ -19321,7 +19321,7 @@
       "precoVenda": 30.83,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897917001311?v=1790989142871",
       "tarja": "R",
       "substancia": "METRONIDAZOL",
       "registroAnvisa": "1057101030036"
@@ -19423,7 +19423,7 @@
       "precoVenda": 24.04,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095239975?v=1790989142535",
       "tarja": "V",
       "substancia": "CLORIDRATO DE AMIODARONA",
       "registroAnvisa": "1542300020050"
@@ -20588,7 +20588,7 @@
       "precoVenda": 15.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896046704001?v=1790989425706"
     },
     {
       "codigo": "018676",
@@ -21608,7 +21608,7 @@
       "precoVenda": 14.99,
       "precoPromocao": 0,
       "estoque": 5,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896013516231?v=1790989434137"
     },
     {
       "codigo": "019493",
@@ -21716,7 +21716,7 @@
       "precoVenda": 7.99,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891010032906?v=1790989445244"
     },
     {
       "codigo": "019603",
@@ -21752,7 +21752,7 @@
       "precoVenda": 7.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891800346022?v=1790989458742"
     },
     {
       "codigo": "019619",
@@ -21848,7 +21848,7 @@
       "precoVenda": 5.99,
       "precoPromocao": 0,
       "estoque": 7,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891010503031?v=1790989467268"
     },
     {
       "codigo": "019690",
@@ -21992,7 +21992,7 @@
       "precoVenda": 20.99,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896013501824?v=1790989478582"
     },
     {
       "codigo": "019812",
@@ -22040,7 +22040,7 @@
       "precoVenda": 27.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891010042950?v=1790989490665"
     },
     {
       "codigo": "019829",
@@ -22100,7 +22100,7 @@
       "precoVenda": 22.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4005808335435?v=1790989501091"
     },
     {
       "codigo": "019860",
@@ -22376,7 +22376,7 @@
       "precoVenda": 13.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891024115848?v=1790989512263"
     },
     {
       "codigo": "020132",
@@ -22388,7 +22388,7 @@
       "precoVenda": 64.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891010878016?v=1790989534892"
     },
     {
       "codigo": "020133",
@@ -22424,7 +22424,7 @@
       "precoVenda": 26.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896014125241?v=1790989547072"
     },
     {
       "codigo": "020185",
@@ -22544,7 +22544,7 @@
       "precoVenda": 4.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896544925014?v=1790989577476"
     },
     {
       "codigo": "020295",
@@ -22640,7 +22640,7 @@
       "precoVenda": 13.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896007200375?v=1790989587364"
     },
     {
       "codigo": "020379",
@@ -22701,18 +22701,6 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896049508545?v=1790983185278"
-    },
-    {
-      "codigo": "020469",
-      "ean": "7898157301407",
-      "descricao": "Esfigmomanometro Aneroide+Estetoscopio",
-      "marca": "DIVERSOS",
-      "laboratorio": "DIVERSOS",
-      "categoria": "DIVERSOS",
-      "precoVenda": 149.99,
-      "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": ""
     },
     {
       "codigo": "020555",
@@ -23060,7 +23048,7 @@
       "precoVenda": 23.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7702018874781?v=1790989619085"
     },
     {
       "codigo": "021301",
@@ -23168,7 +23156,7 @@
       "precoVenda": 24.99,
       "precoPromocao": 0,
       "estoque": 5,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4005808850839?v=1790989631755"
     },
     {
       "codigo": "021496",
@@ -23180,7 +23168,7 @@
       "precoVenda": 27.99,
       "precoPromocao": 0,
       "estoque": 12,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4005808850617?v=1790989644648"
     },
     {
       "codigo": "021505",
@@ -23276,7 +23264,7 @@
       "precoVenda": 35.95,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891653011115?v=1790989653431"
     },
     {
       "codigo": "021780",
@@ -23288,7 +23276,7 @@
       "precoVenda": 35.95,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891653011139?v=1790989662700"
     },
     {
       "codigo": "021784",
@@ -24356,7 +24344,7 @@
       "precoVenda": 12.95,
       "precoPromocao": 0,
       "estoque": 5,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898075310383?v=1790989146654"
     },
     {
       "codigo": "024142",
@@ -24878,7 +24866,7 @@
       "precoVenda": 9.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898582680016?v=1790989147008"
     },
     {
       "codigo": "024375",
@@ -26537,7 +26525,7 @@
       "precoVenda": 49.99,
       "precoPromocao": 0,
       "estoque": 5,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947606500?v=1790989148363"
     },
     {
       "codigo": "025068",
@@ -28642,7 +28630,7 @@
       "precoVenda": 55.42,
       "precoPromocao": 24.99,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894916149136?v=1790989151461",
       "tarja": "V",
       "substancia": "CETOPROFENO",
       "registroAnvisa": "1677305820021"
@@ -33030,7 +33018,7 @@
       "precoVenda": 22.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898133135248?v=1790989155943"
     },
     {
       "codigo": "029513",
@@ -33456,7 +33444,7 @@
       "precoVenda": 204,
       "precoPromocao": 0,
       "estoque": 196,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0000000029815?v=1790989154194"
     },
     {
       "codigo": "029817",
@@ -35228,7 +35216,7 @@
       "precoVenda": 22.84,
       "precoPromocao": 12.99,
       "estoque": 12,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523216812?v=1790989156316",
       "tarja": "V",
       "substancia": "LEVONORGESTREL",
       "registroAnvisa": "1438100880027"
@@ -35483,7 +35471,7 @@
       "precoVenda": 9.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898126050091?v=1790989156960"
     },
     {
       "codigo": "031247",
@@ -36319,7 +36307,7 @@
       "precoVenda": 25.02,
       "precoPromocao": 19.99,
       "estoque": 10,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006201779?v=1790989158120",
       "tarja": "V",
       "substancia": "FOSFATO SÓDICO DE PREDNISOLONA",
       "registroAnvisa": "1049714240042"
@@ -36437,7 +36425,7 @@
       "precoVenda": 100,
       "precoPromocao": 0,
       "estoque": 42,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0000000315364?v=1790989158916"
     },
     {
       "codigo": "031538",
@@ -36716,7 +36704,7 @@
       "precoVenda": 33.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899547534290?v=1790989159157"
     },
     {
       "codigo": "031644",
@@ -38042,7 +38030,7 @@
       "precoVenda": 54.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600805?v=1790989160437"
     },
     {
       "codigo": "032583",
@@ -39095,7 +39083,7 @@
       "precoVenda": 59.97,
       "precoPromocao": 39.99,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600294?v=1790989162919"
     },
     {
       "codigo": "033292",
@@ -39563,7 +39551,7 @@
       "precoVenda": 214.04,
       "precoPromocao": 99.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899547523201?v=1790989161934",
       "tarja": "R",
       "substancia": "CLORIDRATO DE MOXIFLOXACINO",
       "registroAnvisa": "1256802840020"
@@ -39914,7 +39902,7 @@
       "precoVenda": 65.99,
       "precoPromocao": 0,
       "estoque": 7,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523200446?v=1790989162621",
       "tarja": "V",
       "substancia": "COLECALCIFEROL",
       "registroAnvisa": "1438102460262"
@@ -41053,7 +41041,7 @@
       "precoVenda": 19.99,
       "precoPromocao": 0,
       "estoque": 12,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164006755?v=1790989166179"
     },
     {
       "codigo": "034462",
@@ -41125,7 +41113,7 @@
       "precoVenda": 9.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523200026?v=1790989165625"
     },
     {
       "codigo": "034487",
@@ -41152,7 +41140,7 @@
       "precoVenda": 5.99,
       "precoPromocao": 0,
       "estoque": 16,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0034490?v=1790989165459"
     },
     {
       "codigo": "034501",
@@ -41777,7 +41765,7 @@
       "precoVenda": 49.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600928?v=1790989168709"
     },
     {
       "codigo": "034996",
@@ -42020,7 +42008,7 @@
       "precoVenda": 44.99,
       "precoPromocao": 0,
       "estoque": 22,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898638346781?v=1790989170545"
     },
     {
       "codigo": "035257",
@@ -42269,7 +42257,7 @@
       "precoVenda": 24.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164006762?v=1790989169886"
     },
     {
       "codigo": "035485",
@@ -42950,7 +42938,7 @@
       "precoVenda": 18.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7908512700810?v=1790989171991"
     },
     {
       "codigo": "035760",
@@ -43597,7 +43585,7 @@
       "precoVenda": 2.5,
       "precoPromocao": 2,
       "estoque": 26,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095264182?v=1790989172922"
     },
     {
       "codigo": "036419",
@@ -44231,7 +44219,7 @@
       "precoVenda": 26.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898014561517?v=1790989172859"
     },
     {
       "codigo": "037412",
@@ -44414,7 +44402,7 @@
       "precoVenda": 14.99,
       "precoPromocao": 0,
       "estoque": 12,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164005727?v=1790989174687"
     },
     {
       "codigo": "037776",
@@ -45993,7 +45981,7 @@
       "precoVenda": 29.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006201045?v=1790989177659"
     },
     {
       "codigo": "040167",
@@ -46693,7 +46681,7 @@
       "precoVenda": 49.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714290553?v=1790989177435"
     },
     {
       "codigo": "040554",
@@ -47458,7 +47446,7 @@
       "precoVenda": 29.58,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164005413?v=1790989178664"
     },
     {
       "codigo": "041110",
@@ -47470,7 +47458,7 @@
       "precoVenda": 29.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601390?v=1790989179294"
     },
     {
       "codigo": "041114",
@@ -47482,7 +47470,7 @@
       "precoVenda": 29.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601345?v=1790989179849"
     },
     {
       "codigo": "041115",
@@ -47494,7 +47482,7 @@
       "precoVenda": 59.97,
       "precoPromocao": 39.99,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601024?v=1790989181788"
     },
     {
       "codigo": "041124",
@@ -47551,7 +47539,7 @@
       "precoVenda": 46.45,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899420508219?v=1790989181549",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -47984,7 +47972,7 @@
       "precoVenda": 34.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947601604?v=1790989184213"
     },
     {
       "codigo": "041332",
@@ -48074,7 +48062,7 @@
       "precoVenda": 40.7,
       "precoPromocao": 27.99,
       "estoque": 11,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317478810?v=1790989184156",
       "tarja": "V",
       "substancia": "CLORIDRATO DE BETAISTINA",
       "registroAnvisa": "1004311290149"
@@ -49314,7 +49302,7 @@
       "precoVenda": 69.95,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716453271?v=1790989186622"
     },
     {
       "codigo": "042033",
@@ -49377,7 +49365,7 @@
       "precoVenda": 39.99,
       "precoPromocao": 24.99,
       "estoque": 8,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897917004350?v=1790989186062"
     },
     {
       "codigo": "042062",
@@ -49428,7 +49416,7 @@
       "precoVenda": 59.99,
       "precoPromocao": 0,
       "estoque": 9,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898638343087?v=1790989186775"
     },
     {
       "codigo": "042078",
@@ -49464,7 +49452,7 @@
       "precoVenda": 79.95,
       "precoPromocao": 0,
       "estoque": 8,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716453318?v=1790989189281"
     },
     {
       "codigo": "042087",
@@ -52980,7 +52968,7 @@
       "precoVenda": 135.97,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896023719004?v=1790989192699"
     },
     {
       "codigo": "043422",
@@ -53369,7 +53357,7 @@
       "precoVenda": 89.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980851?v=1790989191081"
     },
     {
       "codigo": "043573",
@@ -54191,7 +54179,7 @@
       "precoVenda": 29.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716451802?v=1790989191753"
     },
     {
       "codigo": "043862",
@@ -54323,7 +54311,7 @@
       "precoVenda": 145.59,
       "precoPromocao": 59.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112406105?v=1790989193858",
       "tarja": "V",
       "substancia": "CLORIDRATO DE TANSULOSINA",
       "registroAnvisa": "1097403420057"
@@ -54377,7 +54365,7 @@
       "precoVenda": 69.99,
       "precoPromocao": 0,
       "estoque": 7,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981049?v=1790989195882"
     },
     {
       "codigo": "043912",
@@ -54794,7 +54782,7 @@
       "precoVenda": 49.99,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716454582?v=1790989196834"
     },
     {
       "codigo": "044098",
@@ -54806,7 +54794,7 @@
       "precoVenda": 61.36,
       "precoPromocao": 0,
       "estoque": 5,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716454674?v=1790989196961"
     },
     {
       "codigo": "044099",
@@ -54938,7 +54926,7 @@
       "precoVenda": 34.6,
       "precoPromocao": 27.99,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897848500655?v=1790989198516"
     },
     {
       "codigo": "044125",
@@ -55058,7 +55046,7 @@
       "precoVenda": 123.2,
       "precoPromocao": 39.99,
       "estoque": 10,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947618015?v=1790989200456"
     },
     {
       "codigo": "044154",
@@ -56511,7 +56499,7 @@
       "precoVenda": 49.95,
       "precoPromocao": 0,
       "estoque": 13,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716453264?v=1790989199807"
     },
     {
       "codigo": "044575",
@@ -56919,7 +56907,7 @@
       "precoVenda": 69.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/630941798188?v=1790989203078"
     },
     {
       "codigo": "044700",
@@ -56931,7 +56919,7 @@
       "precoVenda": 70.64,
       "precoPromocao": 59.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897595634788?v=1790989203203",
       "tarja": "V",
       "substancia": "APIXABANA",
       "registroAnvisa": "1004706480048"
@@ -56976,7 +56964,7 @@
       "precoVenda": 74.65,
       "precoPromocao": 34.99,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006210788?v=1790989203668",
       "tarja": "V",
       "substancia": "MESILATO DE DOXAZOSINA",
       "registroAnvisa": "1049715320074"
@@ -57166,7 +57154,7 @@
       "precoVenda": 69.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0044764?v=1790989205757"
     },
     {
       "codigo": "044765",
@@ -58554,7 +58542,7 @@
       "precoVenda": 74.88,
       "precoPromocao": 48.95,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898927564155?v=1790989207551",
       "tarja": "R",
       "receitaRemota": true,
       "confirmarReceita": true,
@@ -58592,7 +58580,7 @@
       "precoVenda": 23.18,
       "precoPromocao": 0,
       "estoque": 8,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004701462?v=1790989209247",
       "tarja": "P",
       "bloqueioPresencial": true,
       "controleEspecial": "B1",
@@ -60650,7 +60638,7 @@
       "precoVenda": 69.95,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898927980115?v=1790989210456"
     },
     {
       "codigo": "045905",
@@ -60717,7 +60705,7 @@
       "precoVenda": 23.95,
       "precoPromocao": 0,
       "estoque": 5,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898014566895?v=1790989210394"
     },
     {
       "codigo": "045954",
@@ -61257,7 +61245,7 @@
       "precoVenda": 12.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947617759?v=1790989212032"
     },
     {
       "codigo": "046175",
@@ -61296,7 +61284,7 @@
       "precoVenda": 49.95,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896023733390?v=1790989213064"
     },
     {
       "codigo": "046185",
@@ -61308,7 +61296,7 @@
       "precoVenda": 99.95,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898599098460?v=1790989213512"
     },
     {
       "codigo": "046186",
@@ -61332,7 +61320,7 @@
       "precoVenda": 79.95,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/630941796603?v=1790989214243"
     },
     {
       "codigo": "046194",
@@ -61344,7 +61332,7 @@
       "precoVenda": 99.95,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898599097760?v=1790989216423"
     },
     {
       "codigo": "046195",
@@ -61394,7 +61382,7 @@
       "precoVenda": 29.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897917003438?v=1790989216627"
     },
     {
       "codigo": "046201",
@@ -62057,7 +62045,7 @@
       "precoVenda": 24.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898656160734?v=1790989217255"
     },
     {
       "codigo": "046329",
@@ -62105,7 +62093,7 @@
       "precoVenda": 89.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898599097517?v=1790989219427"
     },
     {
       "codigo": "046338",
@@ -62549,7 +62537,7 @@
       "precoVenda": 14.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897835703182?v=1790989220676"
     },
     {
       "codigo": "046490",
@@ -63358,7 +63346,7 @@
       "precoVenda": 208.33,
       "precoPromocao": 139.99,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700410341?v=1790989222285",
       "tarja": "V",
       "substancia": "HESPERIDINA;DIOSMINA",
       "registroAnvisa": "1039202030025"
@@ -63388,7 +63376,7 @@
       "precoVenda": 79.99,
       "precoPromocao": 39.99,
       "estoque": 3,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899547531336?v=1790989222277",
       "tarja": "V",
       "substancia": "COLECALCIFEROL",
       "registroAnvisa": "1256802950071"
@@ -63708,7 +63696,7 @@
       "precoVenda": 71.99,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898714760180?v=1790989223400"
     },
     {
       "codigo": "046855",
@@ -64592,7 +64580,7 @@
       "precoVenda": 49.99,
       "precoPromocao": 0,
       "estoque": 23,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7893992800412?v=1790989225641"
     },
     {
       "codigo": "047088",
@@ -64640,7 +64628,7 @@
       "precoVenda": 36.99,
       "precoPromocao": 0,
       "estoque": 51,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716458115?v=1790989225904"
     },
     {
       "codigo": "047100",
@@ -64652,7 +64640,7 @@
       "precoVenda": 179.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716456180?v=1790989227422"
     },
     {
       "codigo": "047101",
@@ -64664,7 +64652,7 @@
       "precoVenda": 79.99,
       "precoPromocao": 0,
       "estoque": 8,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716453301?v=1790989227803"
     },
     {
       "codigo": "047105",
@@ -65954,7 +65942,7 @@
       "precoVenda": 39.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897930011229?v=1790989229190",
       "tarja": "V",
       "substancia": "GINKGO BILOBA L.",
       "registroAnvisa": "1047300440024"
@@ -65969,7 +65957,7 @@
       "precoVenda": 19.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898014566697?v=1790989229521"
     },
     {
       "codigo": "047469",
@@ -66304,7 +66292,7 @@
       "precoVenda": 41.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896380602940?v=1790989229322"
     },
     {
       "codigo": "047588",
@@ -66355,7 +66343,7 @@
       "precoVenda": 15,
       "precoPromocao": 0,
       "estoque": 7389,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0047595?v=1790989232533"
     },
     {
       "codigo": "047598",
@@ -66425,7 +66413,7 @@
       "precoVenda": 50,
       "precoPromocao": 0,
       "estoque": 28,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0047608?v=1790989233700"
     },
     {
       "codigo": "047641",
@@ -66549,7 +66537,7 @@
       "precoVenda": 39.99,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006298489?v=1790989233615"
     },
     {
       "codigo": "047660",
@@ -66772,7 +66760,7 @@
       "precoVenda": 31.28,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899551308917?v=1790989235273",
       "tarja": "V",
       "substancia": "SUCCINATO DE SUMATRIPTANA",
       "registroAnvisa": "1097403480017"
@@ -66799,7 +66787,7 @@
       "precoVenda": 59.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/630941797549?v=1790989236119"
     },
     {
       "codigo": "047758",
@@ -67204,7 +67192,7 @@
       "precoVenda": 54.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716458917?v=1790989236793"
     },
     {
       "codigo": "047865",
@@ -67294,7 +67282,7 @@
       "precoVenda": 23.44,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095204522?v=1790989237795",
       "tarja": "R",
       "substancia": "DEXAMETASONA;SULFATO DE NEOMICINA;SULFATO DE POLIMIXINA B",
       "registroAnvisa": "1542301880010"
@@ -68633,7 +68621,7 @@
       "precoVenda": 79.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896023770975?v=1790989238702"
     },
     {
       "codigo": "048266",
@@ -68729,7 +68717,7 @@
       "precoVenda": 45.8,
       "precoPromocao": 29.99,
       "estoque": 21,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899470807751?v=1790989242053",
       "tarja": "V",
       "substancia": "VALERIANA OFFICINALIS L.",
       "registroAnvisa": "1384100460130"
@@ -68756,7 +68744,7 @@
       "precoVenda": 25.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721065?v=1790989241438"
     },
     {
       "codigo": "048286",
@@ -69923,7 +69911,7 @@
       "precoVenda": 84.99,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/040141780997?v=1790989243013"
     },
     {
       "codigo": "048824",
@@ -69995,7 +69983,7 @@
       "precoVenda": 101.97,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/040141781031?v=1790989244077"
     },
     {
       "codigo": "048844",
@@ -70061,7 +70049,7 @@
       "precoVenda": 61.8,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004787749?v=1790989246274",
       "tarja": "V",
       "substancia": "CLORIDRATO DE NARATRIPTANA",
       "registroAnvisa": "1677306690057"
@@ -70704,7 +70692,7 @@
       "precoVenda": 119.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/40141781017?v=1790989246348"
     },
     {
       "codigo": "049016",
@@ -71108,7 +71096,7 @@
       "precoVenda": 73.77,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112153641?v=1790989245938",
       "tarja": "V",
       "substancia": "FERRIPOLIMALTOSE",
       "registroAnvisa": "1037007980031"
@@ -71737,7 +71725,7 @@
       "precoVenda": 46.68,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894916996938?v=1790989248214",
       "tarja": "L",
       "substancia": "ACETILCISTEÍNA",
       "registroAnvisa": "1677306910065"
@@ -72022,7 +72010,7 @@
       "precoVenda": 34.06,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006200918?v=1790989249597",
       "tarja": "V",
       "substancia": "COLECALCIFEROL",
       "registroAnvisa": "1049714850215"
@@ -72392,7 +72380,7 @@
       "precoVenda": 39.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112113829?v=1790989250937",
       "tarja": "V",
       "substancia": "COLECALCIFEROL",
       "registroAnvisa": "1037008000055"
@@ -72740,7 +72728,7 @@
       "precoVenda": 23.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896023704390?v=1790989249913"
     },
     {
       "codigo": "049340",
@@ -73016,7 +73004,7 @@
       "precoVenda": 139.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716456104?v=1790989252032"
     },
     {
       "codigo": "049503",
@@ -75311,7 +75299,7 @@
       "precoVenda": 14.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898633383453?v=1790989253878"
     },
     {
       "codigo": "050151",
@@ -75392,7 +75380,7 @@
       "precoVenda": 59.99,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7901051201770?v=1790989253346"
     },
     {
       "codigo": "050172",
@@ -75419,7 +75407,7 @@
       "precoVenda": 49.99,
       "precoPromocao": 0,
       "estoque": 10,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716459501?v=1790989254155"
     },
     {
       "codigo": "050176",
@@ -75789,7 +75777,7 @@
       "precoVenda": 19.99,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898277714613?v=1790989259603"
     },
     {
       "codigo": "050268",
@@ -77004,7 +76992,7 @@
       "precoVenda": 99.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/042882237600?v=1790989257668"
     },
     {
       "codigo": "050579",
@@ -77454,7 +77442,7 @@
       "precoVenda": 61.2,
       "precoPromocao": 49.99,
       "estoque": 12,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720174?v=1790989256781"
     },
     {
       "codigo": "050711",
@@ -77466,7 +77454,7 @@
       "precoVenda": 99.99,
       "precoPromocao": 0,
       "estoque": 6,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980295?v=1790989260024"
     },
     {
       "codigo": "050712",
@@ -77594,7 +77582,7 @@
       "precoVenda": 39.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7908966557855?v=1790989259588"
     },
     {
       "codigo": "050744",
@@ -77805,7 +77793,7 @@
       "precoVenda": 52.59,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112409380?v=1790989262577",
       "tarja": "V",
       "substancia": "MECOBALAMINA",
       "registroAnvisa": "1097403710020"
