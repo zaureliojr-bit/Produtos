@@ -22703,6 +22703,18 @@
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896049508545?v=1790983185278"
     },
     {
+      "codigo": "020469",
+      "ean": "7898157301407",
+      "descricao": "Esfigmomanometro Aneroide+Estetoscopio",
+      "marca": "DIVERSOS",
+      "laboratorio": "DIVERSOS",
+      "categoria": "DIVERSOS",
+      "precoVenda": 149.99,
+      "precoPromocao": 0,
+      "estoque": 1,
+      "imagem": ""
+    },
+    {
       "codigo": "020555",
       "ean": "7896018700604",
       "descricao": "LençO Umedecido Huggies 048un HidrataçãO E NutriçãO Toalhinhas",
@@ -28136,6 +28148,18 @@
       "imagem": ""
     },
     {
+      "codigo": "026139",
+      "ean": "7896006718499",
+      "descricao": "Test",
+      "marca": "DIVERSOS",
+      "laboratorio": "DIVERSOS",
+      "categoria": "VAREJO",
+      "precoVenda": 0.01,
+      "precoPromocao": 0,
+      "estoque": 5448,
+      "imagem": ""
+    },
+    {
       "codigo": "026142",
       "ean": "4005900396938",
       "descricao": "Desodorante Nivea Aerossol 150ml Men Original Protect",
@@ -32874,6 +32898,18 @@
       "precoVenda": 79.99,
       "precoPromocao": 0,
       "estoque": 1,
+      "imagem": ""
+    },
+    {
+      "codigo": "029393",
+      "ean": "0000000029393",
+      "descricao": "Teste De Glicemia Und",
+      "marca": "DIVERSOS",
+      "laboratorio": "DIVERSOS",
+      "categoria": "PERF/APLIC/AFERICAO",
+      "precoVenda": 10,
+      "precoPromocao": 0,
+      "estoque": 575,
       "imagem": ""
     },
     {
