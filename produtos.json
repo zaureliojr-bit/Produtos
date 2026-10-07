@@ -26,7 +26,7 @@
       "precoPromocao": 0,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7893736007527?v=1787405564907",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ÁCIDO ACETILSALICÍLICO",
       "registroAnvisa": "1071500690051"
     },
@@ -458,7 +458,7 @@
       "precoPromocao": 0,
       "estoque": 11,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004810225?v=1786847376779",
-      "tarja": "R",
+      "tarja": "L",
       "substancia": "CLOTRIMAZOL",
       "registroAnvisa": "1677301830012"
     },
@@ -562,7 +562,7 @@
       "precoPromocao": 0,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891721100017?v=1790177681412",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ÁCIDO ASCÓRBICO",
       "registroAnvisa": "1214206680021"
     },
@@ -690,7 +690,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896255702218?v=1790177746168",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "COLAGENASE;CLORANFENICOL",
       "registroAnvisa": "1055302590075"
     },
@@ -1144,7 +1144,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896255765466?v=1790177752238",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "COLAGENASE;CLORANFENICOL",
       "registroAnvisa": "1055302590024"
     },
@@ -1227,7 +1227,7 @@
       "precoPromocao": 0,
       "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891106006286?v=1790177821412",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ÁCIDO ASCÓRBICO",
       "registroAnvisa": "1705600160077"
     },
@@ -1329,7 +1329,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891142171757?v=1790177808279",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1781708110041"
     },
@@ -1359,7 +1359,7 @@
       "precoPromocao": 0,
       "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891142171719?v=1790177808754",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1781708110017"
     },
@@ -2667,7 +2667,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891106001946?v=1790177656794",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ÁCIDO ACETILSALICÍLICO",
       "registroAnvisa": "1705600220037"
     },
@@ -3128,7 +3128,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896637022835?v=1790177777713",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "CLORIDRATO DE CICLOBENZAPRINA",
       "registroAnvisa": "1011801290010"
     },
@@ -3143,7 +3143,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896637022842?v=1790177777281",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "CLORIDRATO DE CICLOBENZAPRINA",
       "registroAnvisa": "1011801290040"
     },
@@ -5585,7 +5585,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898074617445?v=1790177737185",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ACETILCISTEÍNA",
       "registroAnvisa": "1008400750407"
     },
@@ -6147,7 +6147,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094201774?v=1790177851120",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "FUROATO DE MOMETASONA",
       "registroAnvisa": "1003301140030"
     },
@@ -6760,7 +6760,7 @@
       "precoPromocao": 5.99,
       "estoque": 17,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112116660?v=1790176384677",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "CAPTOPRIL",
       "registroAnvisa": "1037004520186"
     },
@@ -7031,7 +7031,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896637023665?v=1790679681164",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "CLORIDRATO DE CICLOBENZAPRINA",
       "registroAnvisa": "1011801290075"
     },
@@ -7065,7 +7065,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891142171191?v=1790177808401",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1781708110025"
     },
@@ -7746,7 +7746,7 @@
       "precoPromocao": 0,
       "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714214115?v=1790176360340",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "ACEBROFILINA",
       "registroAnvisa": "1558403980010"
     },
@@ -7883,7 +7883,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891142171061?v=1790177808602",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1781708110084"
     },
@@ -7943,7 +7943,7 @@
       "precoPromocao": 14.99,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004712543?v=1790176413177",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "MESILATO DE DOXAZOSINA",
       "registroAnvisa": "1058307980046"
     },
@@ -7958,7 +7958,7 @@
       "precoPromocao": 19.99,
       "estoque": 27,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095201415?v=1787241419607",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1542300120031"
     },
@@ -7988,7 +7988,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896422511902?v=1790176458001",
-      "tarja": "R",
+      "tarja": "V",
       "receitaRemota": true,
       "confirmarReceita": true,
       "controleEspecial": "C1",
@@ -9359,7 +9359,7 @@
       "precoPromocao": 0,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004721231?v=1790176401156",
-      "tarja": "R",
+      "tarja": "L",
       "substancia": "CLOTRIMAZOL",
       "registroAnvisa": "1058305190013"
     },
@@ -9709,7 +9709,7 @@
       "precoPromocao": 0,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891106004213?v=1790177656120",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ÁCIDO ACETILSALICÍLICO",
       "registroAnvisa": "1705600200044"
     },
@@ -11190,7 +11190,7 @@
       "precoPromocao": 19.99,
       "estoque": 12,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714228853?v=1790176439957",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "MELOXICAM",
       "registroAnvisa": "1558400650011"
     },
@@ -11744,7 +11744,7 @@
       "precoPromocao": 39.99,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095203556?v=1790680075141",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ACETILCISTEÍNA",
       "registroAnvisa": "1542301400035"
     },
@@ -11759,7 +11759,7 @@
       "precoPromocao": 0,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095203532?v=1790680073046",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ACETILCISTEÍNA",
       "registroAnvisa": "1542301400078"
     },
@@ -11974,7 +11974,7 @@
       "precoPromocao": 24.99,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112129295?v=1790176412814",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "MESILATO DE DOXAZOSINA",
       "registroAnvisa": "1037005350047"
     },
@@ -12677,7 +12677,7 @@
       "precoPromocao": 29.99,
       "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714218892?v=1790176445212",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "FUROATO DE MOMETASONA",
       "registroAnvisa": "1558402280015"
     },
@@ -13317,7 +13317,7 @@
       "precoPromocao": 0,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896658014215?v=1790177778688",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "MONTELUCASTE DE SÓDIO",
       "registroAnvisa": "1057304050041"
     },
@@ -13362,7 +13362,7 @@
       "precoPromocao": 19.99,
       "estoque": 11,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714226033?v=1790989122302",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1558403730278"
     },
@@ -13449,7 +13449,7 @@
       "precoPromocao": 0,
       "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523209142?v=1790176448779",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "SULFATO DE NEOMICINA;BACITRACINA ZÍNCICA",
       "registroAnvisa": "1438101210025"
     },
@@ -13464,7 +13464,7 @@
       "precoPromocao": 0,
       "estoque": 121,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112127680?v=1790176407082",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1037003090056"
     },
@@ -13677,7 +13677,7 @@
       "precoPromocao": 14.99,
       "estoque": 21,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714219301?v=1787241829889",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1558405730021"
     },
@@ -13692,7 +13692,7 @@
       "precoPromocao": 19.99,
       "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714219318?v=1787241949675",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1558403730030"
     },
@@ -14289,7 +14289,7 @@
       "precoPromocao": 0,
       "estoque": 94,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095221338?v=1790680113189",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "CLORIDRATO DE FENILEFRINA",
       "registroAnvisa": "1542301810039"
     },
@@ -14451,7 +14451,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898912189059?v=1790176439421",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "MELOXICAM",
       "registroAnvisa": "1564900010049"
     },
@@ -14742,7 +14742,7 @@
       "precoPromocao": 0,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317487317?v=1790177865203",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "ENOXAPARINA SÓDICA",
       "registroAnvisa": "1004310160101"
     },
@@ -15440,7 +15440,7 @@
       "precoPromocao": 44.99,
       "estoque": 11,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095239401?v=1790680100474",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ACETILCISTEÍNA",
       "registroAnvisa": "1542301400221"
     },
@@ -15995,7 +15995,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317485153?v=1790177730856",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "ACEBROFILINA",
       "registroAnvisa": "1004310860022"
     },
@@ -16523,7 +16523,7 @@
       "precoPromocao": 39.99,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714221083?v=1790680082232",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "DICLOFENACO DIETILAMÔNIO",
       "registroAnvisa": "1558403050080"
     },
@@ -16775,7 +16775,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896658023323?v=1790177778971",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "MONTELUCASTE DE SÓDIO",
       "registroAnvisa": "1057304050112"
     },
@@ -18645,7 +18645,7 @@
       "precoPromocao": 0,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896658014321?v=1790177670327",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "DICLOFENACO DIETILAMÔNIO",
       "registroAnvisa": "1057301400406"
     },
@@ -19749,7 +19749,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317014773?v=1790177720559",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "ACETATO DE RACEALFATOCOFEROL",
       "registroAnvisa": "1004313780021"
     },
@@ -20797,7 +20797,7 @@
       "precoPromocao": 0,
       "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899547503296?v=1790176407560",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "MALEATO DE DEXCLORFENIRAMINA",
       "registroAnvisa": "1256800580072"
     },
@@ -21027,7 +21027,7 @@
       "precoPromocao": 0,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094917460?v=1790177660039",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "DIPIRONA",
       "registroAnvisa": "1781708620031"
     },
@@ -21333,7 +21333,7 @@
       "precoPromocao": 9.99,
       "estoque": 14,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898049796168?v=1790176425394",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "FLUCONAZOL",
       "registroAnvisa": "1039201900034"
     },
@@ -27162,7 +27162,7 @@
       "precoPromocao": 19.99,
       "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898133131509?v=1787241348905",
-      "tarja": "R",
+      "tarja": "L",
       "substancia": "PARACETAMOL",
       "registroAnvisa": "1384100030111"
     },
@@ -34712,7 +34712,7 @@
       "precoPromocao": 0,
       "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898133136757?v=1787241725164",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "HEDERA HELIX L.",
       "registroAnvisa": "1384100470012"
     },
@@ -34727,7 +34727,7 @@
       "precoPromocao": 0,
       "estoque": 6,
       "imagem": "",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "HEDERA HELIX L.",
       "registroAnvisa": "1384100470098"
     },
@@ -38142,7 +38142,7 @@
       "precoPromocao": 34.99,
       "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112103776?v=1790679693599",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "CLORIDRATO DE TIAMINA",
       "registroAnvisa": "1037002610048"
     },
@@ -43239,7 +43239,7 @@
       "precoPromocao": 18.99,
       "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714211275?v=1790176430390",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "IBUPROFENO",
       "registroAnvisa": "1558402720015"
     },
@@ -46999,7 +46999,7 @@
       "precoPromocao": 7.99,
       "estoque": 12,
       "imagem": "",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "FUROSEMIDA",
       "registroAnvisa": "1542302650019"
     },
@@ -47949,7 +47949,7 @@
       "precoPromocao": 19.99,
       "estoque": 22,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004777801?v=1790176432058",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "IVERMECTINA",
       "registroAnvisa": "1058309890028"
     },
@@ -50559,7 +50559,7 @@
       "precoPromocao": 6.66,
       "estoque": 130,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/742832304740?v=1790176459045",
-      "tarja": "R",
+      "tarja": "L",
       "substancia": "PARACETAMOL",
       "registroAnvisa": "1201901060026"
     },
@@ -52670,7 +52670,7 @@
     {
       "codigo": "042522",
       "ean": "7500435244671",
-      "descricao": "Fralda Pampers Supersec Xg C/4x32",
+      "descricao": "Fralda Pampers Supersec Xg C/32",
       "marca": "Pampers",
       "laboratorio": "PAMPERS",
       "categoria": "FR INFANTIL",
@@ -66877,7 +66877,7 @@
       "precoPromocao": 19.99,
       "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095230224?v=1790704995965",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "DIPIRONA",
       "registroAnvisa": "1542300800013"
     },
@@ -70259,7 +70259,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094201767?v=1790177851244",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "FUROATO DE MOMETASONA",
       "registroAnvisa": "1003301140022"
     },
@@ -74018,7 +74018,7 @@
       "precoPromocao": 0,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898148290420?v=1790176389571",
-      "tarja": "R",
+      "tarja": "V",
       "substancia": "CETOCONAZOL",
       "registroAnvisa": "1256801920039"
     },
@@ -81752,7 +81752,7 @@
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891142207500?v=1790177678707",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "DICLOFENACO DIETILAMÔNIO",
       "registroAnvisa": "1781709160085"
     },
@@ -84583,7 +84583,7 @@
       "precoVenda": 99.99,
       "precoPromocao": 0,
       "estoque": 10,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435132824?v=1791347681632"
     },
     {
       "codigo": "051700",
@@ -84595,7 +84595,7 @@
       "precoVenda": 99.99,
       "precoPromocao": 0,
       "estoque": 14,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435132831?v=1791347694139"
     },
     {
       "codigo": "051706",
@@ -84844,7 +84844,7 @@
       "precoPromocao": 24.99,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714230030?v=1790696077007",
-      "tarja": "V",
+      "tarja": "L",
       "substancia": "DICLOFENACO DIETILAMÔNIO",
       "registroAnvisa": "1558403050013"
     },
