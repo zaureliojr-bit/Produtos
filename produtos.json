@@ -705,7 +705,7 @@
       "categoria": "ETICO",
       "precoVenda": 14.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891010256364?v=1790177750623"
     },
     {
@@ -1965,7 +1965,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 16.53,
       "precoPromocao": 14.99,
-      "estoque": 10,
+      "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112141655?v=1790680090806"
     },
     {
@@ -2182,7 +2182,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 38.96,
       "precoPromocao": 24.99,
-      "estoque": 138,
+      "estoque": 137,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004714578?v=1790680112079"
     },
     {
@@ -2674,7 +2674,7 @@
       "categoria": "ETICO",
       "precoVenda": 59.91,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896206402013?v=1790177816842"
     },
     {
@@ -4024,7 +4024,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 23.3,
       "precoPromocao": 9.99,
-      "estoque": 117,
+      "estoque": 116,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523202822?v=1790680110178"
     },
     {
@@ -7954,7 +7954,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 19,
+      "estoque": 17,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004722474?v=1790176436038"
     },
     {
@@ -9284,7 +9284,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 9.99,
       "precoPromocao": 6.99,
-      "estoque": 178,
+      "estoque": 171,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714208565?v=1790176437831"
     },
     {
@@ -10323,7 +10323,7 @@
       "categoria": "CARTELADOS",
       "precoVenda": 10.59,
       "precoPromocao": 0,
-      "estoque": 10,
+      "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094903104?v=1790177720742"
     },
     {
@@ -11014,7 +11014,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 29,
       "precoPromocao": 0,
-      "estoque": 27,
+      "estoque": 26,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523207681?v=1790680111126"
     },
     {
@@ -14048,7 +14048,7 @@
       "categoria": "CARTELADOS",
       "precoVenda": 8.5,
       "precoPromocao": 0,
-      "estoque": 41,
+      "estoque": 38,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891058017392?v=1790177711968"
     },
     {
@@ -16420,7 +16420,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 111.51,
       "precoPromocao": 24.99,
-      "estoque": 15,
+      "estoque": 12,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896181929161?v=1790176478593"
     },
     {
@@ -17819,18 +17819,6 @@
       "precoPromocao": 0,
       "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896000705990?v=1790983098688"
-    },
-    {
-      "codigo": "019252",
-      "ean": "7896000706072",
-      "descricao": "Tintura Capilar Permanente Niely Cor&Ton Cor 8.1 Louro Cinza Claro",
-      "marca": "NIELY PROCOSA",
-      "laboratorio": "NIELY PROCOSA",
-      "categoria": "TINTURA",
-      "precoVenda": 14.99,
-      "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896000706072?v=1790983101726"
     },
     {
       "codigo": "019255",
@@ -20949,7 +20937,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 3.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896914000266?v=1790983300096"
     },
     {
@@ -21249,7 +21237,7 @@
       "categoria": "VAREJO",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 26,
+      "estoque": 25,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896902211544?v=1789766486114"
     },
     {
@@ -22557,7 +22545,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896085111006?v=1789767135453"
     },
     {
@@ -26993,7 +26981,7 @@
       "categoria": "VAREJO",
       "precoVenda": 6.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891800342000?v=1789767629588"
     },
     {
@@ -32010,7 +31998,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 23.3,
       "precoPromocao": 12.99,
-      "estoque": 81,
+      "estoque": 80,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523216812?v=1790989156316"
     },
     {
@@ -35312,7 +35300,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 19.99,
       "precoPromocao": 14.99,
-      "estoque": 393,
+      "estoque": 392,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523200576?v=1790680114074"
     },
     {
@@ -37210,18 +37198,6 @@
       "precoPromocao": 52.25,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/5060632508768?v=1790177840383"
-    },
-    {
-      "codigo": "034221",
-      "ean": "7898301058508",
-      "descricao": "G-Tech Inalador Nebulizador Adulto",
-      "marca": "OUTROS",
-      "laboratorio": "OUTROS",
-      "categoria": "PERFUMARIA",
-      "precoVenda": 30.99,
-      "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898301058508?v=1790984142115"
     },
     {
       "codigo": "034222",
@@ -39391,7 +39367,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891150080966?v=1786847420546"
     },
     {
@@ -42070,7 +42046,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 35.5,
       "precoPromocao": 29.99,
-      "estoque": 29,
+      "estoque": 28,
       "imagem": ""
     },
     {
@@ -44450,7 +44426,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 12,
+      "estoque": 11,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896830011001?v=1787241075683"
     },
     {
@@ -47869,7 +47845,7 @@
       "categoria": "ETICO",
       "precoVenda": 16.99,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898636193509?v=1790177838420"
     },
     {
@@ -48998,7 +48974,7 @@
       "categoria": "GENERICO",
       "precoVenda": 59.85,
       "precoPromocao": 44.99,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": ""
     },
     {
@@ -55908,18 +55884,6 @@
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317025571?v=1790978888225"
     },
     {
-      "codigo": "045856",
-      "ean": "7896004774626",
-      "descricao": "Repoflor 250mg Fralda 10 Cap",
-      "marca": "LEGRAND",
-      "laboratorio": "LEGRAND",
-      "categoria": "SIMILAR",
-      "precoVenda": 71.34,
-      "precoPromocao": 39.99,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004774626?v=1787241409405"
-    },
-    {
       "codigo": "045859",
       "ean": "7898636194186",
       "descricao": "Isotonico Sorox Frutas Amarelas 550ml",
@@ -58049,7 +58013,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 6.99,
       "precoPromocao": 0,
-      "estoque": 288,
+      "estoque": 284,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714296074?v=1790704935270"
     },
     {
@@ -59403,7 +59367,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 23.09,
       "precoPromocao": 12.99,
-      "estoque": 185,
+      "estoque": 184,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898079009122?v=1787241447832"
     },
     {
@@ -62238,7 +62202,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 23.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898585296351?v=1789765942700"
     },
     {
@@ -64584,7 +64548,7 @@
       "categoria": "ETICO",
       "precoVenda": 14.97,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898216368051?v=1790177740644"
     },
     {
@@ -67785,7 +67749,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 7.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898675099503?v=1789766909874"
     },
     {
@@ -79056,7 +79020,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 3.2,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898958338251?v=1786846670274"
     },
     {
@@ -80080,7 +80044,7 @@
       "categoria": "PREMIUM 10",
       "precoVenda": 23.32,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898430195082?v=1790680100535"
     },
     {
