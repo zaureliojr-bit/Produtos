@@ -74692,18 +74692,6 @@
       "tipoReceita": "Notificação de Receita B (azul)"
     },
     {
-      "codigo": "051283",
-      "ean": "7893095103090",
-      "descricao": "Bio Floryda Acessorios Lixa P/ Pes Ralixa Ref-166",
-      "marca": "DIVERSOS",
-      "laboratorio": "DIVERSOS",
-      "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 7.99,
-      "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7893095103090?v=1786846747221"
-    },
-    {
       "codigo": "051284",
       "ean": "7900083017502",
       "descricao": "Base Liquida Blow Ruby Rose Bw50 30ml",
