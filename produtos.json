@@ -107,11 +107,14 @@
       "precoVenda": 43.77,
       "precoPromocao": 34.99,
       "estoque": 6,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004810140?v=1793223913425",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOtNz5z09pGZ9tGxfXJYv8qUsl8aAXyC5ikQ-BJ9giw&s=10",
       "confirmarReceita": true,
       "substancia": "SULFATO DE NEOMICINA;TARTARATO DE BISMUTO E SÓDIO;CLORIDRATO DE PROCAÍNA",
       "registroAnvisa": "1677303440017",
-      "classeTerapeutica": "R2A - PREPARAÇÕES PARA GARGANTA"
+      "classeTerapeutica": "R2A - PREPARAÇÕES PARA GARGANTA",
+      "edicaoRede": {
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOtNz5z09pGZ9tGxfXJYv8qUsl8aAXyC5ikQ-BJ9giw&s=10"
+      }
     },
     {
       "codigo": "000063",
