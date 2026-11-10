@@ -49152,14 +49152,15 @@
     {
       "codigo": "040014",
       "ean": "7898700720204",
-      "descricao": "Testomil Ftw - 60 C�Ps",
-      "marca": "BLACK SKULL",
-      "laboratorio": "BLACK SKULL",
+      "descricao": "Feno Lib Homem Com 60 Cápsulas - Estimulante",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 109.99,
+      "precoVenda": 139.99,
       "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720204?v=1790265086320"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720204?v=1794346280200",
+      "encomenda": true
     },
     {
       "codigo": "040019",
@@ -49941,14 +49942,15 @@
     {
       "codigo": "040545",
       "ean": "7898908593310",
-      "descricao": "Vinagre De Ma�� 400ml",
-      "marca": "MELORA DO BRASIL",
-      "laboratorio": "MELORA DO BRASIL",
+      "descricao": "Vinagre De Maçã 400ml",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
       "categoria": "VAREJO",
-      "precoVenda": 14.99,
+      "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898908593310?v=1789767394414"
+      "estoque": -1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898908593310?v=1794346281969",
+      "encomenda": true
     },
     {
       "codigo": "040554",
@@ -56748,14 +56750,15 @@
     {
       "codigo": "043556",
       "ean": "7898953981254",
-      "descricao": "Alivio Nature Curcuma Com/30caps",
+      "descricao": "Alívio Nature - Cúrcuma Com 30 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 67.99,
-      "precoPromocao": 0,
-      "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981254?v=1790266413635"
+      "precoPromocao": 64.99,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981254?v=1790266413635",
+      "encomenda": true
     },
     {
       "codigo": "043558",
@@ -56772,25 +56775,26 @@
     {
       "codigo": "043559",
       "ean": "7898953981377",
-      "descricao": "Blue C Zinco Com/60caps",
+      "descricao": "Blue C Zinco - Vitamina C + Zinco Com 60 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 49.99,
+      "precoVenda": 84.99,
       "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981377?v=1790265059354"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981377?v=1794347565435",
+      "encomenda": true
     },
     {
       "codigo": "043564",
       "ean": "7898953981421",
-      "descricao": "Blue Slim Thermo 9x1 Com/60caps",
+      "descricao": "Blue Slim Thermo - Termogênico Com 60 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 114.99,
+      "precoVenda": 104.99,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981421?v=1790265058592"
     },
     {
@@ -56802,56 +56806,58 @@
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 9,
       "imagem": ""
     },
     {
       "codigo": "043570",
       "ean": "7898953980714",
-      "descricao": "Blue Zinco Kids Laranja 240ml",
+      "descricao": "Blue Zinco Kids - Polivitamínico Infantil 250 Ml - Sabor Cereja",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 59.99,
-      "precoPromocao": 34.99,
-      "estoque": 1,
+      "precoPromocao": 0,
+      "estoque": 3,
       "imagem": ""
     },
     {
       "codigo": "043571",
       "ean": "7898953980929",
-      "descricao": "Blue Zinco Max Com/30caps",
+      "descricao": "Blue Zinco Max Polivitamínico Com 30 Comprimidos",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 54.99,
       "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980929?v=1790266810582"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980929?v=1794346298536",
+      "encomenda": true
     },
     {
       "codigo": "043572",
       "ean": "7898953980851",
-      "descricao": "Blue Zincomulhaer Max Com/60caps",
+      "descricao": "Blue Zinco Max Mulher Polivitamínico Com 60 Comprimidos",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 89.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980851?v=1790989191081"
     },
     {
       "codigo": "043574",
       "ean": "7898953982008",
-      "descricao": "Caimblue Com/60caps",
+      "descricao": "Caimblue - Potássio, Magnésio, Vitamina B1 Com 60 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 69.99,
+      "precoVenda": 99.99,
       "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982008?v=1790265015373"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982008?v=1790265015373",
+      "encomenda": true
     },
     {
       "codigo": "043580",
@@ -56859,23 +56865,24 @@
       "descricao": "Maternitest Tira",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
-      "categoria": "SIMILAR",
+      "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 12,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898226050229?v=1793224030388"
+      "estoque": 277,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898226050229?v=1794346306924"
     },
     {
       "codigo": "043581",
       "ean": "7898953981339",
-      "descricao": "Blue Mag Gastro Com/24",
+      "descricao": "Blue Mag Gastro - Antiácido Com 24 Pastilhas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 5,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981339?v=1790265137187"
+      "estoque": -2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981339?v=1794346307510",
+      "encomenda": true
     },
     {
       "codigo": "043582",
@@ -58472,14 +58479,14 @@
     {
       "codigo": "044159",
       "ean": "7898953980165",
-      "descricao": "Blue Slim Cromo + Triptofano + Laranja Moro Com/30 Cápsulas",
+      "descricao": "Blue Slim - Picolinato De Cromo Com 30 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 74.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980165?v=1790265080631"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980165?v=1794346293507"
     },
     {
       "codigo": "044160",
@@ -59436,14 +59443,14 @@
     {
       "codigo": "044448",
       "ean": "7898953980523",
-      "descricao": "Blue Vita Calcio Com/180 Cápsulas",
+      "descricao": "Blue Vita Cálcio Com 180 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 149.99,
       "precoPromocao": 0,
-      "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980523?v=1790264985153"
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980523?v=1794346315927"
     },
     {
       "codigo": "044452",
@@ -63818,8 +63825,9 @@
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 6,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720044?v=1790265109343"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720044?v=1790265109343",
+      "encomenda": true
     },
     {
       "codigo": "045759",
@@ -66861,10 +66869,10 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 109.99,
+      "precoVenda": 135.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981261?v=1794346284014"
     },
     {
       "codigo": "046680",
@@ -66873,9 +66881,9 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 69.99,
+      "precoVenda": 72.99,
       "precoPromocao": 0,
-      "estoque": 11,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720136?v=1790265140050"
     },
     {
@@ -66885,7 +66893,7 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 79.99,
+      "precoVenda": 91.99,
       "precoPromocao": 0,
       "estoque": 4,
       "imagem": ""
@@ -66893,14 +66901,15 @@
     {
       "codigo": "046682",
       "ean": "7898953980646",
-      "descricao": "Extrato De Propolis 30 Ml",
+      "descricao": "Extrato De Própolis 30 Ml - Honey Blue",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VAREJO",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 5,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980646?v=1789766097268"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980646?v=1794346318316",
+      "encomenda": true
     },
     {
       "codigo": "046686",
@@ -67652,10 +67661,10 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 99.99,
+      "precoVenda": 97.99,
       "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720181?v=1790265704463"
+      "estoque": 3,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720181?v=1794346672097"
     },
     {
       "codigo": "046907",
@@ -68394,7 +68403,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 269.99,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720969?v=1790266112082"
     },
     {
@@ -68406,8 +68415,8 @@
       "categoria": "VITAMINAS",
       "precoVenda": 129.99,
       "precoPromocao": 0,
-      "estoque": 4,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720099?v=1790265083409"
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720099?v=1794346530624"
     },
     {
       "codigo": "047120",
@@ -70363,8 +70372,9 @@
       "categoria": "VITAMINAS",
       "precoVenda": 79.99,
       "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720396?v=1790265483258"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720396?v=1794346318868",
+      "encomenda": true
     },
     {
       "codigo": "047687",
@@ -70373,10 +70383,11 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 29.99,
+      "precoVenda": 34.99,
       "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720129?v=1793224049280"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720129?v=1793224049280",
+      "encomenda": true
     },
     {
       "codigo": "047690",
@@ -71162,8 +71173,9 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 26.99,
       "precoPromocao": 0,
-      "estoque": 15,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982053?v=1790680100493"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982053?v=1794347229356",
+      "encomenda": true
     },
     {
       "codigo": "047923",
@@ -72512,14 +72524,14 @@
     {
       "codigo": "048281",
       "ean": "7898700721065",
-      "descricao": "Blue B12 + Vitamina C Efervescente 10 Comprimidos Eferv",
+      "descricao": "Blue B12 + Vitamina C Com 10 Comprimidos Efervescentes",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "GENER/SIMILAR S/GT",
-      "precoVenda": 25.99,
-      "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721065?v=1790989241438"
+      "precoVenda": 43.6,
+      "precoPromocao": 29.99,
+      "estoque": 3,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721065?v=1794346257938"
     },
     {
       "codigo": "048286",
@@ -74325,14 +74337,14 @@
     {
       "codigo": "048844",
       "ean": "7898700721010",
-      "descricao": "Maca Peruana Com 30 Saches",
+      "descricao": "Maca Peruana Com 30 Sachês",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 135.99,
+      "precoVenda": 99.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721010?v=1794346811858"
     },
     {
       "codigo": "048846",
@@ -74343,7 +74355,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 119.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0040141781017?v=1790266727345"
     },
     {
@@ -74715,26 +74727,26 @@
     {
       "codigo": "048949",
       "ean": "7898953980554",
-      "descricao": "Spray Mel Propolis E Hortela 30 Ml",
+      "descricao": "Spray Mel E Própolis 40 Ml - Sabor Hortelã",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "SIMILAR",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 7,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980554?v=1793224055141"
+      "estoque": 6,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980554?v=1794346872182"
     },
     {
       "codigo": "048950",
       "ean": "7898953980547",
-      "descricao": "Spray Comprimidos. Mel Propolis E Gengibre 30 Ml",
+      "descricao": "Spray Mel E Própolis 40 Ml - Sabor Gengibre",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "SIMILAR",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 5,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980547?v=1793224054851"
+      "estoque": 3,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980547?v=1794346883630"
     },
     {
       "codigo": "048953",
@@ -79391,10 +79403,10 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 74.99,
-      "precoPromocao": 59.99,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720051?v=1790265131399"
+      "precoVenda": 69.99,
+      "precoPromocao": 49.99,
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720051?v=1794347211210"
     },
     {
       "codigo": "049855",
@@ -83426,14 +83438,14 @@
     {
       "codigo": "050938",
       "ean": "7898700721171",
-      "descricao": "Calmirilex Treanine 30ml",
+      "descricao": "Calmirilex Theanine 30 Ml - Sabor Uva",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 69.99,
       "precoPromocao": 0,
       "estoque": 4,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721171?v=1790265090673"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721171?v=1794347398145"
     },
     {
       "codigo": "050946",
@@ -83698,22 +83710,24 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 74.99,
+      "precoVenda": 69.99,
       "precoPromocao": 0,
-      "estoque": 4,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720372?v=1790265080793"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720372?v=1794347458306",
+      "encomenda": true
     },
     {
-      "codigo": "052623",
+      "codigo": "051033",
       "ean": "7898700720266",
-      "descricao": "Calm Atlantica Maracuja + Triptofano + Melatonina 30 Cápsulas",
+      "descricao": "Atlantica Calm Com 30 Capsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 59.99,
+      "precoVenda": 66.99,
       "precoPromocao": 0,
-      "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720266?v=1790265126877"
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
     },
     {
       "codigo": "051035",
@@ -83733,11 +83747,12 @@
       "descricao": "Maternitest Midscrean Caneta",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
-      "categoria": "SIMILAR",
+      "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898226050199?v=1787241424777"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898226050199?v=1794346285913",
+      "encomenda": true
     },
     {
       "codigo": "051037",
@@ -83748,8 +83763,8 @@
       "categoria": "VITAMINAS",
       "precoVenda": 89.99,
       "precoPromocao": 0,
-      "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980042?v=1790265088242"
+      "estoque": 1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980042?v=1794346286073"
     },
     {
       "codigo": "051039",
@@ -84606,25 +84621,25 @@
     {
       "codigo": "051252",
       "ean": "7898700721256",
-      "descricao": "Blue B12 Limao Mastigavel Com/60",
+      "descricao": "Blue B12 - Vitamina B12 Com 60 Comprimidos Mastigáveis - Sabor Limão",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 49.99,
+      "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 16,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721256?v=1790264994038"
     },
     {
       "codigo": "051254",
       "ean": "7898700721249",
-      "descricao": "Blue B12 Laranja Mastigavel Com/60",
+      "descricao": "Blue B12 - Vitamina B12 Com 60 Comprimidos Mastigáveis - Sabor Laranja",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 49.99,
+      "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721249?v=1790265088663"
     },
     {
@@ -85466,11 +85481,11 @@
     {
       "codigo": "051472",
       "ean": "7898700721294",
-      "descricao": "Biotina Morango Mastigavel Com/60",
+      "descricao": "Biotina Em Comprimidos Mastigáveis - Sabor Morango",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 74.99,
+      "precoVenda": 99.99,
       "precoPromocao": 59.99,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721294?v=1790265016629"
@@ -85478,37 +85493,37 @@
     {
       "codigo": "051473",
       "ean": "7898700721287",
-      "descricao": "Biotina Laranja Mastigavel Com/60",
+      "descricao": "Biotina Em Comprimidos Mastigáveis - Sabor Laranja",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 74.99,
+      "precoVenda": 99.99,
       "precoPromocao": 59.99,
-      "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721287?v=1790265039613"
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721287?v=1794346323719"
     },
     {
       "codigo": "051474",
       "ean": "7898700721317",
-      "descricao": "Biotina Uva Mastigavel Com/60",
+      "descricao": "Biotina Em Comprimidos Mastigáveis - Sabor Uva",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 74.99,
+      "precoVenda": 99.99,
       "precoPromocao": 59.99,
-      "estoque": 1,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721317?v=1790266048750"
     },
     {
       "codigo": "051475",
       "ean": "7898700721300",
-      "descricao": "Biotina Tutti-Frutti Mastigavel Com/60",
+      "descricao": "Biotina Em Comprimidos Mastigáveis - Sabor Tutti-Frutti",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 74.99,
+      "precoVenda": 99.99,
       "precoPromocao": 59.99,
-      "estoque": 1,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721300?v=1790265042464"
     },
     {
@@ -86271,10 +86286,10 @@
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
-      "precoVenda": 104.99,
+      "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720808?v=1790264987834"
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720808?v=1794346322631"
     },
     {
       "codigo": "051631",
@@ -89036,8 +89051,9 @@
       "categoria": "VITAMINAS",
       "precoVenda": 179.99,
       "precoPromocao": 0,
-      "estoque": 1,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721355?v=1790265075225"
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721355?v=1794347278220",
+      "encomenda": true
     },
     {
       "codigo": "052154",
@@ -93171,13 +93187,13 @@
     {
       "codigo": "043914",
       "ean": "7898953980394",
-      "descricao": "Cab&Os Hair Gold Com/30caps",
+      "descricao": "Cab&Os Hair Gold Com 30 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 11,
+      "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980394?v=1790266085556"
     },
     {
@@ -93847,16 +93863,17 @@
       "classeTerapeutica": "D1A1 - ANTIFÚNGICOS DERMATOLÓGICOS TÓPICOS"
     },
     {
-      "codigo": "052612",
+      "codigo": "052904",
       "ean": "7898700721379",
       "descricao": "Blue B Max B12-Complexo B Concentrado Com/60",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
-      "categoria": "PREMIUM 10",
-      "precoVenda": 74.99,
+      "categoria": "VITAMINAS",
+      "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 12,
-      "imagem": ""
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721379?v=1794346836709",
+      "encomenda": true
     },
     {
       "codigo": "000960",
@@ -113371,7 +113388,7 @@
     {
       "codigo": "043573",
       "ean": "7898953980721",
-      "descricao": "Cab&Os Hair Gold Com/60caps",
+      "descricao": "Cab&Os Hair Gold Com 60 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
@@ -113390,7 +113407,7 @@
       "precoVenda": 79.6,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981995?v=1794346305306"
     },
     {
       "codigo": "043592",
@@ -114127,14 +114144,14 @@
     {
       "codigo": "043912",
       "ean": "7898953982046",
-      "descricao": "Alivio Nature 120ml",
+      "descricao": "Alívio Nature Xarope - Beta Glucana - 120 Ml Sabor Mel",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "SIMILAR",
       "precoVenda": 59.99,
       "precoPromocao": 0,
       "estoque": 9,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982046?v=1787241376181"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982046?v=1794346312754"
     },
     {
       "codigo": "043916",
@@ -114331,7 +114348,7 @@
     {
       "codigo": "044017",
       "ean": "7898953981247",
-      "descricao": "Blue Uri Cranberry Com/30 Cápsulas",
+      "descricao": "Blue Uri Cranberry 400mg Com 30 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
@@ -115500,14 +115517,14 @@
     {
       "codigo": "044728",
       "ean": "7898700720815",
-      "descricao": "Full Brain Com/30 Cápsulas",
+      "descricao": "Full Brain Com 30 Cápsulas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 59.99,
       "precoPromocao": 0,
       "estoque": 8,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720815?v=1790266172581"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720815?v=1794346316933"
     },
     {
       "codigo": "044741",
@@ -117821,8 +117838,8 @@
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 16,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720037?v=1790265345286"
+      "estoque": 9,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720037?v=1794346321027"
     },
     {
       "codigo": "046939",
@@ -120361,14 +120378,14 @@
     {
       "codigo": "048951",
       "ean": "7898953980561",
-      "descricao": "Spray Comprimidos Mel Propolis Roma 30 Ml",
+      "descricao": "Spray Mel E Própolis 40 Ml - Sabor Romã E Gengibre",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "SIMILAR",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 2,
-      "imagem": ""
+      "estoque": 1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980561?v=1794346893948"
     },
     {
       "codigo": "048968",
@@ -121417,7 +121434,7 @@
     {
       "codigo": "049851",
       "ean": "7898700721102",
-      "descricao": "Blue Zinco Kids Mastigavel Frutas Vermelhas Com/60",
+      "descricao": "Blue Zinco Kids Com 60 Comprimidos Mastigáveis - Sabor Frutas Vermelhas",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
@@ -122953,8 +122970,8 @@
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 44.99,
-      "estoque": 8,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720174?v=1790989256781"
+      "estoque": 7,
+      "imagem": ""
     },
     {
       "codigo": "050720",
@@ -123104,14 +123121,14 @@
     {
       "codigo": "050814",
       "ean": "7898700721195",
-      "descricao": "Blue Uri Max Liq 250 Ml",
+      "descricao": "Blue Uri Max Cranberry Líquido 250ml - Sabor Cranberry",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 139.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721195?v=1794347296686"
     },
     {
       "codigo": "050817",
@@ -123370,7 +123387,7 @@
     {
       "codigo": "051030",
       "ean": "7898700720495",
-      "descricao": "Alivio Nature Spray 30 Ml",
+      "descricao": "Alívio Nature Spray - Beta Glucana - 30 Ml Sabor Mel",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
@@ -123389,19 +123406,19 @@
       "precoVenda": 67.99,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720488?v=1794347382731"
     },
     {
       "codigo": "051034",
       "ean": "7898953980707",
-      "descricao": "Blue Zinco Max Com/60 Comprimidos. Revestidos",
+      "descricao": "Blue Zinco Max Polivitamínico Com 60 Comprimidos",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 89.99,
       "precoPromocao": 0,
       "estoque": 23,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980707?v=1794347502935"
     },
     {
       "codigo": "051038",
@@ -123731,13 +123748,13 @@
     {
       "codigo": "051253",
       "ean": "7898700721263",
-      "descricao": "Blue B12 Morango Mastigavel Com/60",
+      "descricao": "Blue B12 - Vitamina B12 Com 60 Comprimidos Mastigáveis - Sabor Morango",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721263?v=1790265945451"
     },
     {
@@ -125560,14 +125577,14 @@
     {
       "codigo": "052214",
       "ean": "7898700720303",
-      "descricao": "Lib Feno Mulher Com 60 Capsulas",
+      "descricao": "Lib Feno Mulher Com 60 Cápsulas - Estimulante",
       "marca": "VITA BLUE",
       "laboratorio": "VITA BLUE",
       "categoria": "VITAMINAS",
       "precoVenda": 135.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720303?v=1790265084796"
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720303?v=1794346556511"
     },
     {
       "codigo": "052221",
@@ -131230,6 +131247,537 @@
       "estoque": 3,
       "imagem": "",
       "subcategoria": "ALGODÃO"
+    },
+    {
+      "codigo": "047228",
+      "ean": "7898700720839",
+      "descricao": "Blue Mag Gastro Liquido 150ml",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 49.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720839?v=1794346632065",
+      "encomenda": true
+    },
+    {
+      "codigo": "047375",
+      "ean": "7898700720952",
+      "descricao": "Kartti D Curcumina Com 60 Capsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 79.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720952?v=1794346255557",
+      "encomenda": true
+    },
+    {
+      "codigo": "047376",
+      "ean": "7898700720150",
+      "descricao": "Kartti D Ultra Flex Com/60",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 125.99,
+      "precoPromocao": 119.99,
+      "estoque": -1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720150?v=1790265040030",
+      "encomenda": true
+    },
+    {
+      "codigo": "047720",
+      "ean": "7898700720082",
+      "descricao": "Gargo Nature Menta Com/12 Pastilhas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 34.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720082?v=1794346654515",
+      "encomenda": true
+    },
+    {
+      "codigo": "048819",
+      "ean": "7898700721034",
+      "descricao": "Acetilcisteína Nac 600mg Com 16 Sachês",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "GENER/SIMILAR S/GT",
+      "precoVenda": 42.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721034?v=1794346757680",
+      "encomenda": true
+    },
+    {
+      "codigo": "048843",
+      "ean": "040141781031",
+      "descricao": "Blue Vita Tireozen Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 89.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/040141781031?v=1794346791592",
+      "encomenda": true
+    },
+    {
+      "codigo": "043555",
+      "ean": "7898953981322",
+      "descricao": "Kartti D Ultra Flex - Colágeno Tipo Ii Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "SIMILAR",
+      "precoVenda": 211.5,
+      "precoPromocao": 149.99,
+      "estoque": 1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981322?v=1794346261740"
+    },
+    {
+      "codigo": "048847",
+      "ean": "40141781031",
+      "descricao": "Blue Vita Tireozen Com 60 Capsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 102.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "049015",
+      "ean": "40141781017",
+      "descricao": "Omega A-Z Bari Com Com/60",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 119.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/40141781017?v=1794347000375",
+      "encomenda": true
+    },
+    {
+      "codigo": "050711",
+      "ean": "7898953980295",
+      "descricao": "Magnesio Bisgli 1000 Mg Com/ 60 Cápsulas Gel",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 69.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980295?v=1794347062571",
+      "encomenda": true
+    },
+    {
+      "codigo": "049186",
+      "ean": "7898700720471",
+      "descricao": "Blue Vita Estatin Q10 Com/60 Cps",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 99.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720471?v=1794347175876",
+      "encomenda": true
+    },
+    {
+      "codigo": "049645",
+      "ean": "7898700721119",
+      "descricao": "Blue Vita B12 60cp Mast",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 79.99,
+      "precoPromocao": 59.99,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "047919",
+      "ean": "7898953982220",
+      "descricao": "Acetilcisteina 20mg/Ml 120 Ml",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "SIMILAR",
+      "precoVenda": 30.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982220?v=1794346272993",
+      "encomenda": true
+    },
+    {
+      "codigo": "050766",
+      "ean": "7898953980455",
+      "descricao": "Colageno+Vit. C Min. Hidrolisado 750 Mg Com/ 180 Gel",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 199.99,
+      "precoPromocao": 149.99,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "030920",
+      "ean": "7898953980882",
+      "descricao": "Kartti D 30 Comprimidos",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 100,
+      "precoPromocao": 79.99,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "051029",
+      "ean": "7898700720792",
+      "descricao": "Atlantica Feno Testo Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 106.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "050939",
+      "ean": "7898700721164",
+      "descricao": "Blue Vita Hrps Immune - Beta-Glucana, Lisina 250 Ml - Sabor Morango",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 149.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721164?v=1794347425334",
+      "encomenda": true
+    },
+    {
+      "codigo": "040331",
+      "ean": "7898953981223",
+      "descricao": "Gargo Nature Menta Com 12 Pastilhas Mastigáveis",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 39.95,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "043557",
+      "ean": "7898953981285",
+      "descricao": "Blue B Max Com/30 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 49.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981285?v=1794347528167",
+      "encomenda": true
+    },
+    {
+      "codigo": "043560",
+      "ean": "7898953980844",
+      "descricao": "Blue D 2000ui Leve90pague60caps",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 89.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980844?v=1794346288842",
+      "encomenda": true
+    },
+    {
+      "codigo": "043563",
+      "ean": "7898953981230",
+      "descricao": "Blue Q10 – Coenzima Q10 Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 101.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981230?v=1794346290628",
+      "encomenda": true
+    },
+    {
+      "codigo": "043561",
+      "ean": "7898953981148",
+      "descricao": "Blue Mag - Magnésio 4x1 Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 67.99,
+      "precoPromocao": 0,
+      "estoque": 1,
+      "imagem": ""
+    },
+    {
+      "codigo": "044158",
+      "ean": "7898953981971",
+      "descricao": "Blue Melatonina Gotas 30 Ml - Sabor Maracujá",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "SIMILAR",
+      "precoVenda": 64.26,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "044015",
+      "ean": "7898953982039",
+      "descricao": "Estatin Q10 Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 96.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "044016",
+      "ean": "7898953982022",
+      "descricao": "Blue Zinco Mater Gest 30+30 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 124.95,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953982022?v=1794346292741",
+      "encomenda": true
+    },
+    {
+      "codigo": "044018",
+      "ean": "7898953980653",
+      "descricao": "Blue E - Vitamina E 400mg - Com/30 Softgel",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 56.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980653?v=1794346295768",
+      "encomenda": true
+    },
+    {
+      "codigo": "043566",
+      "ean": "7898953981018",
+      "descricao": "Blue Vita Senior Polivitamínico A-Z Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 72.5,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981018?v=1794346294922",
+      "encomenda": true
+    },
+    {
+      "codigo": "043567",
+      "ean": "7898953981964",
+      "descricao": "Blue Vita 120ml",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 49.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "043568",
+      "ean": "7898953981803",
+      "descricao": "Blue Zinco Kidas Tutti Frutti Com/60caps",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "GENER/SIMILAR S/GT",
+      "precoVenda": 62.5,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "043569",
+      "ean": "7898953981810",
+      "descricao": "Blue Zinco Kids Laranja E Uva Com/60caps",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 62.5,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981810?v=1794346299528",
+      "encomenda": true
+    },
+    {
+      "codigo": "043576",
+      "ean": "7898953981957",
+      "descricao": "Colageno Creatina 180gr",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "SUPLEMENTO",
+      "precoVenda": 219.6,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981957?v=1794346301828",
+      "encomenda": true
+    },
+    {
+      "codigo": "043575",
+      "ean": "7898953981438",
+      "descricao": "Calmirilex 7 Em 1 Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 129.95,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981438?v=1794346304612",
+      "encomenda": true
+    },
+    {
+      "codigo": "043577",
+      "ean": "7898953981827",
+      "descricao": "Libfeno Feno Grego Com/60caps",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 109.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
+    },
+    {
+      "codigo": "043578",
+      "ean": "7898953981780",
+      "descricao": "Testolib Feno Grego Com/60caps",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 133.99,
+      "precoPromocao": 90,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981780?v=1790265059597",
+      "encomenda": true
+    },
+    {
+      "codigo": "051742",
+      "ean": "7898700721270",
+      "descricao": "Nac 800 Mg Com/60",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "ETICO",
+      "precoVenda": 119.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721270?v=1794346307493",
+      "encomenda": true
+    },
+    {
+      "codigo": "043909",
+      "ean": "7898953981049",
+      "descricao": "Noitecalm Com 30 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 66.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981049?v=1794346310510",
+      "encomenda": true
+    },
+    {
+      "codigo": "043910",
+      "ean": "7898953981131",
+      "descricao": "Menoblue Pause Com/60cap",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 99.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981131?v=1794346311376",
+      "encomenda": true
+    },
+    {
+      "codigo": "043911",
+      "ean": "7898953981094",
+      "descricao": "Maca Peruana Com/60caps",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 129,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981094?v=1794346309989",
+      "encomenda": true
+    },
+    {
+      "codigo": "043913",
+      "ean": "7898953981001",
+      "descricao": "Blue Vita Mulher Polivitamínico A-Z Com 60 Cápsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 64.95,
+      "precoPromocao": 49.99,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981001?v=1794346312713",
+      "encomenda": true
+    },
+    {
+      "codigo": "049187",
+      "ean": "7898700720501",
+      "descricao": "Acetilcisteina 120 Ml - 600 Mg- 40 Mg/Ml",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 44.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720501?v=1794346320388",
+      "encomenda": true
+    },
+    {
+      "codigo": "051628",
+      "ean": "7898700720440",
+      "descricao": "Caimblue - Nova Versao Com 60 Capsulas",
+      "marca": "VITA BLUE",
+      "laboratorio": "VITA BLUE",
+      "categoria": "VITAMINAS",
+      "precoVenda": 114.99,
+      "precoPromocao": 0,
+      "estoque": 0,
+      "imagem": "",
+      "encomenda": true
     }
   ]
 }
