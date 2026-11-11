@@ -25,13 +25,12 @@
       "categoria": "SIMILAR",
       "precoVenda": 67.14,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7893736007527?v=1787405564907",
       "tarja": "L",
       "substancia": "ÁCIDO ACETILSALICÍLICO",
       "registroAnvisa": "1071500690051",
-      "classeTerapeutica": "N2B2 - ANALGÉSICOS NÃO NARCÓTICOS E ANTIPIRÉTICOS ISENTOS DE PRESCRIÇÃO",
-      "encomenda": true
+      "classeTerapeutica": "N2B2 - ANALGÉSICOS NÃO NARCÓTICOS E ANTIPIRÉTICOS ISENTOS DE PRESCRIÇÃO"
     },
     {
       "codigo": "000012",
@@ -383,13 +382,12 @@
       "categoria": "ETICO CONTROLADO",
       "precoVenda": 29.53,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891158103285?v=1793224087692",
       "tarja": "R",
       "substancia": "VALPROATO DE SÓDIO",
       "registroAnvisa": "1055303150117",
-      "classeTerapeutica": "N3A - ANTIEPILÉPTICOS",
-      "encomenda": true
+      "classeTerapeutica": "N3A - ANTIEPILÉPTICOS"
     },
     {
       "codigo": "000124",
@@ -601,7 +599,7 @@
       "categoria": "ETICO",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896548140284?v=1793224088969",
       "substancia": "HIDROXIQUINOLINA;TROLAMINA",
       "registroAnvisa": "1006811160011",
@@ -2708,7 +2706,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 24.14,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 13,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714200064?v=1793223920432",
       "substancia": "NIFEDIPINO",
       "registroAnvisa": "1558401690023",
@@ -4880,7 +4878,7 @@
       "categoria": "GENERICO",
       "precoVenda": 19.65,
       "precoPromocao": 11.99,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896422506236?v=1793742974439",
       "tarja": "L",
       "substancia": "DIPIRONA",
@@ -14066,7 +14064,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 12.27,
       "precoPromocao": 6.99,
-      "estoque": 838,
+      "estoque": 835,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714231143?v=1793223966011",
       "tarja": "V",
       "substancia": "CLORIDRATO DE NAFAZOLINA",
@@ -14418,7 +14416,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 17.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006205692?v=1791718930168"
     },
     {
@@ -17606,7 +17604,7 @@
       "categoria": "GENERICO",
       "precoVenda": 20,
       "precoPromocao": 19.99,
-      "estoque": 19,
+      "estoque": 18,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898060134154?v=1793223403806",
       "tarja": "V",
       "substancia": "OMEPRAZOL",
@@ -21053,7 +21051,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 37.65,
       "precoPromocao": 21.99,
-      "estoque": 13,
+      "estoque": 12,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897917000178?v=1793223992413",
       "tarja": "L",
       "substancia": "DELTAMETRINA",
@@ -34566,9 +34564,8 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 6.5,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896423471007?v=1790983744443",
-      "encomenda": true
+      "estoque": 13,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896423471007?v=1790983744443"
     },
     {
       "codigo": "029202",
@@ -41093,10 +41090,9 @@
       "categoria": "VAREJO",
       "precoVenda": 2.99,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 43,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898905356727?v=1789766681308",
-      "subcategoria": "ÓLEO DE COCO",
-      "encomenda": true
+      "subcategoria": "ÓLEO DE COCO"
     },
     {
       "codigo": "033042",
@@ -48183,7 +48179,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 35.5,
       "precoPromocao": 29.99,
-      "estoque": 36,
+      "estoque": 35,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004773957?v=1793224020063",
       "tarja": "L",
       "substancia": "NAPROXENO SÓDICO",
@@ -50897,7 +50893,7 @@
       "categoria": "ETICO",
       "precoVenda": 29.49,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 10,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094930001?v=1793743182171",
       "tarja": "L",
       "substancia": "BUTILBROMETO DE ESCOPOLAMINA",
@@ -54815,9 +54811,8 @@
       "categoria": "ETICO",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896009498305?v=1786847121413",
-      "encomenda": true
+      "estoque": 16,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896009498305?v=1786847121413"
     },
     {
       "codigo": "043256",
@@ -55877,9 +55872,8 @@
       "categoria": "VITAMINAS",
       "precoVenda": 55.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720389?v=1790265094924",
-      "encomenda": true
+      "estoque": 5,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720389?v=1790265094924"
     },
     {
       "codigo": "043559",
@@ -59567,7 +59561,7 @@
       "categoria": "VAREJO",
       "precoVenda": 1.99,
       "precoPromocao": 0,
-      "estoque": 206,
+      "estoque": 202,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898488470384?v=1786846983235"
     },
     {
@@ -69061,7 +69055,7 @@
       "categoria": "PERF/APLIC/AFERICAO",
       "precoVenda": 15,
       "precoPromocao": 0,
-      "estoque": 286,
+      "estoque": 284,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0047593?v=1793224048822"
     },
     {
@@ -72459,13 +72453,12 @@
       "categoria": "CARTELADOS",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 18,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094931459?v=1790177725043",
       "tarja": "L",
       "substancia": "RACEMETIONINA;CLORETO DE COLINA",
       "registroAnvisa": "1781709780024",
-      "classeTerapeutica": "A5B - HEPATOPROTETORES E LIPOTRÓPICOS",
-      "encomenda": true
+      "classeTerapeutica": "A5B - HEPATOPROTETORES E LIPOTRÓPICOS"
     },
     {
       "codigo": "048532",
@@ -73118,9 +73111,8 @@
       "categoria": "VITAMINAS",
       "precoVenda": 84.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/040141780997?v=1790989243013",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/040141780997?v=1790989243013"
     },
     {
       "codigo": "048824",
@@ -75057,9 +75049,8 @@
       "categoria": "VITAMINAS",
       "precoVenda": 57.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720143?v=1790265088041",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720143?v=1790265088041"
     },
     {
       "codigo": "049239",
@@ -82413,9 +82404,8 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 1.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980608?v=1789766596496",
-      "encomenda": true
+      "estoque": 267,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980608?v=1789766596496"
     },
     {
       "codigo": "051036",
@@ -86833,7 +86823,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 7.99,
       "precoPromocao": 0,
-      "estoque": 76,
+      "estoque": 75,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896138700447?v=1789767107225"
     },
     {
@@ -89018,7 +89008,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 637,
+      "estoque": 636,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896053470173?v=1789766729921"
     },
     {
@@ -93926,9 +93916,8 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 2.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 13,
+      "imagem": ""
     },
     {
       "codigo": "047588",
@@ -94104,9 +94093,8 @@
       "categoria": "ETICO CONTROLADO",
       "precoVenda": 113.69,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891158000898?v=1790978865137",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891158000898?v=1790978865137"
     },
     {
       "codigo": "000120",
@@ -96155,7 +96143,7 @@
       "categoria": "GENERICO",
       "precoVenda": 24.99,
       "precoPromocao": 19.99,
-      "estoque": 6,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896181914280?v=1793223364498",
       "tarja": "V",
       "substancia": "FOSFATO SÓDICO DE PREDNISOLONA",
@@ -97370,9 +97358,8 @@
       "categoria": "ETICO",
       "precoVenda": 19.5,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896641804434?v=1790177872328",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896641804434?v=1790177872328"
     },
     {
       "codigo": "009730",
@@ -98212,9 +98199,8 @@
       "categoria": "CARTELADOS",
       "precoVenda": 8.5,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 644,
+      "imagem": ""
     },
     {
       "codigo": "013157",
@@ -100055,9 +100041,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891150105454?v=1786847545212",
-      "encomenda": true
+      "estoque": 5,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891150105454?v=1786847545212"
     },
     {
       "codigo": "020139",
@@ -108111,9 +108096,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 2.5,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7622210878946?v=1787241074329",
-      "encomenda": true
+      "estoque": 17,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7622210878946?v=1787241074329"
     },
     {
       "codigo": "035760",
@@ -111587,9 +111571,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 2.5,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7622210857255?v=1787241068691",
-      "encomenda": true
+      "estoque": 35,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7622210857255?v=1787241068691"
     },
     {
       "codigo": "042313",
@@ -111600,9 +111583,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 3.5,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7895800304228?v=1789767360479",
-      "encomenda": true
+      "estoque": 42,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7895800304228?v=1789767360479"
     },
     {
       "codigo": "042315",
@@ -113001,9 +112983,8 @@
       "categoria": "ETICO",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/043336?v=1786847118190",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/043336?v=1786847118190"
     },
     {
       "codigo": "043338",
@@ -115781,9 +115762,8 @@
       "categoria": "ETICO",
       "precoVenda": 92.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "044876",
@@ -117257,12 +117237,11 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 390.12,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 1,
       "imagem": "",
       "bloqueioPresencial": true,
       "controleEspecial": "A3",
-      "tipoReceita": "Notificação de Receita A (amarela)",
-      "encomenda": true
+      "tipoReceita": "Notificação de Receita A (amarela)"
     },
     {
       "codigo": "046452",
@@ -118005,9 +117984,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891150095922?v=1786847223873",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891150095922?v=1786847223873"
     },
     {
       "codigo": "046910",
@@ -122257,9 +122235,8 @@
       "categoria": "CARTELADOS",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898962943786?v=1790877564285",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898962943786?v=1790877564285"
     },
     {
       "codigo": "050004",
@@ -125029,9 +125006,8 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896111906927?v=1786847670658",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896111906927?v=1786847670658"
     },
     {
       "codigo": "051496",
@@ -125042,9 +125018,8 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 7,
+      "imagem": ""
     },
     {
       "codigo": "051523",
@@ -127763,9 +127738,8 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 7.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052522",
@@ -127776,9 +127750,8 @@
       "categoria": "GENERICO",
       "precoVenda": 17.15,
       "precoPromocao": 14.99,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 12,
+      "imagem": ""
     },
     {
       "codigo": "052523",
@@ -127789,13 +127762,12 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 222.83,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 2,
       "imagem": "",
       "receitaRemota": true,
       "confirmarReceita": true,
       "controleEspecial": "C1",
-      "tipoReceita": "Receita de Controle Especial (branca, 2 vias)",
-      "encomenda": true
+      "tipoReceita": "Receita de Controle Especial (branca, 2 vias)"
     },
     {
       "codigo": "052524",
@@ -127806,13 +127778,12 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 128.54,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 16,
       "imagem": "",
       "receitaRemota": true,
       "confirmarReceita": true,
       "controleEspecial": "C1",
-      "tipoReceita": "Receita de Controle Especial (branca, 2 vias)",
-      "encomenda": true
+      "tipoReceita": "Receita de Controle Especial (branca, 2 vias)"
     },
     {
       "codigo": "052525",
@@ -127857,9 +127828,8 @@
       "categoria": "ORTOPED",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 13,
+      "imagem": ""
     },
     {
       "codigo": "052528",
@@ -127870,9 +127840,8 @@
       "categoria": "ORTOPED",
       "precoVenda": 39.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 7,
+      "imagem": ""
     },
     {
       "codigo": "052531",
@@ -127883,9 +127852,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 22.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 5,
+      "imagem": ""
     },
     {
       "codigo": "052532",
@@ -127896,9 +127864,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052535",
@@ -127909,9 +127876,8 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 34.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052538",
@@ -127922,9 +127888,8 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 4,
+      "imagem": ""
     },
     {
       "codigo": "052539",
@@ -127935,9 +127900,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 35.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 6,
+      "imagem": ""
     },
     {
       "codigo": "052540",
@@ -127948,9 +127912,8 @@
       "categoria": "ETICO",
       "precoVenda": 66.13,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052541",
@@ -127961,9 +127924,8 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052544",
@@ -127974,9 +127936,8 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 6,
+      "imagem": ""
     },
     {
       "codigo": "052545",
@@ -127987,9 +127948,8 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052548",
@@ -128000,9 +127960,8 @@
       "categoria": "ORTOPED",
       "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 50,
+      "imagem": ""
     },
     {
       "codigo": "052549",
@@ -128026,9 +127985,8 @@
       "categoria": "ORTOPED",
       "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 9,
+      "imagem": ""
     },
     {
       "codigo": "052552",
@@ -128039,9 +127997,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052553",
@@ -128052,9 +128009,8 @@
       "categoria": "ORTOPED",
       "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052554",
@@ -128065,9 +128021,8 @@
       "categoria": "ORTOPED",
       "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052555",
@@ -128078,9 +128033,8 @@
       "categoria": "ORTOPED",
       "precoVenda": 84.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052557",
@@ -128104,9 +128058,8 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 28.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 5,
+      "imagem": ""
     },
     {
       "codigo": "052559",
@@ -128117,9 +128070,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 4,
+      "imagem": ""
     },
     {
       "codigo": "052560",
@@ -128208,9 +128160,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052582",
@@ -128221,9 +128172,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898662436267?v=1789766762856",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898662436267?v=1789766762856"
     },
     {
       "codigo": "052587",
@@ -128234,9 +128184,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052590",
@@ -128247,9 +128196,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898662430807?v=1789766755154",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898662430807?v=1789766755154"
     },
     {
       "codigo": "052596",
@@ -128260,9 +128208,8 @@
       "categoria": "ETICO",
       "precoVenda": 65.79,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052598",
@@ -128273,9 +128220,8 @@
       "categoria": "ETICO",
       "precoVenda": 109.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052604",
@@ -128299,9 +128245,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 12,
+      "imagem": ""
     },
     {
       "codigo": "052613",
@@ -128312,9 +128257,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 6,
+      "imagem": ""
     },
     {
       "codigo": "052614",
@@ -128325,9 +128269,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052616",
@@ -128338,9 +128281,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 6,
+      "imagem": ""
     },
     {
       "codigo": "052619",
@@ -128351,9 +128293,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052620",
@@ -128364,9 +128305,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052627",
@@ -128377,9 +128317,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052628",
@@ -128390,9 +128329,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052629",
@@ -128416,9 +128354,8 @@
       "categoria": "VAREJO",
       "precoVenda": 14.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052633",
@@ -128429,9 +128366,8 @@
       "categoria": "DERMOCOSMETICO",
       "precoVenda": 109.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052634",
@@ -128442,9 +128378,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 32.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 5,
+      "imagem": ""
     },
     {
       "codigo": "052642",
@@ -128455,9 +128390,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 2.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052643",
@@ -128468,9 +128402,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052646",
@@ -128481,9 +128414,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 2.5,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052655",
@@ -128494,9 +128426,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 3.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 4,
+      "imagem": ""
     },
     {
       "codigo": "052656",
@@ -128507,9 +128438,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 3.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 4,
+      "imagem": ""
     },
     {
       "codigo": "052657",
@@ -128520,9 +128450,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 3.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 4,
+      "imagem": ""
     },
     {
       "codigo": "052658",
@@ -128533,9 +128462,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 3.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052659",
@@ -128546,9 +128474,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 3.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052673",
@@ -128559,9 +128486,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052674",
@@ -128572,9 +128498,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052675",
@@ -128598,9 +128523,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052684",
@@ -128611,9 +128535,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 109.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052685",
@@ -128624,9 +128547,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 54.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052688",
@@ -128637,9 +128559,8 @@
       "categoria": "SUPLEMENTO",
       "precoVenda": 97.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 24,
+      "imagem": ""
     },
     {
       "codigo": "052689",
@@ -128650,9 +128571,8 @@
       "categoria": "VAREJO",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052692",
@@ -128663,9 +128583,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052693",
@@ -128676,9 +128595,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 26.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 4,
+      "imagem": ""
     },
     {
       "codigo": "052694",
@@ -128689,9 +128607,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 1,
+      "imagem": ""
     },
     {
       "codigo": "052696",
@@ -128702,9 +128619,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 27.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 12,
+      "imagem": ""
     },
     {
       "codigo": "052697",
@@ -128728,9 +128644,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 36.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 3,
+      "imagem": ""
     },
     {
       "codigo": "052699",
@@ -128741,9 +128656,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 21.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 35,
+      "imagem": ""
     },
     {
       "codigo": "052700",
@@ -128754,9 +128668,8 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 45.99,
       "precoPromocao": 0,
-      "estoque": 0,
-      "imagem": "",
-      "encomenda": true
+      "estoque": 2,
+      "imagem": ""
     },
     {
       "codigo": "052751",
@@ -131838,7 +131751,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 58,
+      "estoque": 57,
       "imagem": ""
     },
     {
@@ -132335,7 +132248,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 125.99,
       "precoPromocao": 119.99,
-      "estoque": -1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720150?v=1790265040030",
       "encomenda": true
     },
@@ -133010,7 +132923,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 5.9,
       "precoPromocao": 0,
-      "estoque": 42,
+      "estoque": 40,
       "imagem": ""
     },
     {
