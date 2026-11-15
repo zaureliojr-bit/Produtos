@@ -3372,7 +3372,7 @@
       "categoria": "ETICO",
       "precoVenda": 27.5,
       "precoPromocao": 0,
-      "estoque": 18,
+      "estoque": 17,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896269900150?v=1793224116896",
       "tarja": "V",
       "substancia": "SULFATO DE SALBUTAMOL",
@@ -7624,7 +7624,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 41.28,
       "precoPromocao": 39.99,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004709161?v=1793223946204",
       "tarja": "R",
       "confirmarReceita": true,
@@ -7860,7 +7860,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 14.99,
       "precoPromocao": 9.99,
-      "estoque": 466,
+      "estoque": 465,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714223841?v=1793223350155",
       "tarja": "V",
       "substancia": "NIMESULIDA",
@@ -9650,7 +9650,7 @@
       "categoria": "CARTELADOS",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 18,
+      "estoque": 17,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896015518479?v=1793224140164"
     },
     {
@@ -10840,7 +10840,7 @@
       "categoria": "GENERICO",
       "precoVenda": 22.75,
       "precoPromocao": 19.99,
-      "estoque": 77,
+      "estoque": 76,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898148290901?v=1793223369493",
       "tarja": "V",
       "substancia": "PREDNISONA",
@@ -11953,7 +11953,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 52.16,
       "precoPromocao": 14.99,
-      "estoque": 2,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896181915034?v=1793223377732",
       "tarja": "V",
       "substancia": "CARVEDILOL",
@@ -12078,7 +12078,7 @@
       "categoria": "ETICO",
       "precoVenda": 35.87,
       "precoPromocao": 0,
-      "estoque": 11,
+      "estoque": 10,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896026302784?v=1793224148544",
       "substancia": "BROMIDRATO DE FENOTEROL",
       "registroAnvisa": "1036700060274",
@@ -12755,7 +12755,7 @@
       "categoria": "GENERICO",
       "precoVenda": 39.99,
       "precoPromocao": 24.99,
-      "estoque": 42,
+      "estoque": 41,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112125662?v=1793223382219",
       "tarja": "R",
       "confirmarReceita": true,
@@ -12852,7 +12852,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 14.99,
       "precoPromocao": 9.99,
-      "estoque": 45,
+      "estoque": 44,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523210773?v=1793223382656",
       "tarja": "V",
       "substancia": "MALEATO DE ENALAPRIL",
@@ -12884,7 +12884,7 @@
       "categoria": "CARTELADOS",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 31,
+      "estoque": 30,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896015521646?v=1793224151694"
     },
     {
@@ -12962,7 +12962,7 @@
       "categoria": "GENERICO",
       "precoVenda": 8.99,
       "precoPromocao": 0,
-      "estoque": 36,
+      "estoque": 35,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898060132600?v=1793223383871",
       "tarja": "V",
       "receitaRemota": true,
@@ -13014,7 +13014,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 14,
+      "estoque": 13,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112135913?v=1793223383786",
       "tarja": "P",
       "bloqueioPresencial": true,
@@ -13498,7 +13498,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 43.54,
       "precoPromocao": 11.99,
-      "estoque": 89,
+      "estoque": 88,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896422519229?v=1793743041283",
       "tarja": "L",
       "confirmarReceita": true,
@@ -13608,7 +13608,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 24.04,
       "precoPromocao": 14.99,
-      "estoque": 139,
+      "estoque": 138,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898907312646?v=1793223963682",
       "tarja": "V",
       "substancia": "LEVONORGESTREL",
@@ -16571,7 +16571,7 @@
       "categoria": "GENERICO",
       "precoVenda": 19.99,
       "precoPromocao": 14.99,
-      "estoque": 24,
+      "estoque": 23,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898060134147?v=1793223398056",
       "tarja": "V",
       "substancia": "OMEPRAZOL",
@@ -17159,7 +17159,7 @@
       "categoria": "GENERICO",
       "precoVenda": 78.5,
       "precoPromocao": 39.99,
-      "estoque": 10,
+      "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894916148108?v=1793223402142",
       "tarja": "V",
       "substancia": "ETINILESTRADIOL;DROSPIRENONA",
@@ -18153,7 +18153,7 @@
       "categoria": "PREMIUM 10",
       "precoVenda": 59,
       "precoPromocao": 34.99,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112427469?v=1793223983348",
       "tarja": "V",
       "substancia": "CLORIDRATO  DE ONDANSETRONA DI-HIDRATADO",
@@ -22353,7 +22353,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 9,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896222717788?v=1790983070631"
     },
     {
@@ -23997,7 +23997,7 @@
       "categoria": "DIVERSOS",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 16,
+      "estoque": 15,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896544925014?v=1790989577476"
     },
     {
@@ -24765,7 +24765,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 21,
+      "estoque": 19,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896007542437?v=1786846515042"
     },
     {
@@ -25497,7 +25497,7 @@
       "categoria": "TINTURA",
       "precoVenda": 14.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896013544173?v=1791719578629"
     },
     {
@@ -26133,7 +26133,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 32.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7501001109653?v=1789766261110"
     },
     {
@@ -26625,7 +26625,7 @@
       "categoria": "FORMULA LEITE",
       "precoVenda": 74.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891025107897?v=1786846621461"
     },
     {
@@ -27941,7 +27941,7 @@
       "categoria": "FORMULA LEITE",
       "precoVenda": 74.99,
       "precoPromocao": 0,
-      "estoque": 22,
+      "estoque": 20,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891025111825?v=1789766501502"
     },
     {
@@ -30237,7 +30237,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898524345096?v=1790983490982"
     },
     {
@@ -31580,7 +31580,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 24,
+      "estoque": 23,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523208985?v=1793224003668"
     },
     {
@@ -31688,7 +31688,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 37.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898212285031?v=1790983556030"
     },
     {
@@ -31712,7 +31712,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4005900707543?v=1789866826451"
     },
     {
@@ -32364,7 +32364,7 @@
       "categoria": "VAREJO",
       "precoVenda": 3.99,
       "precoPromocao": 0,
-      "estoque": 26,
+      "estoque": 25,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896213300050?v=1790983597943"
     },
     {
@@ -32676,7 +32676,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 23.99,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898524347939?v=1790983620832"
     },
     {
@@ -33101,7 +33101,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 17.99,
       "precoPromocao": 0,
-      "estoque": 17,
+      "estoque": 16,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891350034868?v=1790983643332"
     },
     {
@@ -34641,7 +34641,7 @@
       "categoria": "FR INFANTIL",
       "precoVenda": 39.99,
       "precoPromocao": 0,
-      "estoque": 136,
+      "estoque": 135,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896061995910?v=1792850126318"
     },
     {
@@ -38074,7 +38074,7 @@
       "categoria": "VAREJO",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 284,
+      "estoque": 279,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898652375743?v=1789767042984"
     },
     {
@@ -39743,7 +39743,7 @@
       "categoria": "FR INFANTIL",
       "precoVenda": 28.99,
       "precoPromocao": 0,
-      "estoque": 21,
+      "estoque": 20,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896012877453?v=1792589576538"
     },
     {
@@ -39791,7 +39791,7 @@
       "categoria": "GENERICO",
       "precoVenda": 12.81,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898216362189?v=1793223433851",
       "tarja": "V",
       "substancia": "PIROXICAM",
@@ -40099,7 +40099,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 220,
+      "estoque": 219,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896914011217?v=1790984003702"
     },
     {
@@ -40863,7 +40863,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 19.99,
       "precoPromocao": 14.99,
-      "estoque": 228,
+      "estoque": 227,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523200576?v=1793224011725",
       "tarja": "L",
       "substancia": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
@@ -40943,7 +40943,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": ""
     },
     {
@@ -41411,7 +41411,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 2.5,
       "precoPromocao": 0,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/78938861?v=1789766304408"
     },
     {
@@ -43369,7 +43369,7 @@
       "categoria": "ETICO",
       "precoVenda": 29.33,
       "precoPromocao": 24.99,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006221043?v=1793224014468",
       "tarja": "V",
       "substancia": "ETINILESTRADIOL;ACETATO DE CIPROTERONA",
@@ -44638,7 +44638,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897947600928?v=1790989168709"
     },
     {
@@ -45611,7 +45611,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 38.86,
       "precoPromocao": 32.99,
-      "estoque": 26,
+      "estoque": 25,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896422512145?v=1793743154852",
       "tarja": "L",
       "confirmarReceita": true,
@@ -46649,7 +46649,7 @@
       "categoria": "VAREJO",
       "precoVenda": 3,
       "precoPromocao": 0,
-      "estoque": 3004,
+      "estoque": 2994,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0000001023268?v=1789767133563"
     },
     {
@@ -48242,7 +48242,7 @@
       "categoria": "GENERICO",
       "precoVenda": 69.99,
       "precoPromocao": 48.99,
-      "estoque": 16,
+      "estoque": 15,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317017675?v=1793223444737",
       "tarja": "V",
       "substancia": "RIVAROXABANA",
@@ -49655,7 +49655,7 @@
       "categoria": "FORMULA LEITE",
       "precoVenda": 11.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891000357019?v=1789766620375"
     },
     {
@@ -50156,7 +50156,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 7.99,
       "precoPromocao": 0,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896049528574?v=1786847487793"
     },
     {
@@ -50284,7 +50284,7 @@
       "categoria": "CARTELADOS",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 49,
+      "estoque": 48,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896015511166?v=1793224227735"
     },
     {
@@ -51748,7 +51748,7 @@
       "categoria": "CARTELADOS",
       "precoVenda": 6.89,
       "precoPromocao": 0,
-      "estoque": 22,
+      "estoque": 21,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094922273?v=1793224233255"
     },
     {
@@ -53105,7 +53105,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 15.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7893095103342?v=1786846846322"
     },
     {
@@ -53626,7 +53626,7 @@
       "categoria": "GENERICO",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 172,
+      "estoque": 171,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164010844?v=1793223454661"
     },
     {
@@ -54267,7 +54267,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 8.99,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896444210647?v=1789766106850"
     },
     {
@@ -55710,7 +55710,7 @@
       "categoria": "CARTELADOS",
       "precoVenda": 5.25,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896094922365?v=1793224239276"
     },
     {
@@ -55935,7 +55935,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 14.99,
       "precoPromocao": 0,
-      "estoque": 998,
+      "estoque": 997,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714207551?v=1793223457320",
       "tarja": "L",
       "substancia": "DIPIRONA MONOIDRATADA",
@@ -59128,7 +59128,7 @@
       "categoria": "DERMOCOSMETICO",
       "precoVenda": 59.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/609963220694?v=1793224245470"
     },
     {
@@ -63494,7 +63494,7 @@
       "categoria": "VAREJO",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7908470005002?v=1786846777811"
     },
     {
@@ -65212,7 +65212,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 105.37,
       "precoPromocao": 39.95,
-      "estoque": 30,
+      "estoque": 29,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112406259?v=1793223468280",
       "tarja": "R",
       "receitaRemota": true,
@@ -66246,7 +66246,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 6.99,
       "precoPromocao": 0,
-      "estoque": 948,
+      "estoque": 945,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714296074?v=1793223470472",
       "tarja": "L",
       "substancia": "DIPIRONA",
@@ -72743,7 +72743,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 10,
+      "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899970402876?v=1789765706258"
     },
     {
@@ -74916,7 +74916,7 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 8.99,
       "precoPromocao": 0,
-      "estoque": 86,
+      "estoque": 85,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898971945184?v=1789766498334"
     },
     {
@@ -80442,7 +80442,7 @@
       "categoria": "GENERICO",
       "precoVenda": 6.99,
       "precoPromocao": 0,
-      "estoque": 14,
+      "estoque": 11,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891058005733?v=1793223491063"
     },
     {
@@ -80931,7 +80931,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 2.99,
       "precoPromocao": 0,
-      "estoque": 95,
+      "estoque": 92,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898996362508?v=1786846547653"
     },
     {
@@ -85279,7 +85279,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 387,
+      "estoque": 386,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896053470173?v=1789766729921"
     },
     {
@@ -85463,7 +85463,7 @@
       "categoria": "PREMIUM 10",
       "precoVenda": 34.9,
       "precoPromocao": 0,
-      "estoque": 170,
+      "estoque": 169,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714225586?v=1793224069917",
       "tarja": "V",
       "substancia": "BETAMETASONA;MALEATO DE DEXCLORFENIRAMINA",
@@ -86918,7 +86918,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 98,
+      "estoque": 97,
       "imagem": ""
     },
     {
@@ -94706,7 +94706,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 13,
+      "estoque": 12,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095265943?v=1790680110166",
       "tarja": "P",
       "bloqueioPresencial": true,
@@ -94857,7 +94857,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 149.99,
       "precoPromocao": 89.99,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/8903855073125?v=1790176485623",
       "tarja": "R",
       "receitaRemota": true,
