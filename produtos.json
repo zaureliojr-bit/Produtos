@@ -4743,7 +4743,7 @@
       "categoria": "GENERICO",
       "precoVenda": 35.98,
       "precoPromocao": 34.99,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004702216?v=1790176370007",
       "tarja": "R",
       "confirmarReceita": true,
@@ -11160,7 +11160,7 @@
       "categoria": "GENERICO",
       "precoVenda": 18.83,
       "precoPromocao": 12.99,
-      "estoque": 35,
+      "estoque": 34,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095233546?v=1793223370540"
     },
     {
@@ -13464,7 +13464,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 14.99,
       "precoPromocao": 6.99,
-      "estoque": 1012,
+      "estoque": 1011,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714226705?v=1793223384929",
       "tarja": "V",
       "substancia": "CITRATO DE SILDENAFILA",
@@ -14660,7 +14660,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 16.99,
       "precoPromocao": 14.99,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899095220928?v=1793743053436",
       "tarja": "L",
       "substancia": "SULFATO DE ZINCO HEPTAIDRATADO",
@@ -24661,7 +24661,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 10.99,
       "precoPromocao": 0,
-      "estoque": 17,
+      "estoque": 16,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896222720030?v=1790983220933"
     },
     {
@@ -27357,7 +27357,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 14.99,
       "precoPromocao": 0,
-      "estoque": 87,
+      "estoque": 86,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523206790?v=1793223997548"
     },
     {
@@ -37406,7 +37406,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 23.3,
       "precoPromocao": 12.99,
-      "estoque": 18,
+      "estoque": 16,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523216812?v=1793224007723",
       "tarja": "V",
       "substancia": "LEVONORGESTREL",
@@ -43497,7 +43497,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 102.1,
       "precoPromocao": 14.99,
-      "estoque": 18,
+      "estoque": 15,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896523227443?v=1790176476936",
       "tarja": "V",
       "substancia": "TADALAFILA",
@@ -47365,7 +47365,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/611269991000?v=1789766904067"
     },
     {
@@ -50050,7 +50050,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 22.99,
       "precoPromocao": 0,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896222721181?v=1789766829574"
     },
     {
@@ -53308,7 +53308,7 @@
       "categoria": "PREMIUM 10",
       "precoVenda": 34.14,
       "precoPromocao": 8.99,
-      "estoque": 33,
+      "estoque": 32,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164008735?v=1793224028503"
     },
     {
@@ -88911,7 +88911,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 595,
+      "estoque": 594,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896053470173?v=1789766729921"
     },
     {
@@ -93469,7 +93469,7 @@
       "categoria": "GENERICO",
       "precoVenda": 39.99,
       "precoPromocao": 29.99,
-      "estoque": 10,
+      "estoque": 8,
       "imagem": "",
       "tarja": "V",
       "confirmarReceita": true,
@@ -133755,7 +133755,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 1.99,
       "precoPromocao": 0,
-      "estoque": 284,
+      "estoque": 281,
       "imagem": ""
     },
     {
