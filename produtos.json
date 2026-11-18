@@ -2102,7 +2102,7 @@
       "categoria": "ETICO CONTROLADO",
       "precoVenda": 166.44,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896676406184?v=1790177706733",
       "tarja": "P",
       "bloqueioPresencial": true,
@@ -2163,7 +2163,7 @@
       "marca": "TAKEDA PHARMA",
       "laboratorio": "TAKEDA PHARMA",
       "categoria": "ETICO",
-      "precoVenda": 110.51,
+      "precoVenda": 109.56,
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896641801792?v=1793224106951",
@@ -2533,7 +2533,7 @@
       "marca": "MERCK",
       "laboratorio": "MERCK",
       "categoria": "ETICO",
-      "precoVenda": 30.97,
+      "precoVenda": 31.95,
       "precoPromocao": 0,
       "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891721000614?v=1793224110121",
@@ -5573,7 +5573,7 @@
       "categoria": "ETICO CONTROLADO",
       "precoVenda": 61.75,
       "precoPromocao": 0,
-      "estoque": 11,
+      "estoque": 10,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896676406177?v=1793223937224",
       "tarja": "P",
       "bloqueioPresencial": true,
@@ -9046,7 +9046,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 31.48,
       "precoPromocao": 0,
-      "estoque": 9,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004716671?v=1793223358008",
       "tarja": "V",
       "confirmarReceita": true,
@@ -14863,7 +14863,7 @@
       "categoria": "GENERICO",
       "precoVenda": 39.99,
       "precoPromocao": 29.99,
-      "estoque": 61,
+      "estoque": 60,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898912189097?v=1793223388492",
       "tarja": "R",
       "confirmarReceita": true,
@@ -20737,7 +20737,7 @@
       "categoria": "GENERICO",
       "precoVenda": 39.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112102700?v=1793223422038",
       "tarja": "R",
       "confirmarReceita": true,
@@ -24566,7 +24566,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 22,
+      "estoque": 21,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896007542437?v=1786846515042"
     },
     {
@@ -24650,7 +24650,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 11.99,
       "precoPromocao": 0,
-      "estoque": 16,
+      "estoque": 14,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896222720030?v=1790983220933"
     },
     {
@@ -25734,7 +25734,7 @@
       "marca": "P&G",
       "laboratorio": "P&G",
       "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 32.99,
+      "precoVenda": 34.99,
       "precoPromocao": 0,
       "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7501001109653?v=1789766261110"
@@ -28384,7 +28384,7 @@
       "marca": "P&G",
       "laboratorio": "P&G",
       "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 23.99,
+      "precoVenda": 22.99,
       "precoPromocao": 0,
       "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7506339337525?v=1789766259197"
@@ -32243,7 +32243,7 @@
       "marca": "P&G",
       "laboratorio": "P&G",
       "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 39.99,
+      "precoVenda": 34.99,
       "precoPromocao": 0,
       "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7501001109660?v=1792850097144"
@@ -32599,7 +32599,7 @@
       "categoria": "VAREJO",
       "precoVenda": 12.95,
       "precoPromocao": 0,
-      "estoque": 13,
+      "estoque": 12,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896224410137?v=1790983648456"
     },
     {
@@ -34210,7 +34210,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896331705263?v=1790983729655"
     },
     {
@@ -37301,7 +37301,7 @@
       "marca": "P&G",
       "laboratorio": "P&G",
       "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 24.99,
+      "precoVenda": 22.99,
       "precoPromocao": 0,
       "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7506339326031?v=1790983885353"
@@ -43920,7 +43920,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 7.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896007540259?v=1789765645173"
     },
     {
@@ -47154,7 +47154,7 @@
       "marca": "SERVIER",
       "laboratorio": "SERVIER",
       "categoria": "ETICO",
-      "precoVenda": 220.81,
+      "precoVenda": 189.99,
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898029558755?v=1790177862009",
@@ -49430,7 +49430,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 24.51,
       "precoPromocao": 15.99,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112160281?v=1793743173893",
       "tarja": "L",
       "substancia": "IBUPROFENO",
@@ -52216,7 +52216,7 @@
       "precoVenda": 17.99,
       "precoPromocao": 0,
       "estoque": 2,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896902211209?v=1794863046427"
     },
     {
       "codigo": "042249",
@@ -52335,7 +52335,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 9.99,
       "precoPromocao": 8.99,
-      "estoque": 12,
+      "estoque": 11,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899674039569?v=1786847397322"
     },
     {
@@ -55960,7 +55960,7 @@
       "marca": "P&G",
       "laboratorio": "P&G",
       "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 29.99,
+      "precoVenda": 36.99,
       "precoPromocao": 0,
       "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435170024?v=1789767041208"
@@ -57029,7 +57029,7 @@
       "marca": "GILLETTE",
       "laboratorio": "GILLETTE",
       "categoria": "DESODORANTE",
-      "precoVenda": 37.99,
+      "precoVenda": 36.99,
       "precoPromocao": 0,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435129367?v=1787240386881"
@@ -66171,7 +66171,7 @@
       "precoVenda": 89.68,
       "precoPromocao": 0,
       "estoque": 1,
-      "imagem": "",
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896261018310?v=1794863146107",
       "tarja": "L",
       "substancia": "DICLOFENACO DIETILAMÔNIO",
       "registroAnvisa": "1929000080110",
@@ -66334,7 +66334,7 @@
       "categoria": "GENERICO",
       "precoVenda": 68.01,
       "precoPromocao": 24.99,
-      "estoque": 14,
+      "estoque": 13,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004784342?v=1793743225566",
       "tarja": "L",
       "substancia": "CLORIDRATO DE FEXOFENADINA",
@@ -66593,7 +66593,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 23.09,
       "precoPromocao": 12.99,
-      "estoque": 145,
+      "estoque": 144,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898079009122?v=1793224044166",
       "tarja": "V",
       "substancia": "LEVONORGESTREL",
@@ -68359,7 +68359,7 @@
       "marca": "Pampers",
       "laboratorio": "P&G",
       "categoria": "FR INFANTIL",
-      "precoVenda": 99.99,
+      "precoVenda": 74.99,
       "precoPromocao": 0,
       "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435250191?v=1789766181184"
@@ -70531,7 +70531,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 22.51,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896004791081?v=1790680094172",
       "tarja": "V",
       "substancia": "MESILATO DE DI-HIDROERGOTAMINA;DIPIRONA MONOIDRATADA;CAFEÍNA",
@@ -80449,7 +80449,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4006000178851?v=1789765891790"
     },
     {
@@ -86534,7 +86534,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 7.99,
       "precoPromocao": 0,
-      "estoque": 40,
+      "estoque": 39,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896138700447?v=1789767107225"
     },
     {
@@ -100038,7 +100038,7 @@
       "precoVenda": 8.99,
       "precoPromocao": 0,
       "estoque": 12,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7702018880409?v=1793225748762"
     },
     {
       "codigo": "020004",
@@ -100258,10 +100258,10 @@
       "marca": "DIVERSOS",
       "laboratorio": "DIVERSOS",
       "categoria": "PERFUMARIA",
-      "precoVenda": 25.99,
+      "precoVenda": 22.99,
       "precoPromocao": 0,
       "estoque": 3,
-      "imagem": ""
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7800005082024?v=1794255145957"
     },
     {
       "codigo": "020623",
@@ -102100,7 +102100,7 @@
       "marca": "GILLETTE",
       "laboratorio": "GILLETTE",
       "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 39.99,
+      "precoVenda": 34.99,
       "precoPromocao": 0,
       "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435121736?v=1794255157892"
@@ -112498,7 +112498,7 @@
       "categoria": "ETICO",
       "precoVenda": 16.99,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898636193882?v=1793224240406"
     },
     {
@@ -130890,7 +130890,7 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7908103756554?v=1786846802161"
     },
     {
@@ -150226,7 +150226,7 @@
       "marca": "DIVERSOS",
       "laboratorio": "DIVERSOS",
       "categoria": "HIGIENE PESSOAL",
-      "precoVenda": 24.99,
+      "precoVenda": 23.99,
       "precoPromocao": 0,
       "estoque": 3,
       "imagem": ""
@@ -154163,6 +154163,106 @@
       "precoPromocao": 0,
       "estoque": 12,
       "imagem": ""
+    },
+    {
+      "codigo": "000284",
+      "ean": "7897316806791",
+      "descricao": "Lacril Solucao Oftalmica 1.4% 15ml",
+      "marca": "ALLERGAN",
+      "laboratorio": "ALLERGAN",
+      "categoria": "ETICO",
+      "precoVenda": 38.02,
+      "precoPromocao": 0,
+      "estoque": 1,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897316806791?v=1790952433508"
+    },
+    {
+      "codigo": "041785",
+      "ean": "7896009498428",
+      "descricao": "Advil 400mg Caixa com 8 Cap (Imp)",
+      "marca": "PFIZER CONSUMER",
+      "laboratorio": "PFIZER CONSUMER",
+      "categoria": "ETICO",
+      "precoVenda": 9.99,
+      "precoPromocao": 0,
+      "estoque": 294,
+      "imagem": ""
+    },
+    {
+      "codigo": "050538",
+      "ean": "7891066002625",
+      "descricao": "Soro Fisiologico 250ml Lbs",
+      "marca": "DIVERSOS",
+      "laboratorio": "DIVERSOS",
+      "categoria": "HIGIENE PESSOAL",
+      "precoVenda": 5.99,
+      "precoPromocao": 0,
+      "estoque": 24,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891066002625?v=1790980025275"
+    },
+    {
+      "codigo": "051488",
+      "ean": "7500435256438",
+      "descricao": "Desodorante Em Gel Secret Clinical Strength Algodao Ph Balanced 45g",
+      "marca": "DIVERSOS",
+      "laboratorio": "DIVERSOS",
+      "categoria": "HIGIENE PESSOAL",
+      "precoVenda": 36.99,
+      "precoPromocao": 0,
+      "estoque": 4,
+      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435256438?v=1786847347938"
+    },
+    {
+      "codigo": "052745",
+      "ean": "7898639693839",
+      "descricao": "Auto Lanceta Mini 21g - Gtech",
+      "marca": "G.TECH",
+      "laboratorio": "G.TECH",
+      "categoria": "PERFUMARIA",
+      "precoVenda": 34.99,
+      "precoPromocao": 0,
+      "estoque": 3,
+      "imagem": ""
+    },
+    {
+      "codigo": "052746",
+      "ean": "752785109859",
+      "descricao": "Auto Lanceta 28g - Bioland 100 Unid",
+      "marca": "DIVERSOS",
+      "laboratorio": "DIVERSOS",
+      "categoria": "PERFUMARIA",
+      "precoVenda": 34.99,
+      "precoPromocao": 0,
+      "estoque": 3,
+      "imagem": ""
+    },
+    {
+      "codigo": "052747",
+      "ean": "7500435264846",
+      "descricao": "Esc Dental Oral-B Iconic Ultra Sens Com/2",
+      "marca": "P&G",
+      "laboratorio": "P&G",
+      "categoria": "HIGIENE PESSOAL",
+      "precoVenda": 33.99,
+      "precoPromocao": 0,
+      "estoque": 2,
+      "imagem": ""
+    },
+    {
+      "codigo": "052748",
+      "ean": "7794640173691",
+      "descricao": "Sal De Fruta Eno Morango 2env 5g",
+      "marca": "GLAXOSMITHK",
+      "laboratorio": "GLAXOSMITHK",
+      "categoria": "ETICO",
+      "precoVenda": 5.99,
+      "precoPromocao": 0,
+      "estoque": 30,
+      "imagem": "",
+      "tarja": "L",
+      "substancia": "ÁCIDO CÍTRICO;BICARBONATO DE SÓDIO;CARBONATO DE SÓDIO",
+      "registroAnvisa": "1929000031101",
+      "classeTerapeutica": "A2A1 - ANTIÁCIDOS PUROS"
     }
   ]
 }
