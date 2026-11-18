@@ -4803,7 +4803,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 54.27,
       "precoPromocao": 29.99,
-      "estoque": 20,
+      "estoque": 19,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112147640?v=1793223933018",
       "tarja": "V",
       "substancia": "SULFATO DE SALBUTAMOL",
@@ -11921,7 +11921,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 9.99,
       "precoPromocao": 6.99,
-      "estoque": 319,
+      "estoque": 316,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714208565?v=1793223377337",
       "tarja": "V",
       "substancia": "LOSARTANA POTÁSSICA",
@@ -14016,7 +14016,7 @@
       "categoria": "ANTICONCEPCIONAL",
       "precoVenda": 13.28,
       "precoPromocao": 11.5,
-      "estoque": 9,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891106913997?v=1793224157644"
     },
     {
@@ -25197,7 +25197,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0000078925472?v=1791718905762"
     },
     {
@@ -26833,7 +26833,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 17.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 3,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896020160069?v=1790983308394"
     },
     {
@@ -34097,7 +34097,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 9.99,
       "precoPromocao": 8.99,
-      "estoque": 16,
+      "estoque": 15,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899674022011?v=1790983699622"
     },
     {
@@ -54267,7 +54267,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 8.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896444210647?v=1789766106850"
     },
     {
@@ -59044,7 +59044,7 @@
       "categoria": "DERMOCOSMETICO",
       "precoVenda": 69.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/736532824844?v=1787239845982"
     },
     {
@@ -59080,7 +59080,7 @@
       "categoria": "DERMOCOSMETICO",
       "precoVenda": 96.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/609963220243?v=1793224244778"
     },
     {
