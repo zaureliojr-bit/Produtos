@@ -9868,7 +9868,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 37.98,
       "precoPromocao": 29.99,
-      "estoque": 9,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896006261308?v=1793223362445",
       "tarja": "R",
       "confirmarReceita": true,
@@ -12908,7 +12908,7 @@
       "categoria": "ETICO",
       "precoVenda": 18.66,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891035010842?v=1793743032316",
       "tarja": "L",
       "substancia": "FLURBIPROFENO",
@@ -18562,7 +18562,7 @@
       "categoria": "GENERICO",
       "precoVenda": 20.21,
       "precoPromocao": 11.99,
-      "estoque": 9,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898216366309?v=1790176474900",
       "tarja": "V",
       "substancia": "SINVASTATINA",
@@ -26579,7 +26579,7 @@
       "categoria": "VAREJO",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 16,
+      "estoque": 15,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896902211544?v=1789766486114",
       "subcategoria": "ÁGUA OXIGENADA"
     },
@@ -30484,7 +30484,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 25.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891150050105?v=1790983517891"
     },
     {
@@ -33147,7 +33147,7 @@
       "categoria": "PREMIUM 10",
       "precoVenda": 60.13,
       "precoPromocao": 39.99,
-      "estoque": 9,
+      "estoque": 8,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112102441?v=1793224004740"
     },
     {
@@ -34682,7 +34682,7 @@
       "categoria": "FR INFANTIL",
       "precoVenda": 39.99,
       "precoPromocao": 0,
-      "estoque": 107,
+      "estoque": 106,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896061995910?v=1792850126318",
       "subcategoria": "INFANTIL"
     },
@@ -37724,7 +37724,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898079006404?v=1792850405110",
       "subcategoria": "PRESERVATIVO"
     },
@@ -39354,7 +39354,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 34.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891150050143?v=1790983938123"
     },
     {
@@ -40731,7 +40731,7 @@
       "categoria": "VAREJO",
       "precoVenda": 0.5,
       "precoPromocao": 0,
-      "estoque": 611,
+      "estoque": 609,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/78909830?v=1791718990970"
     },
     {
@@ -43420,7 +43420,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 2.99,
       "precoPromocao": 0,
-      "estoque": 16,
+      "estoque": 15,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898142865082?v=1790984131097"
     },
     {
@@ -44758,7 +44758,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 7.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891800540406?v=1789767667498",
       "subcategoria": "CURATIVO"
     },
@@ -51545,7 +51545,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 52,
+      "estoque": 51,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896472520206?v=1793224024356",
       "tarja": "L",
       "substancia": "MALEATO DE CLORFENIRAMINA;CLORIDRATO DE FENILEFRINA;PARACETAMOL",
@@ -56930,7 +56930,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953981377?v=1794347565435"
     },
     {
@@ -56990,7 +56990,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 89.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898953980851?v=1790989191081"
     },
     {
@@ -58423,7 +58423,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 69.99,
       "precoPromocao": 0,
-      "estoque": 37,
+      "estoque": 36,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716457217?v=1790265145108"
     },
     {
@@ -63512,7 +63512,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 18.99,
       "precoPromocao": 0,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891058005481?v=1793223467375",
       "tarja": "V",
       "substancia": "CLORIDRATO DE NARATRIPTANA",
@@ -69618,7 +69618,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 69.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898714761927?v=1790265021922"
     },
     {
@@ -70580,7 +70580,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 5.99,
       "precoPromocao": 0,
-      "estoque": 14,
+      "estoque": 13,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7622210563538?v=1789767355389"
     },
     {
@@ -73668,7 +73668,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/4006000181936?v=1786847506700",
       "subcategoria": "ROLL ON"
     },
@@ -82397,7 +82397,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 88.6,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/040141149497?v=1793224062704"
     },
     {
@@ -84797,7 +84797,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 49.99,
       "precoPromocao": 0,
-      "estoque": 15,
+      "estoque": 14,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700721256?v=1790264994038"
     },
     {
@@ -98115,7 +98115,7 @@
       "categoria": "GENERICO",
       "precoVenda": 24.99,
       "precoPromocao": 19.99,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896181914280?v=1793223364498",
       "tarja": "V",
       "substancia": "FOSFATO SÓDICO DE PREDNISOLONA",
@@ -155656,7 +155656,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 1.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": ""
     },
     {
@@ -156492,7 +156492,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 39.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7500435268813?v=1795207187362"
     },
     {
