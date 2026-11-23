@@ -31056,18 +31056,6 @@
       "subcategoria": "CONDICIONADOR"
     },
     {
-      "codigo": "026816",
-      "ean": "0048675991063",
-      "descricao": "Binco Supermaxxi",
-      "marca": "DIVERSOS",
-      "laboratorio": "DIVERSOS",
-      "categoria": "PERFUMARIA",
-      "precoVenda": 19.99,
-      "precoPromocao": 0,
-      "estoque": 16,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0048675991063?v=1789765717506"
-    },
-    {
       "codigo": "026825",
       "ean": "7899442600373",
       "descricao": "Pata De Vaca Ref 137",
@@ -158700,5 +158688,8 @@
       "imagem": "",
       "subcategoria": "BALA"
     }
+  ],
+  "duplicidadesExcluidas": [
+    "[\"026816\",\"0048675991063\"]"
   ]
 }
