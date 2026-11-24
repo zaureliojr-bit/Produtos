@@ -12923,7 +12923,7 @@
       "categoria": "ETICO",
       "precoVenda": 34.08,
       "precoPromocao": 0,
-      "estoque": 11,
+      "estoque": 10,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891035010866?v=1793743033263",
       "tarja": "L",
       "substancia": "FLURBIPROFENO",
@@ -25517,7 +25517,7 @@
       "categoria": "LINHA INFANTIL",
       "precoVenda": 28.99,
       "precoPromocao": 0,
-      "estoque": 1,
+      "estoque": 0,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896036524121?v=1786846980655",
       "subcategoria": "MAMADEIRA"
     },
@@ -36100,7 +36100,7 @@
       "categoria": "GENERICO",
       "precoVenda": 39.77,
       "precoPromocao": 17.99,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891317180539?v=1793223429979",
       "tarja": "V",
       "substancia": "DESOGESTREL",
@@ -38379,7 +38379,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896044954538?v=1789766344722",
       "subcategoria": "HIDRATANTE"
     },
@@ -40850,7 +40850,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 223,
+      "estoque": 222,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896914011217?v=1790984003702"
     },
     {
@@ -47122,7 +47122,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 16.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896036548271?v=1786846900454",
       "subcategoria": "BABY SILICONE"
     },
@@ -47932,7 +47932,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 24.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896044997191?v=1786846753970",
       "subcategoria": "BODY SPLASH"
     },
@@ -136152,7 +136152,7 @@
       "categoria": "GENERICO",
       "precoVenda": 52.32,
       "precoPromocao": 29.99,
-      "estoque": 20,
+      "estoque": 19,
       "imagem": "",
       "tarja": "R",
       "confirmarReceita": true,
