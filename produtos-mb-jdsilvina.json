@@ -38272,18 +38272,6 @@
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896000629012?v=1790984000125"
     },
     {
-      "codigo": "032355",
-      "ean": "78909830",
-      "descricao": "Agulha 7x30mm Und",
-      "marca": "B.D",
-      "laboratorio": "B.D",
-      "categoria": "VAREJO",
-      "precoVenda": 0.5,
-      "precoPromocao": 0,
-      "estoque": 644,
-      "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/78909830?v=1791718990970"
-    },
-    {
       "codigo": "032363",
       "ean": "7896699029575",
       "descricao": "Ch Lolly Clean C5115-01 N?2 Or Sl Rosa",
@@ -127465,5 +127453,8 @@
       "registroAnvisa": "1053502270035",
       "classeTerapeutica": "N5A1 - ANTIPSICÓTICOS ATÍPICOS"
     }
+  ],
+  "duplicidadesExcluidas": [
+    "[\"032355\",\"78909830\"]"
   ]
 }
