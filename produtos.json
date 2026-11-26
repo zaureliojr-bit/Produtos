@@ -14109,7 +14109,7 @@
       "categoria": "ETICO",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 33,
+      "estoque": 31,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896227800812?v=1793224155748",
       "tarja": "L",
       "substancia": "LEVOMENTOL;CÂNFORA;SALICILATO DE METILA",
@@ -15076,7 +15076,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 59.31,
       "precoPromocao": 34.99,
-      "estoque": 41,
+      "estoque": 40,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898146825280?v=1793223390659",
       "tarja": "R",
       "receitaRemota": true,
@@ -39583,7 +39583,7 @@
       "categoria": "GENERICO",
       "precoVenda": 59.99,
       "precoPromocao": 33.99,
-      "estoque": 20,
+      "estoque": 19,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898148298372?v=1793223432768",
       "tarja": "V",
       "confirmarReceita": true,
@@ -47636,7 +47636,7 @@
       "categoria": "ETICO",
       "precoVenda": 84.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7897129304606?v=1790177682967"
     },
     {
@@ -58890,7 +58890,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 39.99,
       "precoPromocao": 0,
-      "estoque": 0,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898716450454?v=1790265047548"
     },
     {
@@ -80317,7 +80317,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/0050067?v=1792850334920"
     },
     {
@@ -83876,7 +83876,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 74.99,
       "precoPromocao": 0,
-      "estoque": 4,
+      "estoque": 11,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898700720372?v=1794347458306"
     },
     {
@@ -92511,7 +92511,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 68.99,
       "precoPromocao": 29.99,
-      "estoque": 12,
+      "estoque": 10,
       "imagem": "",
       "tarja": "V",
       "substancia": "CIPROFIBRATO",
@@ -96420,7 +96420,7 @@
       "categoria": "SIMILAR",
       "precoVenda": 13.99,
       "precoPromocao": 0,
-      "estoque": 32,
+      "estoque": 30,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896112148685?v=1793223929872",
       "tarja": "V",
       "substancia": "CLORIDRATO DE PROMETAZINA",
