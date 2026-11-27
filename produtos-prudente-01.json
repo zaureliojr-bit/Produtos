@@ -22390,7 +22390,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 19.99,
       "precoPromocao": 0,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896222717788?v=1790983070631"
     },
     {
@@ -24016,7 +24016,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 12.99,
       "precoPromocao": 0,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891037010048?v=1790983168462",
       "subcategoria": "CREME DE PENTEAR"
     },
@@ -37907,7 +37907,7 @@
       "categoria": "PERFUMARIA",
       "precoVenda": 2.49,
       "precoPromocao": 0,
-      "estoque": 227,
+      "estoque": 226,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891463000347?v=1791718972808"
     },
     {
@@ -40586,7 +40586,7 @@
       "categoria": "VAREJO",
       "precoVenda": 0.5,
       "precoPromocao": 0,
-      "estoque": 558,
+      "estoque": 556,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/78909830?v=1791718990970"
     },
     {
@@ -49743,7 +49743,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 24.44,
       "precoPromocao": 0,
-      "estoque": 8,
+      "estoque": 7,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896714274058?v=1793223446660",
       "tarja": "R",
       "receitaRemota": true,
@@ -81781,7 +81781,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 89.99,
       "precoPromocao": 0,
-      "estoque": 14,
+      "estoque": 13,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896007549269?v=1793136439796",
       "subcategoria": "INFANTIL"
     },
@@ -82178,7 +82178,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 2.99,
       "precoPromocao": 0,
-      "estoque": 100,
+      "estoque": 96,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898996362508?v=1786846547653"
     },
     {
