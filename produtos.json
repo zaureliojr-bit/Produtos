@@ -202,7 +202,7 @@
       "categoria": "ETICO",
       "precoVenda": 29.99,
       "precoPromocao": 0,
-      "estoque": 34,
+      "estoque": 33,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896026301428?v=1793224086881"
     },
     {
@@ -1137,7 +1137,7 @@
       "categoria": "ETICO",
       "precoVenda": 28.96,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 5,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7896637022439?v=1793224094934",
       "confirmarReceita": true,
       "substancia": "NEOMICINA;HIALURONIDASE;LIDOCAÍNA",
@@ -15775,7 +15775,7 @@
       "categoria": "GENER/SIMILAR S/GT",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 6,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7894164001132?v=1790680089039"
     },
     {
@@ -32679,7 +32679,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 9.99,
       "precoPromocao": 0,
-      "estoque": 5,
+      "estoque": 4,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898079000303?v=1790983632619"
     },
     {
@@ -49449,7 +49449,7 @@
       "categoria": "FORMULA LEITE",
       "precoVenda": 11.99,
       "precoPromocao": 0,
-      "estoque": 269,
+      "estoque": 268,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7891000356890?v=1789766620907",
       "subcategoria": "SUPLEMENTO"
     },
@@ -53477,7 +53477,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 9.99,
       "precoPromocao": 8.99,
-      "estoque": 40,
+      "estoque": 39,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899674039576?v=1786847395231",
       "subcategoria": "AEROSSOL"
     },
@@ -56532,7 +56532,7 @@
       "categoria": "ETICO",
       "precoVenda": 16.99,
       "precoPromocao": 0,
-      "estoque": 7,
+      "estoque": 6,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7898636193974?v=1793224242362"
     },
     {
@@ -82327,7 +82327,7 @@
       "categoria": "HIGIENE PESSOAL",
       "precoVenda": 9.99,
       "precoPromocao": 8.99,
-      "estoque": 3,
+      "estoque": 2,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7899674042873?v=1786847410567",
       "subcategoria": "AEROSSOL"
     },
@@ -91351,7 +91351,7 @@
       "categoria": "VITAMINAS",
       "precoVenda": 113.9,
       "precoPromocao": 79.99,
-      "estoque": 82,
+      "estoque": 81,
       "imagem": ""
     },
     {
@@ -95435,7 +95435,7 @@
       "categoria": "CONVENIENCIA",
       "precoVenda": 3.49,
       "precoPromocao": 0,
-      "estoque": 11,
+      "estoque": 9,
       "imagem": "https://farmatech-imagens-proxy.zaureliojr.workers.dev/7895144892931?v=1790983824920"
     },
     {
@@ -133013,7 +133013,7 @@
       "categoria": "VAREJO",
       "precoVenda": 4.99,
       "precoPromocao": 0,
-      "estoque": 2,
+      "estoque": 1,
       "imagem": ""
     },
     {
